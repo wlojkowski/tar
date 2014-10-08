@@ -71,14 +71,18 @@ class Customer
 
 end
 
-# Przykład użycia
+if __FILE__ == $PROGRAM_NAME
 
-movie1 = Movie.new("Milion sposobów, jak zginąć na Zachodzie", Movie::NEW_RELEASE)
-movie2 = Movie.new("Uśpieni", Movie::CHILDRENS)
+  # przykład użycia
 
-customer = Customer.new "Włodek"
+  movie1 = Movie.new("Milion sposobów, jak zginąć na Zachodzie", Movie::NEW_RELEASE)
+  movie2 = Movie.new("Uśpieni", Movie::CHILDRENS)
 
-customer.add_rental Rental.new(movie1, 4)
-customer.add_rental Rental.new(movie2, 6)
+  customer = Customer.new "Włodek"
 
-puts customer.statement
+  customer.add_rental Rental.new(movie1, 4)
+  customer.add_rental Rental.new(movie2, 6)
+
+  puts customer.statement
+
+end
