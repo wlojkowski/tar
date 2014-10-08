@@ -52,15 +52,15 @@ class Customer
     total_amount, frequent_renter_points = 0.0, 0
     result = "Rental Record for #{@name}\n"
 
-    @rentals.each do |element|
-      this_amount = element.charge
+    @rentals.each do |rental|
+      this_amount = rental.charge
 
       frequent_renter_points += 1
-      if element.movie.price_code = Movie::NEW_RELEASE && element.days_rented > 1
+      if rental.movie.price_code = Movie::NEW_RELEASE && rental.days_rented > 1
         frequent_renter_points += 1
       end
 
-      result += "\t" + element.movie.title + "\t" + this_amount.to_s + "\n"
+      result += "\t" + rental.movie.title + "\t" + this_amount.to_s + "\n"
       total_amount += this_amount
     end
 
@@ -70,7 +70,7 @@ class Customer
   end
 end
 
-# Przykład użycia
+# przykład użycia
 
 movie1 = Movie.new("Milion sposobów, jak zginąć na Zachodzie", Movie::NEW_RELEASE)
 movie2 = Movie.new("Uśpieni", Movie::CHILDRENS)

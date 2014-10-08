@@ -83,7 +83,7 @@ class Customer
 
 end
 
-# Przykład użycia
+# przykład użycia
 
 movie1 = Movie.new("Milion sposobów, jak zginąć na Zachodzie", Movie::NEW_RELEASE)
 movie2 = Movie.new("Uśpieni", Movie::CHILDRENS)
