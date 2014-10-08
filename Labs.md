@@ -31,7 +31,7 @@ alias transfer=transfer
 * Learn X=Ruby Hash in Y=? minutes
 
 
-### 2. Tłumaczenia z języka Python na Ruby
+### 2. Z języka Python na język Ruby
 
 * [OpenCV](http://opencv.org/) – *Open Source Computer Vision Library*
   is an open source computer vision and machine learning software
@@ -43,3 +43,6 @@ alias transfer=transfer
 Zadania:
 
 1. [Przetłumaczyć na Ruby](labs/01-opencv).
+
+
+### 3. Wypożyczalnia Video (klasyka)
