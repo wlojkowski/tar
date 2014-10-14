@@ -1,6 +1,6 @@
 ## Testowanie aplikacji w Ruby, 2014/15
 
-[14.10.2014] – *czwartkowy wykład 16.10 odbędzie się
+[14.10.2014] – **czwartkowy wykład 16.10 odbędzie się
 w auli 3 o godz. 10.15.**
 
 ----
