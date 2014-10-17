@@ -41,7 +41,7 @@ class Customer
       this_amount = amount_for(rental) # case extracted and replaced with amount_for
 
       frequent_renter_points += 1
-      if rental.movie.price_code = Movie::NEW_RELEASE && rental.days_rented > 1
+      if rental.movie.price_code == Movie::NEW_RELEASE && rental.days_rented > 1
         frequent_renter_points += 1
       end
 
