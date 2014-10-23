@@ -91,7 +91,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Ochocki, Krzysztof
 1. Pluskota, Radosław
 1. Płotka, Magdalena
-1. Rzepniewski, Marcin
+1. Rzepniewski, Marcin. [Zadanie 1](https://github.com/mrzepniewski/Ruby)[Zadanie 2](https://docs.google.com/document/d/1jw7cwy8kZYEWmuXQmpPRev2K-_D7a-GhUL6K4P33i8o)
 1. Sadowski, Łukasz
 1. Siepetowski, Marcin. [Zadanie 2](https://github.com/siepet/rubyrubyruby/)
 1. Smogór, Tomasz [Zadania 1, 2](https://github.com/tsmogor/ruby)
