@@ -100,4 +100,4 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Tomczyk, Tomasz
 1. Wyszyński, Przemysław
 1. Zieliński, Kamil
-1. Zielke, Adam
+1. Zielke, Adam [Zadanie 2](https://github.com/F3sterski/rubypro1)
