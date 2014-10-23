@@ -57,9 +57,9 @@ i od jego rodzaju. Są trzy rodzaje filmów: zwykłe, dla dzieci
 i nowe. Dodatkowo, opłata zależy od tego czy mamy przyznane
 punkty za częste wypożyczenia i od tego czy film jest nowy.
 
-**Zadanie (Red ⇒ Green ⇒ Refactor)**
+**Zadanie:**
 
-Dopisujemy testy do swoich skryptów i czyścimy kod. Testy
+Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod. Testy
 podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 
 
@@ -94,7 +94,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Rzepniewski, Marcin
 1. Sadowski, Łukasz
 1. Siepetowski, Marcin. [Zadanie 2](https://github.com/siepet/rubyrubyruby/)
-1. Smogór, Tomasz
+1. Smogór, Tomasz [Zadania 1, 2](https://github.com/tsmogor/ruby)
 1. Socha, Bartłomiej
 1. Student, Dawid
 1. Szalay, Tamás
