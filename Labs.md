@@ -59,7 +59,8 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 
 **Zadanie:**
 
-* Poprawiamy nasze skrypty.
+Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod. Testy
+do kodu na Github podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 
 
 ## Lista
@@ -75,7 +76,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Hnatiuk, Ostap
 1. Jadanowski, Łukasz
 1. Jercha, Łukasz
-1. Jóźwiak, Małgorzata [Zadania 1, 2] (https://github.com/mjozwiak/ruby_lab_3)
+1. Jóźwiak, Małgorzata. [Zadania 1, 2](https://github.com/mjozwiak/ruby_lab_3)
 1. Kiełb, Michał
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz
@@ -84,7 +85,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Makowski, Łukasz
 1. Matuszewski, Jan
 1. Mielnikowski, Łukasz
-1. Mroczek, Przemysław [Zadania 1, 2](https://github.com/pmroczek/testowanie_repo/tree/master/WyszukiwanieWzorca)
+1. Mroczek, Przemysław. [Zadania 1, 2](https://github.com/pmroczek/testowanie_repo/tree/master/WyszukiwanieWzorca)
 1. Niemczyk, Radosław
 1. Nowosada, Wojciech
 1. Ochocki, Krzysztof
