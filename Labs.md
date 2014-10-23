@@ -100,5 +100,5 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Szalay, Tamás
 1. Tomczyk, Tomasz
 1. Wyszyński, Przemysław
-1. Zieliński, Kamil
+1. Zieliński, Kamil. [Zadanie 1,](https://github.com/laikkk/RubyScripts)[ Zadanie 2](https://github.com/laikkk/RubyInXMinutes)
 1. Zielke, Adam [Zadanie 2](https://github.com/F3sterski/rubypro1)
