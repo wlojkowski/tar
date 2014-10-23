@@ -67,7 +67,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 
 1. Adamaszek, Patryk
 1. Banaszak, Wojciech
-1. Bannach, Krzysztof
+1. Bannach, Krzysztof. [Zadanie 1, 2](https://github.com/kbannach/programy-ruby)
 1. Bowżyk, Michał
 1. Czerwiński, Mateusz. [Zadanie 2](https://github.com/mtczerwinski/testing-ruby)
 1. Człapiński, Bogusław
