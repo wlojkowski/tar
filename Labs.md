@@ -60,7 +60,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 **Zadanie:**
 
 Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod. Testy
-do kodu na Github podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
+podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 
 
 ## Lista
