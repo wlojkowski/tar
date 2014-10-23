@@ -68,7 +68,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Banaszak, Wojciech
 1. Bannach, Krzysztof
 1. Bowżyk, Michał
-1. Czerwiński, Mateusz
+1. Czerwiński, Mateusz [Zadanie 2](https://github.com/mtczerwinski/testing-ruby)
 1. Człapiński, Bogusław
 1. Grabowski, Marek
 1. Grzesiak, Daniel
