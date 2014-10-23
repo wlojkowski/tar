@@ -60,3 +60,44 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 **Zadanie:**
 
 * Poprawiamy nasze skrypty.
+
+
+## Lista
+
+1. Adamaszek, Patryk
+1. Banaszak, Wojciech
+1. Bannach, Krzysztof
+1. Bowżyk, Michał
+1. Czerwiński, Mateusz
+1. Człapiński, Bogusław
+1. Grabowski, Marek
+1. Grzesiak, Daniel
+1. Hnatiuk, Ostap
+1. Jadanowski, Łukasz
+1. Jercha, Łukasz
+1. Jóźwiak, Małgorzata
+1. Kiełb, Michał
+1. Kisły, Zbigniew
+1. Kliczkowski, Łukasz
+1. Krzyżanowski, Piotr
+1. Mackiewicz, Marcin
+1. Makowski, Łukasz
+1. Matuszewski, Jan
+1. Mielnikowski, Łukasz
+1. Mroczek, Przemysław
+1. Niemczyk, Radosław
+1. Nowosada, Wojciech
+1. Ochocki, Krzysztof
+1. Pluskota, Radosław
+1. Płotka, Magdalena
+1. Rzepniewski, Marcin
+1. Sadowski, Łukasz
+1. Siepetowski, Marcin
+1. Smogór, Tomasz
+1. Socha, Bartłomiej
+1. Student, Dawid
+1. Szalay, Tamás
+1. Tomczyk, Tomasz
+1. Wyszyński, Przemysław
+1. Zieliński, Kamil
+1. Zielke, Adam
