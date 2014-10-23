@@ -68,7 +68,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Banaszak, Wojciech
 1. Bannach, Krzysztof
 1. Bowżyk, Michał
-1. Czerwiński, Mateusz [Zadanie 2](https://github.com/mtczerwinski/testing-ruby)
+1. Czerwiński, Mateusz. [Zadanie 2](https://github.com/mtczerwinski/testing-ruby)
 1. Człapiński, Bogusław
 1. Grabowski, Marek
 1. Grzesiak, Daniel. [Zadania 1, 2](https://github.com/dgrzesiak/ruby)
@@ -79,7 +79,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Kiełb, Michał
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz
-1. Krzyżanowski, Piotr [Zadania 1, 2](https://github.com/pietter/Ruby)
+1. Krzyżanowski, Piotr. [Zadania 1, 2](https://github.com/pietter/Ruby)
 1. Mackiewicz, Marcin. [Zadania 1, 2](https://github.com/MaranX/ruby)
 1. Makowski, Łukasz
 1. Matuszewski, Jan
@@ -92,7 +92,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Płotka, Magdalena
 1. Rzepniewski, Marcin
 1. Sadowski, Łukasz
-1. Siepetowski, Marcin
+1. Siepetowski, Marcin. [Zadanie 2](https://github.com/siepet/rubyrubyruby/)
 1. Smogór, Tomasz
 1. Socha, Bartłomiej
 1. Student, Dawid
