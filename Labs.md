@@ -80,7 +80,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz
 1. Krzyżanowski, Piotr
-1. Mackiewicz, Marcin
+1. Mackiewicz, Marcin. [Zadania 1, 2](https://github.com/MaranX/ruby)
 1. Makowski, Łukasz
 1. Matuszewski, Jan
 1. Mielnikowski, Łukasz
