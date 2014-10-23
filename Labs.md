@@ -57,9 +57,9 @@ i od jego rodzaju. Są trzy rodzaje filmów: zwykłe, dla dzieci
 i nowe. Dodatkowo, opłata zależy od tego czy mamy przyznane
 punkty za częste wypożyczenia i od tego czy film jest nowy.
 
-**Zadanie:**
+**Zadanie (Red ⇒ Green ⇒ Refactor)**
 
-Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod. Testy
+Dopisujemy testy do swoich skryptów i czyścimy kod. Testy
 podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 
 
