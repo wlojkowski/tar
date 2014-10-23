@@ -71,7 +71,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Czerwiński, Mateusz [Zadanie 2](https://github.com/mtczerwinski/testing-ruby)
 1. Człapiński, Bogusław
 1. Grabowski, Marek
-1. Grzesiak, Daniel
+1. Grzesiak, Daniel. [Zadania 1, 2](https://github.com/dgrzesiak/ruby)
 1. Hnatiuk, Ostap
 1. Jadanowski, Łukasz
 1. Jercha, Łukasz
