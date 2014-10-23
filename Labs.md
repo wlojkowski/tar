@@ -75,7 +75,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Hnatiuk, Ostap
 1. Jadanowski, Łukasz
 1. Jercha, Łukasz
-1. Jóźwiak, Małgorzata
+1. Jóźwiak, Małgorzata [Zadania 1, 2] (https://github.com/mjozwiak/ruby_lab_3)
 1. Kiełb, Michał
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz
