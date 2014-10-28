@@ -62,6 +62,8 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod. Testy
 podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 
+* [when an intern tells me tests are for people who don’t know how to code](http://thecodinglove.com/post/43737038742/when-an-intern-tells-me-tests-are-for-people-who-dont)
+
 
 ## Lista
 
