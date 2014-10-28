@@ -100,7 +100,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Socha, Bartłomiej
 1. Student, Dawid
 1. Szalay, Tamás
-1. Tomczyk, Tomasz
+1. Tomczyk, Tomasz. [Zadania 1, 2](https://github.com/tomaszte/testowanie-aplikacji-ruby)
 1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadanie 2](https://github.com/pwyszynski/ug-plan)
 1. Zieliński, Kamil. [Zadanie 1,](https://github.com/laikkk/RubyScripts)[ Zadanie 2](https://github.com/laikkk/RubyInXMinutes)
 1. Zielke, Adam. [Zadanie 2](https://github.com/F3sterski/rubypro1)
