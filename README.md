@@ -40,6 +40,12 @@ Oskar Szrajer opowie o Integration Testing.
    [Refactoring](http://books.google.pl/books/about/Refactoring.html?id=6jyOUrJBJHAC) – Ruby edition.
 4. [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) – a community-driven Ruby coding style guide
 
+### Continuous Integration and Deployment
+
+1. [Codeship](https://www.codeship.io/).
+1. [Travis](https://travis-ci.org/).
+
+
 [5]: http://learnxinyminutes.com/docs/ruby/
 [1]: https://github.com/elizabrock/NSS-Syllabus-Spring-2013
 [2]: http://rvm.io/rvm
