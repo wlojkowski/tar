@@ -79,7 +79,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Jadanowski, Łukasz
 1. Jercha, Łukasz
 1. Jóźwiak, Małgorzata. [Zadania 1, 2](https://github.com/mjozwiak/ruby_lab_3)
-1. Kiełb, Michał [Zadanie 1](https://github.com/mkielb/ruby-labs/tree/master/scripts), [Zadanie 2](https://github.com/mkielb/ruby-labs/blob/master/Learn%20X%3DRuby%20Arrays%20in%20Y%3D20%20minutes.md)
+1. Kiełb, Michał. [Zadanie 1](https://github.com/mkielb/ruby-labs/tree/master/scripts), [Zadanie 2](https://github.com/mkielb/ruby-labs/blob/master/Learn%20X%3DRuby%20Arrays%20in%20Y%3D20%20minutes.md)
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz
 1. Krzyżanowski, Piotr. [Zadania 1, 2](https://github.com/pietter/Ruby)
@@ -96,11 +96,11 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Rzepniewski, Marcin. [Zadanie 1](https://github.com/mrzepniewski/Ruby)[Zadanie 2](https://docs.google.com/document/d/1jw7cwy8kZYEWmuXQmpPRev2K-_D7a-GhUL6K4P33i8o)
 1. Sadowski, Łukasz
 1. Siepetowski, Marcin. [Zadanie 2](https://github.com/siepet/rubyrubyruby/)
-1. Smogór, Tomasz [Zadania 1, 2](https://github.com/tsmogor/ruby)
+1. Smogór, Tomasz. [Zadania 1, 2](https://github.com/tsmogor/ruby)
 1. Socha, Bartłomiej
 1. Student, Dawid
 1. Szalay, Tamás
 1. Tomczyk, Tomasz
 1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadanie 2](https://github.com/pwyszynski/ug-plan)
 1. Zieliński, Kamil. [Zadanie 1,](https://github.com/laikkk/RubyScripts)[ Zadanie 2](https://github.com/laikkk/RubyInXMinutes)
-1. Zielke, Adam [Zadanie 2](https://github.com/F3sterski/rubypro1)
+1. Zielke, Adam. [Zadanie 2](https://github.com/F3sterski/rubypro1)
