@@ -2,7 +2,6 @@
 
 class Movie
   attr_reader :title
-  attr_accessor :price_code
   attr_writer :price
 
   def initialize(title, price_plan)
