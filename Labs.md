@@ -74,7 +74,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Czerwiński, Mateusz. [Zadanie 2](https://github.com/mtczerwinski/testing-ruby)
 1. Człapiński, Bogusław
 1. Grabowski, Marek
-1. Grzesiak, Daniel. [Zadania 1, 2](https://github.com/dgrzesiak/ruby)
+1. Grzesiak, Daniel. [Zadania 1, 2](https://github.com/dgrzesiak/ruby/tree/master/Zadanie1-2)
 1. Hnatiuk, Ostap
 1. Jadanowski, Łukasz
 1. Jercha, Łukasz
