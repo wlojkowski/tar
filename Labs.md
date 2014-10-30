@@ -82,7 +82,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Kiełb, Michał. [Zadanie 1](https://github.com/mkielb/ruby-labs/tree/master/scripts), [Zadanie 2](https://github.com/mkielb/ruby-labs/blob/master/Learn%20X%3DRuby%20Arrays%20in%20Y%3D20%20minutes.md)
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz
-1. Krzyżanowski, Piotr. [Zadania 1, 2](https://github.com/pietter/Ruby)
+1. Krzyżanowski, Piotr. [Zadania 1, 2](https://github.com/pietter/Ruby/tree/master/Zadania1_2)
 1. Mackiewicz, Marcin. [Zadania 1, 2](https://github.com/MaranX/ruby)
 1. Makowski, Łukasz
 1. Matuszewski, Jan
