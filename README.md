@@ -1,7 +1,7 @@
 ## Testowanie aplikacji w Ruby, 2014/15
 
-[18.10.2014] – **czwartkowy wykład 30.10 odbędzie się w auli 3 o godz. 10.15.**<br>
-Oskar Szrajer opowie o Integration Testing.
+[30.10.2014] – **czwartkowy wykład 6.11 odbędzie się w sali 309 o godz. 8.30.**<br>
+Oskar Szrajer opowie o stubach i mockowaniu.
 
 ----
 ![refactoring](images/refactoring.jpg)
