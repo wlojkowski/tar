@@ -45,6 +45,10 @@ Oskar Szrajer opowie o stubach i mockowaniu.
 1. [Codeship](https://www.codeship.io/).
 1. [Travis](https://travis-ci.org/).
 
+----
+
+* [Codility](https://codility.com/) – we test coders
+
 
 [5]: http://learnxinyminutes.com/docs/ruby/
 [1]: https://github.com/elizabrock/NSS-Syllabus-Spring-2013
