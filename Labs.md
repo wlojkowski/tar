@@ -24,6 +24,14 @@ transfer() {
 alias transfer=transfer
 ```
 
+Terminy rozliczania się z zadań i projektu na egzamin:
+
+| zadanie | opis       | termin     |
+|---------|------------|------------|
+| 1, 2, 3 | zaliczenie | 12.11.2014 |
+| 4       | zaliczenie | 19.11.2014 |
+| 5       | egzamin    |  7.01.2015 |
+
 ### 1. Zaczynamy
 
 * [Learn X in Y minutes](http://learnxinyminutes.com/docs/ruby/)
