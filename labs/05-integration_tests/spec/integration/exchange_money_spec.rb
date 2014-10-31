@@ -1,15 +1,12 @@
 require 'spec_helper'
 
 describe 'Exchange money' do
-  let(:m) { 10 }
-  subject{ Exchange.new(m, 'PLN').call }
-
   context 'valid params' do
     context 'for currency outside the file' do
       let(:m) { Money.new(10, 'EUR')}
       subject{ Exchange.new(m, 'RUB').call }
 
-      xit 'return hash with error message' do
+      it 'return hash with error message' do
       end
     end
 
