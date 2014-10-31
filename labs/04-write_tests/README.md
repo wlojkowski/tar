@@ -27,7 +27,7 @@ Testy zapisać w plikach *spec/part{1,2}_spec.rb*.
 * [rspec-core](https://github.com/rspec/rspec-core)
 * [rspec-mocks](https://github.com/rspec/rspec-mocks)
 
-## Podpinanie aplikacji do [Travisa](https://travis-ci.org/)
+Podpinanie aplikacji do [Travisa](https://travis-ci.org/)
 
 * [getting started](http://docs.travis-ci.com/)
 * gem *travis-lint*
@@ -50,7 +50,7 @@ script:
 - bundle exec rspec
 ```
 
-## Dokumentacja klas/modułów Ruby
+Dokumentacja klas/modułów Ruby
 
 * [Array](http://www.ruby-doc.org/core-2.1.1/Array.html)
 * [Hash](http://www.ruby-doc.org/core-2.1.1/Hash.html)
