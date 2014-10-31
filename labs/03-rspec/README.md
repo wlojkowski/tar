@@ -18,11 +18,10 @@ rspec -cfd  # więcej szczegółów
 ## Podpinanie aplikacji do [Travisa](https://travis-ci.org/)
 
 * [getting started](http://docs.travis-ci.com/)
-* [.travis.yml](.travis.yml)
-* install *travis-lint* gem
+* gem *travis-lint*
 * [status images](http://docs.travis-ci.com/user/status-images/)
 
-Jeszcze jeden przykładowy plik *.travis.yml*:
+Przykładowy plik *.travis.yml*:
 
 ```yaml
 language: ruby
@@ -39,13 +38,10 @@ script:
 - bundle exec rspec
 ```
 
-## Użyteczne linki do klas/modułów Rubiego
+## Linki do klas/modułów Ruby
 
 * [Array](http://www.ruby-doc.org/core-2.1.1/Array.html)
 * [Hash](http://www.ruby-doc.org/core-2.1.1/Hash.html)
 * [Enumerable](http://www.ruby-doc.org/core-2.1.1/Enumerable.html)
-
-To też nalezy przejrzeć:
-
 * [String](http://www.ruby-doc.org/core-2.1.1/String.html)
 * [Regexp](http://www.ruby-doc.org/core-2.1.1/Regexp.html)
