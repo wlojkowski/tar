@@ -45,7 +45,15 @@ alias transfer=transfer
 * [Przetłumaczyć na Ruby](labs/01-opencv).
 
 
-### 3. Wypożyczalnia Video (klasyka)
+### 3. Testujemy kod
+
+Zadania:
+
+* [unit tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tests)
+* [integration and unit tests](https://github.com/egzamin/tar/tree/master/labs/05-integration_tests)
+
+
+### 4. Wypożyczalnia Video (klasyka)
 
 *Program do obliczania i wypisywania rachunków za wypożyczone filmy.*
 
@@ -63,6 +71,11 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 
 * [when an intern tells me tests are for people who don’t know how to code](http://thecodinglove.com/post/43737038742/when-an-intern-tells-me-tests-are-for-people-who-dont)
+
+
+### 5. Projekty na egzamin
+
+TODO
 
 
 ## Lista

@@ -1,4 +1,6 @@
-## Testujemy gotowy kod
+## Unit testing
+
+Testujemy gotowy kod.
 
 1\. Napisać testy do metod `Enumerable#sort_by_freq`,
 `Enumerable#sort_distinct_by_freq`, `Enumerable#to_hist`.

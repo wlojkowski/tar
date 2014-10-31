@@ -1,4 +1,4 @@
-## Dopisujemy testy do kodu
+## Integration and unit tests
 
 Dopisać testy:
 
