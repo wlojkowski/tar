@@ -28,8 +28,7 @@ Terminy rozliczania się z zadań i projektu na egzamin:
 
 | zadanie | opis       | termin     |
 |--------:|----------- |-----------:|
-| 1, 2, 3 | zaliczenie | 12.11.2014 |
-| 4       | zaliczenie | 19.11.2014 |
+| 1, 2, 3 | zaliczenie | 19.11.2014 |
 | 5       | egzamin    |  7.01.2015 |
 
 ### 1. Zaczynamy
@@ -83,7 +82,9 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 
 ### 5. Projekty na egzamin
 
-TODO
+1. D. Grzesiak, M. Jóźwiak, M. Mackiewicz.
+  [Mnożniki Lagrange’a](/)
+
 
 
 ## Lista
