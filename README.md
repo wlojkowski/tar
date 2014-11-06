@@ -1,7 +1,6 @@
 ## Testowanie aplikacji w Ruby, 2014/15
 
-[30.10.2014] – **czwartkowy wykład 6.11 odbędzie się w sali 309 o godz. 8.30.**<br>
-Oskar Szrajer opowie o stubach i mockowaniu.
+[6.11.2014] – czwartkowy wykład 13.11 odbędzie się w auli 3 o godz. 10.30.
 
 ----
 ![refactoring](images/refactoring.jpg)
