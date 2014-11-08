@@ -1,6 +1,6 @@
 ## Testowanie aplikacji w Ruby, 2014/15
 
-[6.11.2014] – czwartkowy wykład 13.11 odbędzie się w auli 3 o godz. 10.30.
+[6.11.2014] – czwartkowy wykład 13.11 odbędzie się w auli 3 o godz. 10.30, gdzie Kamil Zieliński opowie kilka słów o Testach automatycznych przy uzyciu Selenium.
 
 ----
 ![refactoring](images/refactoring.jpg)
