@@ -88,7 +88,7 @@ TODO
 
 ## Lista
 
-1. Adamaszek, Patryk
+1. Adamaszek, Patryk. [Zadanie 1, 2](https://github.com/padamaszek/Ruby-Testowanie)
 1. Banaszak, Wojciech
 1. Bannach, Krzysztof. [Zadanie 1, 2](https://github.com/kbannach/programy-ruby)
 1. Bowżyk, Michał
