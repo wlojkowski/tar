@@ -118,7 +118,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Ochocki, Krzysztof. [Zadania 1, 2](https://github.com/kochocki/ruby)
 1. Pluskota, Radosław [Zadania 1, 2](https://github.com/rpluskota/rubytestinglab2014)
 1. Płotka, Magdalena
-1. Rzepniewski, Marcin. [Zadanie 1](https://github.com/mrzepniewski/Ruby)[Zadanie 2](https://docs.google.com/document/d/1jw7cwy8kZYEWmuXQmpPRev2K-_D7a-GhUL6K4P33i8o)
+1. Rzepniewski, Marcin. [Zadanie 1](https://github.com/mrzepniewski/Ruby), [Zadanie 2](https://docs.google.com/document/d/1jw7cwy8kZYEWmuXQmpPRev2K-_D7a-GhUL6K4P33i8o)
 1. Sadowski, Łukasz
 1. Siepetowski, Marcin. [Zadanie 2](https://github.com/siepet/rubyrubyruby/)
 1. Smogór, Tomasz. [Zadania 1, 2](https://github.com/tsmogor/ruby)
@@ -127,5 +127,5 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Szalay, Tamás
 1. Tomczyk, Tomasz. [Zadania 1, 2](https://github.com/tomaszte/testowanie-aplikacji-ruby)
 1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadanie 2](https://github.com/pwyszynski/ug-plan)
-1. Zieliński, Kamil. [Zadanie 1,](https://github.com/laikkk/RubyScripts)[ Zadanie 2](https://github.com/laikkk/RubyInXMinutes)
+1. Zieliński, Kamil. [Zadanie 1](https://github.com/laikkk/RubyScripts), [Zadanie 2](https://github.com/laikkk/RubyInXMinutes)
 1. Zielke, Adam. [Zadanie 2](https://github.com/F3sterski/rubypro1)
