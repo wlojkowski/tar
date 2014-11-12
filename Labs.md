@@ -49,7 +49,7 @@ Terminy rozliczania się z zadań i projektu na egzamin:
 
 **Zadanie:**
 
-* [Przetłumaczyć na Ruby](labs/01-opencv).
+* [Przetłumaczyć na Ruby](labs/01-opencv) oraz dodać **unit tests**.
 
 
 ### 3. Testujemy kod
@@ -88,6 +88,8 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 
 
 ## Lista
+
+**UWAGA:** Do wszystkich zadań, oprócz zadania 1, należy dopisać testy.
 
 1. Adamaszek, Patryk. [Zadanie 1, 2](https://github.com/padamaszek/Ruby-Testowanie)
 1. Banaszak, Wojciech
