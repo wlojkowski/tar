@@ -49,7 +49,8 @@ Terminy rozliczania się z zadań i projektu na egzamin:
 
 **Zadanie:**
 
-* [Przetłumaczyć na Ruby](labs/01-opencv) oraz dodać **unit tests**.
+* [Przetłumaczyć na Ruby](labs/01-opencv) oraz dodać **unit tests**
+  do kodu Ruby.
 
 
 ### 3. Testujemy kod
