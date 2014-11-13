@@ -113,7 +113,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Jóźwiak, Małgorzata. [Zadania 1, 2](https://github.com/mjozwiak/ruby_lab_3)
 1. Kiełb, Michał. [Zadanie 1](https://github.com/mkielb/ruby-labs/tree/master/exercise-1), [Zadanie 2](https://github.com/mkielb/ruby-labs/tree/master/exercise-2), [Zadanie 3](https://github.com/mkielb/ruby-labs/tree/master/exercise-3)
 1. Kisły, Zbigniew
-1. Kliczkowski, Łukasz
+1. Kliczkowski, Łukasz. [Zadanie 1,2,3](https://github.com/lkliczkowski/Ruby)
 1. Krzyżanowski, Piotr. [Zadania 1, 2](https://github.com/pietter/Ruby/tree/master/Zadania1_2)
 1. Mackiewicz, Marcin. [Zadania 1, 2](https://github.com/MaranX/ruby)
 1. Makowski, Łukasz
