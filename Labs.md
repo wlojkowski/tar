@@ -52,12 +52,15 @@ Terminy rozliczania się z zadań i projektu na egzamin:
 * [Przetłumaczyć na Ruby](labs/01-opencv) oraz dodać **unit tests**
   do kodu Ruby.
 
+Jak dodać testy można podejrzeć
+w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tests).
 
-### 3. Testujemy kod
 
-Zadania:
+### 3. Mocki i stuby
 
-* [unit tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tests)
+Napisać testy integracyjne do swoich skryptów
+albo do kodu omówionego na wykładzie:
+
 * [integration and unit tests](https://github.com/egzamin/tar/tree/master/labs/05-integration_tests)
 
 
