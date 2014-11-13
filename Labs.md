@@ -90,7 +90,11 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 
 ## Lista
 
-**UWAGA:** Do wszystkich zadań, oprócz zadania 1, należy dopisać testy.
+**Uwagi:**
+
+- Do wszystkich zadań (oczywiście oprócz zadania 1) należy dopisać testy.
+- Linki powinny być do repozytoriów **prywatnych**.
+  (W ostateczności można dać link do repozytorium prywatnego na *Bitbucket*).
 
 1. Adamaszek, Patryk. [Zadanie 1, 2](https://github.com/padamaszek/Ruby-Testowanie)
 1. Banaszak, Wojciech
@@ -98,7 +102,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Bowżyk, Michał
 1. Czerwiński, Mateusz. [Zadanie 2](https://github.com/mtczerwinski/testing-ruby)
 1. Człapiński, Bogusław
-1. Grabowski, Marek [Zadanie 1, 2](https://github.com/grabarzstg/Ruby)
+1. Grabowski, Marek. [Zadanie 1, 2](https://github.com/grabarzstg/Ruby)
 1. Grzesiak, Daniel. [Zadania 1, 2](https://github.com/dgrzesiak/ruby/tree/master/Zadanie1-2)
 1. Hnatiuk, Ostap
 1. Jadanowski, Łukasz
@@ -116,7 +120,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Niemczyk, Radosław
 1. Nowosada, Wojciech
 1. Ochocki, Krzysztof. [Zadania 1, 2](https://github.com/kochocki/ruby)
-1. Pluskota, Radosław [Zadania 1, 2](https://github.com/rpluskota/rubytestinglab2014)
+1. Pluskota, Radosław. [Zadania 1, 2](https://github.com/rpluskota/rubytestinglab2014)
 1. Płotka, Magdalena
 1. Rzepniewski, Marcin. [Zadanie 1](https://github.com/mrzepniewski/Ruby), [Zadanie 2](https://docs.google.com/document/d/1jw7cwy8kZYEWmuXQmpPRev2K-_D7a-GhUL6K4P33i8o)
 1. Sadowski, Łukasz
