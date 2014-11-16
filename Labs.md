@@ -103,7 +103,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Banaszak, Wojciech
 1. Bannach, Krzysztof. [Zadanie 1, 2](https://github.com/kbannach/programy-ruby)
 1. Bowżyk, Michał
-1. Czerwiński, Mateusz. [Zadanie 2](https://github.com/mtczerwinski/testing-ruby)
+1. Czerwiński, Mateusz. [Zadanie 1, 2, 3](https://github.com/mtczerwinski/testing-ruby)
 1. Człapiński, Bogusław
 1. Grabowski, Marek. [Zadanie 1, 2](https://github.com/grabarzstg/Ruby)
 1. Grzesiak, Daniel. [Zadania 1, 2](https://github.com/dgrzesiak/ruby/tree/master/Zadanie1-2)
