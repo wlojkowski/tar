@@ -113,7 +113,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Jóźwiak, Małgorzata. [Zadania 1, 2](https://github.com/mjozwiak/ruby_lab_3)
 1. Kiełb, Michał. [Zadanie 1](https://github.com/mkielb/ruby-labs/tree/master/exercise-1), [Zadanie 2](https://github.com/mkielb/ruby-labs/tree/master/exercise-2), [Zadanie 3](https://github.com/mkielb/ruby-labs/tree/master/exercise-3)
 1. Kisły, Zbigniew
-1. Kliczkowski, Łukasz. [Zadanie 1,2,3](https://github.com/lkliczkowski/Ruby)
+1. Kliczkowski, Łukasz. [Zadanie 1, 2, 3](https://github.com/lkliczkowski/Ruby)
 1. Krzyżanowski, Piotr. [Zadania 1, 2](https://github.com/pietter/Ruby/tree/master/Zadania1_2)
 1. Mackiewicz, Marcin. [Zadania 1, 2](https://github.com/MaranX/ruby)
 1. Makowski, Łukasz
@@ -125,7 +125,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Ochocki, Krzysztof. [Zadania 1, 2](https://github.com/kochocki/ruby)
 1. Pluskota, Radosław. [Zadania 1, 2](https://github.com/rpluskota/rubytestinglab2014)
 1. Płotka, Magdalena
-1. Rzepniewski, Marcin. [Zadanie 1](https://github.com/mrzepniewski/Ruby), [Zadanie 2](https://docs.google.com/document/d/1jw7cwy8kZYEWmuXQmpPRev2K-_D7a-GhUL6K4P33i8o)
+1. Rzepniewski, Marcin. [Zadanie 1](https://github.com/mrzepniewski/Ruby). [Zadanie 2](https://docs.google.com/document/d/1jw7cwy8kZYEWmuXQmpPRev2K-_D7a-GhUL6K4P33i8o)
 1. Sadowski, Łukasz
 1. Siepetowski, Marcin. [Zadanie 2](https://github.com/siepet/rubyrubyruby/)
 1. Smogór, Tomasz. [Zadania 1, 2](https://github.com/tsmogor/ruby)
