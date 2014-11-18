@@ -119,7 +119,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Makowski, Łukasz
 1. Matuszewski, Jan
 1. Mielnikowski, Łukasz
-1. Mroczek, Przemysław. [Zadania 1, 2](https://github.com/pmroczek/testowanie_repo/tree/master/WyszukiwanieWzorca)
+1. Mroczek, Przemysław. [Zadania 1](https://github.com/pmroczek/testowanie_repo/blob/master/Zadanie1/README.md), Zadanie 2](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie2)
 1. Niemczyk, Radosław
 1. Nowosada, Wojciech
 1. Ochocki, Krzysztof. [Zadania 1, 2](https://github.com/kochocki/ruby)
