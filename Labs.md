@@ -60,7 +60,6 @@ w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tes
 
 > Integration tests tell **what**’s not working. But they are of no use in<br>
 > **guessing where** the problem could be.<br>
-> <br>
 > Unit tests are the sole tests that tell you **where** exactly the bug<br>
 > is. To draw this information, they must run the method in a mocked<br>
 > environment, where all other dependencies are supposed to correctly work.<br>
