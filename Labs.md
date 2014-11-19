@@ -63,8 +63,7 @@ w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tes
 > Unit tests are the sole tests that tell you **where** exactly the bug<br>
 > is. To draw this information, they must run the method in a mocked<br>
 > environment, where all other dependencies are supposed to correctly work.<br>
-> <br>
-> [What is the difference between integration and unit tests?](http://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests)
+>     [What is the difference between integration and unit tests?](http://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests)
 
 W *unit tests* użyć mocków i stubów.
 Dopisać kilka testów integracyjnych do swoich skryptów
