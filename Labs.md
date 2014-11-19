@@ -122,7 +122,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Jadanowski, Łukasz
 1. Jercha, Łukasz. [Zadania 1, 2](https://github.com/ljercha/testowanie-w-ruby)
 1. Jóźwiak, Małgorzata. [Zadania 1, 2](https://github.com/mjozwiak/ruby_lab_3)
-1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/c0c448ed06f7a56c3ced562da2b708ccb9eaefe4/exercise-1/?at=master), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/c0c448ed06f7a56c3ced562da2b708ccb9eaefe4/exercise-2/?at=master), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/c0c448ed06f7a56c3ced562da2b708ccb9eaefe4/exercise-3/?at=master)
+1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/eda608d5b21474fc7498aafa8c27880fbf8f23f7/exercise-1/?at=master), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/eda608d5b21474fc7498aafa8c27880fbf8f23f7/exercise-2/?at=master), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/eda608d5b21474fc7498aafa8c27880fbf8f23f7/exercise-3/?at=master)
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz. [Zadanie 1, 2, 3](https://github.com/lkliczkowski/Ruby)
 1. Krzyżanowski, Piotr. [Zadania 1, 2](https://github.com/pietter/Ruby/tree/master/Zadania1_2)
