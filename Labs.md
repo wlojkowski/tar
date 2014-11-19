@@ -130,10 +130,10 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Makowski, Łukasz
 1. Matuszewski, Jan
 1. Mielnikowski, Łukasz
-1. Mroczek, Przemysław. [Zadania 1](https://github.com/pmroczek/testowanie_repo/blob/master/Zadanie1/README.md), Zadanie 2](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie2)
+1. Mroczek, Przemysław. [Zadania 1](https://github.com/pmroczek/testowanie_repo/blob/master/Zadanie1/README.md), [Zadanie 2](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie2)
 1. Niemczyk, Radosław
 1. Nowosada, Wojciech
-1. Ochocki, Krzysztof. [Zadanie1](https://github.com/kochocki/ruby/tree/master/zadanie_1), [Zadanie2](https://github.com/kochocki/ruby/tree/master/zadanie_2), [Zadanie3](https://github.com/kochocki/ruby/tree/master/zadanie_3)
+1. Ochocki, Krzysztof. [Zadanie 1](https://github.com/kochocki/ruby/tree/master/zadanie_1), [Zadanie 2](https://github.com/kochocki/ruby/tree/master/zadanie_2), [Zadanie 3](https://github.com/kochocki/ruby/tree/master/zadanie_3)
 1. Pluskota, Radosław. [Zadania 1, 2](https://github.com/rpluskota/rubytestinglab2014)
 1. Płotka, Magdalena
 1. Rzepniewski, Marcin. [Zadanie 1](https://github.com/mrzepniewski/Ruby). [Zadanie 2](https://docs.google.com/document/d/1jw7cwy8kZYEWmuXQmpPRev2K-_D7a-GhUL6K4P33i8o)
