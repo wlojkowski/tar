@@ -74,6 +74,9 @@ lub do kodu omówionego na wykładzie:
 
 * [integration and unit tests](https://github.com/egzamin/tar/tree/master/labs/05-integration_tests)
 
+Testy podpinamy pod system
+[Travis](http://docs.travis-ci.com/user/getting-started/).
+
 
 ### 4. Wypożyczalnia Video (klasyka)
 
