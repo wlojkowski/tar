@@ -28,7 +28,7 @@ Terminy rozliczania się z zadań i projektu na egzamin:
 
 | zadanie | opis       | termin     |
 |--------:|----------- |-----------:|
-| 1, 2, 3 | zaliczenie | 19.11.2014 |
+| 1, 2, 3 | zaliczenie | 24.11.2014 |
 | 5       | egzamin    |  7.01.2015 |
 
 ### 1. Zaczynamy
@@ -104,7 +104,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
   [Mnożniki Lagrange’a](/)
 
 
-### Zaliczenie, *deadline 19.11.2014*
+### Zaliczenie, *deadline 24.11.2014*
 
 - Do wszystkich zadań (oczywiście oprócz zadania 1) należy dopisać testy.
 - Linki powinny być do repozytoriów **prywatnych**.
