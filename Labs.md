@@ -98,10 +98,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
   [Mnożniki Lagrange’a](/)
 
 
-
-## Lista
-
-**Uwagi:**
+## Zaliczenie, *deadline 19.11.2014*
 
 - Do wszystkich zadań (oczywiście oprócz zadania 1) należy dopisać testy.
 - Linki powinny być do repozytoriów **prywatnych**.
