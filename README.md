@@ -40,7 +40,7 @@
 ### Continuous Integration and Deployment
 
 1. [Codeship](https://www.codeship.io/).
-1. [Travis](https://travis-ci.org/).
+1. [Travis](https://travis-ci.org/) – niestety usługa płatna dla repozytoriów prywatnych.
 
 ----
 

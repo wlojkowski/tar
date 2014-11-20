@@ -74,9 +74,6 @@ lub do kodu omówionego na wykładzie:
 
 * [integration and unit tests](https://github.com/egzamin/tar/tree/master/labs/05-integration_tests)
 
-Testy podpinamy pod system
-[Travis](http://docs.travis-ci.com/user/getting-started/).
-
 
 ### 4. Wypożyczalnia Video (klasyka)
 
@@ -92,8 +89,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 
 **Zadanie:**
 
-Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod. Testy
-podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
+Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod.
 
 * [when an intern tells me tests are for people who don’t know how to code](http://thecodinglove.com/post/43737038742/when-an-intern-tells-me-tests-are-for-people-who-dont)
 
