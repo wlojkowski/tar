@@ -126,7 +126,7 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz. [Zadanie 1, 2, 3](https://github.com/lkliczkowski/Ruby)
 1. Krzyżanowski, Piotr. [Zadania 1, 2](https://github.com/pietter/Ruby/tree/master/Zadania1_2)
-1. Mackiewicz, Marcin. [Zadania 1, 2](https://github.com/MaranX/ruby)
+1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby/branch/Testowanie-Ruby)
 1. Makowski, Łukasz
 1. Matuszewski, Jan
 1. Mielnikowski, Łukasz
