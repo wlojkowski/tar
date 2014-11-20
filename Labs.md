@@ -107,6 +107,8 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 ### Zaliczenie, *deadline 24.11.2014*
 
 - Do wszystkich zadań (oczywiście oprócz zadania 1) należy dopisać testy.
+- Należy użyć gemu [simplecov](https://github.com/colszowka/simplecov).
+  (Gotowy przykład jest w katalogu [03-rspec](labs/03-rspec).)
 - Linki powinny być do repozytoriów **prywatnych**.
   (W ostateczności można dać link do repozytorium prywatnego na *Bitbucket*).
 
