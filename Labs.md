@@ -98,6 +98,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 
 1. D. Grzesiak, M. Jóźwiak, M. Mackiewicz.
   [Mnożniki Lagrange’a](/)
+2. M. Czerwiński, Ł. Jadanowski. [Testy do aplikacji RoR](https://github.com/mtczerwinski/railsilla)
 
 
 ### Zaliczenie, *deadline 24.11.2014*
