@@ -145,4 +145,4 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Tomczyk, Tomasz. [Zadania 1, 2](https://github.com/tomaszte/testowanie-aplikacji-ruby)
 1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadanie 2](https://github.com/pwyszynski/sequence)
 1. Zieliński, Kamil. [Zadanie 1](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/master/Zadanie1/), [ 2](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/master/Zadanie2/), [ 3](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/master/Zadanie3/)
-1. Zielke, Adam. [Zadanie 2](https://github.com/F3sterski/rubypro1)
+1. Zielke, Adam. [Zadanie 1, 2, 3](https://Festerski@bitbucket.org/Festerski/ruby)
