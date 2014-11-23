@@ -114,7 +114,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Bannach, Krzysztof. [Zadanie 1, 2](https://github.com/kbannach/programy-ruby)
 1. Bowżyk, Michał
 1. Czerwiński, Mateusz. [Zadanie 1, 2, 3](https://github.com/mtczerwinski/testing-ruby)
-1. Człapiński, Bogusław
+1. Człapiński, Bogusław. [Zadanie 1, 2, 3](https://bitbucket.org/bczlapinski/ruby)
 1. Grabowski, Marek. [Zadanie 1, 2](https://bitbucket.org/Grabarzstg/ruby)
 1. Grzesiak, Daniel. [Zadania 1, 2](https://github.com/dgrzesiak/ruby/tree/master/Zadanie1-2)
 1. Hnatiuk, Ostap
