@@ -135,7 +135,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Ochocki, Krzysztof. [Zadanie 1](https://github.com/kochocki/ruby/tree/master/zadanie_1), [Zadanie 2](https://github.com/kochocki/ruby/tree/master/zadanie_2), [Zadanie 3](https://github.com/kochocki/ruby/tree/master/zadanie_3)
 1. Pluskota, Radosław. [Zadania 1, 2](https://github.com/rpluskota/rubytestinglab2014)
 1. Płotka, Magdalena
-1. Rzepniewski, Marcin. [Zadanie 1](https://github.com/mrzepniewski/Ruby). [Zadanie 2](https://docs.google.com/document/d/1jw7cwy8kZYEWmuXQmpPRev2K-_D7a-GhUL6K4P33i8o)
+1. Rzepniewski, Marcin. [Zadanie 1,2,3](https://bitbucket.org/mrzepniewski/ruby/src)
 1. Sadowski, Łukasz
 1. Siepetowski, Marcin. [Zadanie 2](https://github.com/siepet/rubyrubyruby/)
 1. Smogór, Tomasz. [Zadania 1, 2](https://github.com/tsmogor/ruby)
