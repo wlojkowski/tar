@@ -140,7 +140,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Siepetowski, Marcin. [Zadanie 2](https://github.com/siepet/rubyrubyruby/)
 1. Smogór, Tomasz. [Zadania 1, 2, 3](https://bitbucket.org/tsmogor/ruby/overview)
 1. Socha, Bartłomiej
-1. Student, Dawid
+1. Student, Dawid. [Zadania 1, 2] (https://bitbucket.org/darthvid/ruby-ug/)
 1. Szalay, Tamás
 1. Tomczyk, Tomasz. [Zadania 1, 2](https://github.com/tomaszte/testowanie-aplikacji-ruby)
 1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadanie 2](https://github.com/pwyszynski/sequence)
