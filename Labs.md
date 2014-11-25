@@ -120,7 +120,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Hnatiuk, Ostap
 1. Jadanowski, Łukasz
 1. Jercha, Łukasz. [Zadania 1, 2, 3](https://github.com/ljercha/testowanie-w-ruby)
-1. Jóźwiak, Małgorzata. [Zadania 1, 2](https://github.com/mjozwiak/ruby_lab_3)
+1. Jóźwiak, Małgorzata. [Zadania 1, 2, 3](https://bitbucket.org/mjozwia/ruby/src)
 1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-1/), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-2/), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-3/)
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz. [Zadanie 1, 2, 3](https://github.com/lkliczkowski/Ruby)
