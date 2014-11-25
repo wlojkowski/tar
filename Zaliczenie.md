@@ -10,7 +10,7 @@
 1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://github.com/lkliczkowski/Ruby)
 1. Krzyżanowski, Piotr. [Zadania 1, 2, 3](https://bitbucket.org/Pietter/ruby)
 1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby/branch/Testowanie-Ruby)
-1. Niemczyk, Radosław [Zadania 1, 2, 3](https://github.com/Nemeczek/TestowanieRubyUG.git)
+1. Niemczyk, Radosław [Zadania 1, 2, 3](https://github.com/Nemeczek/TestowanieRubyUG)
 1. Ochocki, Krzysztof. [Zadanie 1](https://github.com/kochocki/ruby/tree/master/zadanie_1), [Zadanie 2](https://github.com/kochocki/ruby/tree/master/zadanie_2), [Zadanie 3](https://github.com/kochocki/ruby/tree/master/zadanie_3)
 1. Rzepniewski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mrzepniewski/ruby/src)
 1. Siepetowski, Marcin. [Zadanie 1](https://github.com/siepet/rubyrubyruby/#learn-ruby-the-easy-way) [Zadanie 2](https://github.com/siepet/rubyrubyruby/tree/master/to23/) [Zadanie 3](https://github.com/siepet/rubyrubyruby/tree/master/write_tests/)
