@@ -17,3 +17,15 @@
 1. Smogór, Tomasz. [Zadania 1, 2, 3](https://bitbucket.org/tsmogor/ruby/overview)
 1. Zieliński, Kamil. [Zadanie 1](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/master/Zadanie1/), [Zadanie 2](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/master/Zadanie2/), [Zadanie 3](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/master/Zadanie3/)
 1. Zielke, Adam. [Zadania 1, 2, 3](https://Festerski@bitbucket.org/Festerski/ruby)
+
+### A
+
+TODO
+
+### B
+
+TODO
+
+### C
+
+TODO
