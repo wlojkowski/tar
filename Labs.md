@@ -119,7 +119,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadanie 2](https://github.com/pwyszynski/sequence)
 
 
-### Niezalicozne labortorium
+### Niezaliczone labortorium
 
 1. Banaszak, Wojciech
 1. Hnatiuk, Ostap
