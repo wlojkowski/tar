@@ -74,9 +74,6 @@ lub do kodu omówionego na wykładzie:
 
 * [integration and unit tests](https://github.com/egzamin/tar/tree/master/labs/05-integration_tests)
 
-Testy podpinamy pod system
-[Travis](http://docs.travis-ci.com/user/getting-started/).
-
 
 ### 4. Wypożyczalnia Video (klasyka)
 
@@ -92,8 +89,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 
 **Zadanie:**
 
-Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod. Testy
-podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
+Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod.
 
 * [when an intern tells me tests are for people who don’t know how to code](http://thecodinglove.com/post/43737038742/when-an-intern-tells-me-tests-are-for-people-who-dont)
 
@@ -102,48 +98,51 @@ podpinamy pod system [Travis](http://docs.travis-ci.com/user/getting-started/).
 
 1. D. Grzesiak, M. Jóźwiak, M. Mackiewicz.
   [Mnożniki Lagrange’a](/)
+2. M. Czerwiński, Ł. Jadanowski. [Testy do aplikacji RoR](https://github.com/mtczerwinski/railsilla)
 
 
 ### Zaliczenie, *deadline 24.11.2014*
 
 - Do wszystkich zadań (oczywiście oprócz zadania 1) należy dopisać testy.
+- Należy użyć gemu [simplecov](https://github.com/colszowka/simplecov).
+  (Gotowy przykład jest w katalogu [03-rspec](labs/03-rspec).)
 - Linki powinny być do repozytoriów **prywatnych**.
   (W ostateczności można dać link do repozytorium prywatnego na *Bitbucket*).
 
 1. Adamaszek, Patryk. [Zadanie 1, 2](https://github.com/padamaszek/Ruby-Testowanie)
 1. Banaszak, Wojciech
-1. Bannach, Krzysztof. [Zadanie 1, 2](https://github.com/kbannach/programy-ruby)
-1. Bowżyk, Michał
+1. Bannach, Krzysztof. [Zadanie 1, 2, 3](https://bitbucket.org/kbannach/programy-ruby/src/master)
+1. Bowżyk, Michał. [Zadanie 1,2](https://bitbucket.org/PotworZlyBardzo/ruby/src)
 1. Czerwiński, Mateusz. [Zadanie 1, 2, 3](https://github.com/mtczerwinski/testing-ruby)
-1. Człapiński, Bogusław
-1. Grabowski, Marek. [Zadanie 1, 2](https://github.com/grabarzstg/Ruby)
-1. Grzesiak, Daniel. [Zadania 1, 2](https://github.com/dgrzesiak/ruby/tree/master/Zadanie1-2)
+1. Człapiński, Bogusław. [Zadanie 1, 2, 3](https://bitbucket.org/bczlapinski/ruby)
+1. Grabowski, Marek. [Zadanie 1, 2](https://bitbucket.org/Grabarzstg/ruby)
+1. Grzesiak, Daniel. [Zadania 1, 2, 3](https://bitbucket.org/dgrzesiak/ruby_testowanie/src/)
 1. Hnatiuk, Ostap
 1. Jadanowski, Łukasz
-1. Jercha, Łukasz. [Zadania 1, 2](https://github.com/ljercha/testowanie-w-ruby)
-1. Jóźwiak, Małgorzata. [Zadania 1, 2](https://github.com/mjozwiak/ruby_lab_3)
-1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/c0c448ed06f7a56c3ced562da2b708ccb9eaefe4/exercise-1/?at=master), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/c0c448ed06f7a56c3ced562da2b708ccb9eaefe4/exercise-2/?at=master), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/c0c448ed06f7a56c3ced562da2b708ccb9eaefe4/exercise-3/?at=master)
+1. Jercha, Łukasz. [Zadania 1, 2, 3](https://github.com/ljercha/testowanie-w-ruby)
+1. Jóźwiak, Małgorzata. [Zadania 1, 2, 3](https://bitbucket.org/mjozwia/ruby/src)
+1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-1/), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-2/), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-3/)
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz. [Zadanie 1, 2, 3](https://github.com/lkliczkowski/Ruby)
-1. Krzyżanowski, Piotr. [Zadania 1, 2](https://github.com/pietter/Ruby/tree/master/Zadania1_2)
-1. Mackiewicz, Marcin. [Zadania 1, 2](https://github.com/MaranX/ruby)
+1. Krzyżanowski, Piotr. [Zadania 1, 2, 3](https://bitbucket.org/Pietter/ruby)
+1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby/branch/Testowanie-Ruby)
 1. Makowski, Łukasz
 1. Matuszewski, Jan
 1. Mielnikowski, Łukasz
 1. Mroczek, Przemysław. [Zadania 1](https://github.com/pmroczek/testowanie_repo/blob/master/Zadanie1/README.md), [Zadanie 2](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie2)
-1. Niemczyk, Radosław
+1. Niemczyk, Radosław [Zadania 1,2,3](https://github.com/Nemeczek/TestowanieRubyUG.git)
 1. Nowosada, Wojciech
 1. Ochocki, Krzysztof. [Zadanie 1](https://github.com/kochocki/ruby/tree/master/zadanie_1), [Zadanie 2](https://github.com/kochocki/ruby/tree/master/zadanie_2), [Zadanie 3](https://github.com/kochocki/ruby/tree/master/zadanie_3)
 1. Pluskota, Radosław. [Zadania 1, 2](https://github.com/rpluskota/rubytestinglab2014)
 1. Płotka, Magdalena
-1. Rzepniewski, Marcin. [Zadanie 1](https://github.com/mrzepniewski/Ruby). [Zadanie 2](https://docs.google.com/document/d/1jw7cwy8kZYEWmuXQmpPRev2K-_D7a-GhUL6K4P33i8o)
+1. Rzepniewski, Marcin. [Zadanie 1,2,3](https://bitbucket.org/mrzepniewski/ruby/src)
 1. Sadowski, Łukasz
-1. Siepetowski, Marcin. [Zadanie 2](https://github.com/siepet/rubyrubyruby/)
-1. Smogór, Tomasz. [Zadania 1, 2](https://github.com/tsmogor/ruby)
+1. Siepetowski, Marcin. [Zadanie 1](https://github.com/siepet/rubyrubyruby/#learn-ruby-the-easy-way) [Zadanie 2](https://github.com/siepet/rubyrubyruby/tree/master/to23/) [Zadanie 3](https://github.com/siepet/rubyrubyruby/tree/master/write_tests/)
+1. Smogór, Tomasz. [Zadania 1, 2, 3](https://bitbucket.org/tsmogor/ruby/overview)
 1. Socha, Bartłomiej
-1. Student, Dawid
+1. Student, Dawid. [Zadania 1, 2] (https://bitbucket.org/darthvid/ruby-ug/)
 1. Szalay, Tamás
 1. Tomczyk, Tomasz. [Zadania 1, 2](https://github.com/tomaszte/testowanie-aplikacji-ruby)
-1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadanie 2](https://github.com/pwyszynski/ug-plan)
-1. Zieliński, Kamil. [Zadanie 1](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/03e67e03e210e3a016342d5008e30bd37edb5549/Zadanie1/?at=master), [ 2](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/03e67e03e210e3a016342d5008e30bd37edb5549/Zadanie2/?at=master), [ 3](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/03e67e03e210e3a016342d5008e30bd37edb5549/Zadanie3/?at=master)
-1. Zielke, Adam. [Zadanie 2](https://github.com/F3sterski/rubypro1)
+1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadanie 2](https://github.com/pwyszynski/sequence)
+1. Zieliński, Kamil. [Zadanie 1](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/master/Zadanie1/), [ 2](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/master/Zadanie2/), [ 3](https://bitbucket.org/Ziela/testowanieaplikacjiruby/src/master/Zadanie3/)
+1. Zielke, Adam. [Zadanie 1, 2, 3](https://Festerski@bitbucket.org/Festerski/ruby)
