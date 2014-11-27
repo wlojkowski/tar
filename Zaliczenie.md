@@ -9,7 +9,7 @@
 1. Jercha, Łukasz. [Zadania 1, 2, 3](https://github.com/ljercha/testowanie-w-ruby)
 1. Jóźwiak, Małgorzata. [Zadania 1, 2, 3](https://bitbucket.org/mjozwia/ruby/src)
 1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-1/), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-2/), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-3/)
-1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://github.com/lkliczkowski/Ruby)
+1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://bitbucket.org/lkliczkowski/ruby)
 1. Krzyżanowski, Piotr. [Zadania 1, 2, 3](https://bitbucket.org/Pietter/ruby)
 1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby/branch/Testowanie-Ruby)
 1. Niemczyk, Radosław [Zadania 1, 2, 3](https://github.com/Nemeczek/TestowanieRubyUG)
