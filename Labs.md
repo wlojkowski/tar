@@ -119,7 +119,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 
 ### Niezaliczone labortorium
 
-1. Banaszak, Wojciech
+1. Banaszak, Wojciech.  [Zadanie 1, 2]  (https://bitbucket.org/wbanaszak/github/)
 1. Hnatiuk, Ostap
 1. Jadanowski, Łukasz
 1. Kisły, Zbigniew
