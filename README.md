@@ -37,6 +37,11 @@
    [Refactoring](http://books.google.pl/books/about/Refactoring.html?id=6jyOUrJBJHAC) – Ruby edition.
 4. [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) – a community-driven Ruby coding style guide
 
+### Git
+
+* Scott Chacon, Ben Straub. [Pro Git](http://git-scm.com/book/en/v2)
+  -- [6.1 GitHub – Account Setup and Configuration](http://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+
 ### Continuous Integration and Deployment
 
 1. [Codeship](https://www.codeship.io/).
