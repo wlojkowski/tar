@@ -94,14 +94,14 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 * [when an intern tells me tests are for people who don’t know how to code](http://thecodinglove.com/post/43737038742/when-an-intern-tells-me-tests-are-for-people-who-dont)
 
 
-### 5. Projekty na egzamin
+### Egzamin, *deadline 7.01.2015*
 
-1. D. Grzesiak, M. Jóźwiak, M. Mackiewicz.
-  [Mnożniki Lagrange’a](/)
+1. D. Grzesiak, M. Jóźwiak, M. Mackiewicz. [Mnożniki Lagrange’a](/)
 2. M. Czerwiński, Ł. Jadanowski. [Testy do aplikacji RoR](https://github.com/mtczerwinski/railsilla)
 3. Ł. Jercha, M. Rzepniewski, T. Smogór. [Metoda CPM + Algorytm Liu](/)
 
-### Poprawka, *deadline 26.11.2014*
+
+### Niezaliczone labortorium
 
 - Do wszystkich zadań (oczywiście oprócz zadania 1) należy dopisać testy.
 - Należy użyć gemu [simplecov](https://github.com/colszowka/simplecov).
@@ -109,25 +109,17 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 - Linki powinny być do repozytoriów **prywatnych**.
   (W ostateczności można dać link do repozytorium prywatnego na *Bitbucket*).
 
-1. Adamaszek, Patryk. [Zadanie 1, 2, 3](https://bitbucket.org/padamaszek/ruby-testowanie)
+1. Banaszak, Wojciech.  [Zadanie 1, 2](https://bitbucket.org/wbanaszak/github/)
 1. Bowżyk, Michał. [Zadanie 1, 2](https://bitbucket.org/PotworZlyBardzo/ruby/src)
-1. Mroczek, Przemysław. [Zadanie 1](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie1), [Zadanie 2](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie2). [Zadanie 3](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie3)
-1. Pluskota, Radosław. [Zadania 1, 2](https://github.com/rpluskota/rubytestinglab2014)
-1. Student, Dawid. [Zadania 1, 2](https://bitbucket.org/darthvid/ruby-ug/)
-1. Tomczyk, Tomasz. [Zadania 1, 2, 3](https://github.com/tomaszte/testowanie-aplikacji-ruby)
-
-
-### Niezaliczone labortorium
-
-1. Banaszak, Wojciech.  [Zadanie 1, 2]  (https://bitbucket.org/wbanaszak/github/)
 1. Hnatiuk, Ostap
-1. Jadanowski, Łukasz [Zadanie 1, 2, 3] (https://bitbucket.org/ljadanowski/ruby/)
 1. Kisły, Zbigniew
 1. Makowski, Łukasz
 1. Matuszewski, Jan
 1. Mielnikowski, Łukasz
 1. Nowosada, Wojciech
+1. Pluskota, Radosław. [Zadania 1, 2](https://github.com/rpluskota/rubytestinglab2014)
 1. Płotka, Magdalena
 1. Sadowski, Łukasz
 1. Socha, Bartłomiej
+1. Student, Dawid. [Zadania 1, 2](https://bitbucket.org/darthvid/ruby-ug/)
 1. Szalay, Tamás
