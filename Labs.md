@@ -110,8 +110,8 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 - Linki powinny być do repozytoriów **prywatnych**.
   (W ostateczności można dać link do repozytorium prywatnego na *Bitbucket*).
 
-1. Banaszak, Wojciech.  [Zadanie 1, 2](https://bitbucket.org/wbanaszak/github/)
-1. Bowżyk, Michał. [Zadanie 1, 2](https://bitbucket.org/PotworZlyBardzo/ruby/src)
+1. Banaszak, Wojciech. [Zadania 1, 2](https://bitbucket.org/wbanaszak/github/)
+1. Bowżyk, Michał. [Zadania 1, 2](https://bitbucket.org/PotworZlyBardzo/ruby/src)
 1. Hnatiuk, Ostap
 1. Kisły, Zbigniew
 1. Makowski, Łukasz
