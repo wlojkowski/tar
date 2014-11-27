@@ -40,7 +40,7 @@
 ### Git
 
 * Scott Chacon, Ben Straub. [Pro Git](http://git-scm.com/book/en/v2)
-  -- [6.1 GitHub – Account Setup and Configuration](http://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+  - [6.1 GitHub – Account Setup and Configuration](http://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
 
 ### Continuous Integration and Deployment
 
