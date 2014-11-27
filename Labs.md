@@ -109,7 +109,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 - Linki powinny być do repozytoriów **prywatnych**.
   (W ostateczności można dać link do repozytorium prywatnego na *Bitbucket*).
 
-1. Adamaszek, Patryk. [Zadanie 1, 2](https://github.com/padamaszek/Ruby-Testowanie)
+1. Adamaszek, Patryk. [Zadanie 1, 2, 3](https://bitbucket.org/padamaszek/ruby-testowanie)
 1. Bowżyk, Michał. [Zadanie 1, 2](https://bitbucket.org/PotworZlyBardzo/ruby/src)
 1. Mroczek, Przemysław. [Zadanie 1](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie1), [Zadanie 2](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie2)
 1. Pluskota, Radosław. [Zadania 1, 2](https://github.com/rpluskota/rubytestinglab2014)
