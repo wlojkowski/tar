@@ -111,7 +111,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 
 1. Adamaszek, Patryk. [Zadanie 1, 2, 3](https://bitbucket.org/padamaszek/ruby-testowanie)
 1. Bowżyk, Michał. [Zadanie 1, 2](https://bitbucket.org/PotworZlyBardzo/ruby/src)
-1. Mroczek, Przemysław. [Zadanie 1](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie1), [Zadanie 2](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie2)
+1. Mroczek, Przemysław. [Zadanie 1](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie1), [Zadanie 2](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie2). [Zadanie 3](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie3)
 1. Pluskota, Radosław. [Zadania 1, 2](https://github.com/rpluskota/rubytestinglab2014)
 1. Student, Dawid. [Zadania 1, 2](https://bitbucket.org/darthvid/ruby-ug/)
 1. Tomczyk, Tomasz. [Zadania 1, 2, 3](https://github.com/tomaszte/testowanie-aplikacji-ruby)
