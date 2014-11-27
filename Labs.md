@@ -116,9 +116,8 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Kisły, Zbigniew
 1. Makowski, Łukasz
 1. Matuszewski, Jan
-1. Mielnikowski, Łukasz [Zadania 1, 2](https://github.com/Whetold/RubyStuff)
+1. Mielnikowski, Łukasz. [Zadania 1, 2](https://github.com/Whetold/RubyStuff)
 1. Nowosada, Wojciech
-1. Pluskota, Radosław. [Zadania 1, 2, 3](https://github.com/rpluskota/rubytestinglab2014)
 1. Płotka, Magdalena
 1. Sadowski, Łukasz
 1. Socha, Bartłomiej

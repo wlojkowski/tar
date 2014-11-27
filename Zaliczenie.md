@@ -16,6 +16,7 @@
 1. Mroczek, Przemysław. [Zadanie 1](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie1), [Zadanie 2](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie2). [Zadanie 3](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie3)
 1. Niemczyk, Radosław [Zadania 1, 2, 3](https://github.com/Nemeczek/TestowanieRubyUG)
 1. Ochocki, Krzysztof. [Zadanie 1](https://github.com/kochocki/ruby/tree/master/zadanie_1), [Zadanie 2](https://github.com/kochocki/ruby/tree/master/zadanie_2), [Zadanie 3](https://github.com/kochocki/ruby/tree/master/zadanie_3)
+1. Pluskota, Radosław. [Zadania 1, 2, 3](https://github.com/rpluskota/rubytestinglab2014)
 1. Rzepniewski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mrzepniewski/ruby/src)
 1. Siepetowski, Marcin. [Zadanie 1](https://github.com/siepet/rubyrubyruby/#learn-ruby-the-easy-way) [Zadanie 2](https://github.com/siepet/rubyrubyruby/tree/master/to23/) [Zadanie 3](https://github.com/siepet/rubyrubyruby/tree/master/write_tests/)
 1. Smogór, Tomasz. [Zadania 1, 2, 3](https://bitbucket.org/tsmogor/ruby/overview)
