@@ -121,7 +121,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 
 1. Banaszak, Wojciech.  [Zadanie 1, 2]  (https://bitbucket.org/wbanaszak/github/)
 1. Hnatiuk, Ostap
-1. Jadanowski, Łukasz
+1. Jadanowski, Łukasz [Zadanie 1, 2, 3] (https://bitbucket.org/ljadanowski/ruby/)
 1. Kisły, Zbigniew
 1. Makowski, Łukasz
 1. Matuszewski, Jan
