@@ -121,5 +121,5 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Płotka, Magdalena. [Zadania 1, 2, 3](https://bitbucket.org/zoraidamp/ruby)
 1. Sadowski, Łukasz
 1. Socha, Bartłomiej
-1. Student, Dawid. [Zadania 1, 2](https://bitbucket.org/darthvid/ruby-ug/)
+1. Student, Dawid. [Zadania 1, 2, 3](https://bitbucket.org/darthvid/ruby-ug/)
 1. Szalay, Tamás
