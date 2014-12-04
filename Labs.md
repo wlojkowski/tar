@@ -110,7 +110,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 - Linki powinny być do repozytoriów **prywatnych**.
   (W ostateczności można dać link do repozytorium prywatnego na *Bitbucket*).
 
-1. Hnatiuk, Ostap
+1. Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby)
 1. Kisły, Zbigniew
 1. Makowski, Łukasz
 1. Matuszewski, Jan
