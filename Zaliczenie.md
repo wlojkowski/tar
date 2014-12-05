@@ -26,7 +26,7 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 1. Pluskota, Radosław. [Zadania 1, 2, 3](https://github.com/rpluskota/rubytestinglab2014)
 1. Płotka, Magdalena. [Zadania 1, 2, 3](https://bitbucket.org/zoraidamp/ruby)
 1. Rzepniewski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mrzepniewski/ruby/src)
-1. Siepetowski, Marcin. [Zadanie 1](https://github.com/siepet/rubyrubyruby/#learn-ruby-the-easy-way) [Zadanie 2](https://github.com/siepet/rubyrubyruby/tree/master/to23/) [Zadanie 3](https://github.com/siepet/rubyrubyruby/tree/master/write_tests/) – repozytoria publiczne
+1. Siepetowski, Marcin. [Zadanie 1, 2, 3](https://bitbucket.org/siepet/rubyrubyruby/src)
 1. Smogór, Tomasz. [Zadania 1, 2, 3](https://bitbucket.org/tsmogor/ruby/overview)
 1. Student, Dawid. [Zadania 1, 2, 3](https://bitbucket.org/darthvid/ruby-ug/)
 1. Tomczyk, Tomasz. [Zadania 1, 2, 3](https://github.com/tomaszte/testowanie-aplikacji-ruby)
