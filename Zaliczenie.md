@@ -17,7 +17,7 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 * C – kiepskie coverage
 * D – brak doubles/mocków/stubów
 
-i [3-] – brak zadania, niestety :worried:
+i [3-] – brak zadania, trzeciego, niestety :worried:
 
 ----
 
