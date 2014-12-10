@@ -21,7 +21,6 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 
 ----
 
-1. Student, Dawid. [Zadania 1, 2, 3](https://bitbucket.org/darthvid/ruby-ug/)
 1. Tomczyk, Tomasz. [Zadania 1, 2, 3](https://github.com/tomaszte/testowanie-aplikacji-ruby)
 1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadania 2, 3](https://github.com/pwyszynski/sequence)
 1. Zieliński, Kamil. [Zadania 1, 2, 3](https://bitbucket.org/Ziela/testowanieaplikacjiruby/)
@@ -55,6 +54,7 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Pluskota, Radosław. [Zadania 1, 2, 3](https://github.com/rpluskota/rubytestinglab2014) [2G,RE]
 1. Rzepniewski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mrzepniewski/ruby/src) [2G, 3G]; w testach nie powinniśmy nic wypisywać na STDOUT
 1. Smogór, Tomasz. [Zadania 1, 2, 3](https://bitbucket.org/tsmogor/ruby/overview) [2+3 razem]
+1. Student, Dawid. [Zadania 1, 2, 3](https://bitbucket.org/darthvid/ruby-ug/) [2EG, 3MEC]; Gemfile bez gemów
 
 
 ## D (niezaliczone)
