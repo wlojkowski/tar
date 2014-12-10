@@ -17,9 +17,10 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 * C – kiepskie coverage
 * D – brak doubles/mocków/stubów
 
+i [3-] – brak zadania, niestety :worried:
+
 ----
 
-1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://bitbucket.org/lkliczkowski/ruby)
 1. Krzyżanowski, Piotr. [Zadania 1, 2, 3](https://bitbucket.org/Pietter/ruby)
 1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby/branch/Testowanie-Ruby)
 1. Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff)
@@ -65,3 +66,4 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 1. Człapiński, Bogusław. [Zadania 1, 2, 3](https://bitbucket.org/bczlapinski/ruby) [2E,RE, 3RE]
 1. Grabowski, Marek. [Zadanie 1, 2, 3](https://bitbucket.org/Grabarzstg/ruby/src) [2RE, 3RE]; to samo w zadaniach 2 i 3
 1. Jadanowski, Łukasz. [Zadanie 1, 2, 3](https://bitbucket.org/ljadanowski/ruby/) [2RE, 3RE]
+1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://bitbucket.org/lkliczkowski/ruby) [1E, 2RE,C, 3-]
