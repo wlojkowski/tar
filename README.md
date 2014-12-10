@@ -1,15 +1,14 @@
 ## Testowanie aplikacji w Ruby, 2014/15
 
-----
-![refactoring](images/refactoring.jpg)
-----
-
 ## Spotkanie z dyrekcją Instytutu
 
 Jutro, 11.12 o godz. 12.30 i 15.15 na naszych zajęciach
 dr J. Neuman i dr T. Borzyszkowski opowiedzą o stażach na
 specjalności.
 
+----
+![refactoring](images/refactoring.jpg)
+----
 
 1. Powtórka z języka Ruby.
    - [Learn X in Y minutes][5], where X=Ruby.
