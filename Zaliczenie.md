@@ -33,7 +33,7 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Smogór, Tomasz. [Zadania 1, 2, 3](https://bitbucket.org/tsmogor/ruby/overview)
 1. Student, Dawid. [Zadania 1, 2, 3](https://bitbucket.org/darthvid/ruby-ug/)
 1. Tomczyk, Tomasz. [Zadania 1, 2, 3](https://github.com/tomaszte/testowanie-aplikacji-ruby)
-1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadanie 2, Zadanie 3](https://github.com/pwyszynski/sequence)
+1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadania 2, 3](https://github.com/pwyszynski/sequence)
 1. Zieliński, Kamil. [Zadania 1, 2, 3](https://bitbucket.org/Ziela/testowanieaplikacjiruby/)
 1. Zielke, Adam. [Zadania 1, 2, 3](https://Festerski@bitbucket.org/Festerski/ruby)
 
