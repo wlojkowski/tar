@@ -21,7 +21,6 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 
 ----
 
-1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadania 2, 3](https://github.com/pwyszynski/sequence)
 1. Zieliński, Kamil. [Zadania 1, 2, 3](https://bitbucket.org/Ziela/testowanieaplikacjiruby/)
 1. Zielke, Adam. [Zadania 1, 2, 3](https://Festerski@bitbucket.org/Festerski/ruby)
 
@@ -67,3 +66,4 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Krzyżanowski, Piotr. [Zadania 1, 2, 3](https://bitbucket.org/Pietter/ruby) [2RE, 3CD]
 1. Płotka, Magdalena. [Zadania 1, 2, 3](https://bitbucket.org/zoraidamp/ruby) [2RE, 3RE]
 1. Siepetowski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/siepet/rubyrubyruby/src) [2, 3]; `rspec Bin/Hex/Dec Conversion Tool`?
+1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadania 2, 3](https://github.com/pwyszynski/sequence) [3-]?
