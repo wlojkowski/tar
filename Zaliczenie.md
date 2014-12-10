@@ -21,7 +21,6 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 
 ----
 
-1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby/branch/Testowanie-Ruby)
 1. Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff)
 1. Mroczek, Przemysław. [Zadania 1, 2, 3](https://github.com/pmroczek/testowanie_repo)
 1. Niemczyk, Radosław [Zadania 1, 2, 3](https://github.com/Nemeczek/TestowanieRubyUG)
@@ -57,6 +56,7 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Bowżyk, Michał. [Zadania 1, 2, 3](https://bitbucket.org/PotworZlyBardzo/ruby/src) [2MG, 3MG]
 1. Grzesiak, Daniel. [Zadania 1, 2, 3](https://bitbucket.org/dgrzesiak/ruby_testowanie/src/) [2C,RE, 3CD]
 1. Jercha, Łukasz. [Zadania 1, 2, 3](https://github.com/ljercha/testowanie-w-ruby) [2G, 3G]; uruchamianie programu w trakcie testowania
+1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby) [2C, 3MD]
 
 
 ## D (niezaliczone)
