@@ -21,7 +21,6 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 
 ----
 
-1. Krzyżanowski, Piotr. [Zadania 1, 2, 3](https://bitbucket.org/Pietter/ruby)
 1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby/branch/Testowanie-Ruby)
 1. Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff)
 1. Mroczek, Przemysław. [Zadanie 1](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie1), [Zadanie 2](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie2). [Zadanie 3](https://github.com/pmroczek/testowanie_repo/tree/master/Zadanie3)
@@ -67,3 +66,4 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Grabowski, Marek. [Zadanie 1, 2, 3](https://bitbucket.org/Grabarzstg/ruby/src) [2RE, 3RE]; to samo w zadaniach 2 i 3
 1. Jadanowski, Łukasz. [Zadanie 1, 2, 3](https://bitbucket.org/ljadanowski/ruby/) [2RE, 3RE]
 1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://bitbucket.org/lkliczkowski/ruby) [1E, 2RE,C, 3-]
+1. Krzyżanowski, Piotr. [Zadania 1, 2, 3](https://bitbucket.org/Pietter/ruby) [2RE, 3CD]
