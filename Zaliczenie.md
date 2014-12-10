@@ -5,7 +5,6 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 * RE – rspec errors
 * …
 
-1. Adamaszek, Patryk. [Zadanie 1, 2, 3](https://bitbucket.org/padamaszek/ruby-testowanie) [2RE, 3?]
 1. Bannach, Krzysztof. [Zadania 1, 2, 3](https://bitbucket.org/kbannach/programy-ruby/src/master)
 1. Bowżyk, Michał. [Zadania 1, 2, 3](https://bitbucket.org/PotworZlyBardzo/ruby/src)
 1. Czerwiński, Mateusz. [Zadania 1, 2, 3](https://github.com/mtczerwinski/testing-ruby)
@@ -47,6 +46,7 @@ TODO
 
 ### C
 
+1. Adamaszek, Patryk. [Zadanie 1, 2, 3](https://bitbucket.org/padamaszek/ruby-testowanie) [2RE, 3?]
 1. Banaszak, Wojciech. [Zadania 1, 2](https://bitbucket.org/wbanaszak/github/)
 
 
