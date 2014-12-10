@@ -9,13 +9,12 @@ specjalności.
 
 Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 
-* RE – rspec errors
+* RE – rspec errors lub brak testów
 * J – śmieci w repozytorium
 * M – brak pliku *README.md* w katalogu głównym aplikacji
 * G – brak pliku *Gemfile*
+* E – edytor (za długie wiersze, tabulacje zamiast spacji, itd.)
 
-1. Czerwiński, Mateusz. [Zadania 1, 2, 3](https://github.com/mtczerwinski/testing-ruby)
-1. Człapiński, Bogusław. [Zadania 1, 2, 3](https://bitbucket.org/bczlapinski/ruby)
 1. Grabowski, Marek. [Zadanie 1, 2, 3](https://bitbucket.org/Grabarzstg/ruby/src)
 1. Grzesiak, Daniel. [Zadania 1, 2, 3](https://bitbucket.org/dgrzesiak/ruby_testowanie/src/)
 1. Jadanowski, Łukasz. [Zadanie 1, 2, 3](https://bitbucket.org/ljadanowski/ruby/)
@@ -44,6 +43,7 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 ### A
 
 1. Bannach, Krzysztof. [Zadania 1, 2, 3](https://bitbucket.org/kbannach/programy-ruby/src/master) [3J]
+1. Czerwiński, Mateusz. [Zadania 1, 2, 3](https://github.com/mtczerwinski/testing-ruby) [3E]
 
 
 ### B
@@ -54,9 +54,10 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 
 1. Adamaszek, Patryk. [Zadanie 1, 2, 3](https://bitbucket.org/padamaszek/ruby-testowanie) [2RE, 3?]
 1. Banaszak, Wojciech. [Zadania 1, 2](https://bitbucket.org/wbanaszak/github/)
-1. Bowżyk, Michał. [Zadania 1, 2, 3](https://bitbucket.org/PotworZlyBardzo/ruby/src) [2MG]
+1. Bowżyk, Michał. [Zadania 1, 2, 3](https://bitbucket.org/PotworZlyBardzo/ruby/src) [2MG, 3MG]
 
 
 ## D (niezaliczone)
 
 1. Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby) – you do not have access to this repository
+1. Człapiński, Bogusław. [Zadania 1, 2, 3](https://bitbucket.org/bczlapinski/ruby) [2E,RE, 3RE]
