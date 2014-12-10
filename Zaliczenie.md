@@ -19,7 +19,6 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 
 ----
 
-1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-1/), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-2/), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-3/)
 1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://bitbucket.org/lkliczkowski/ruby)
 1. Krzyżanowski, Piotr. [Zadania 1, 2, 3](https://bitbucket.org/Pietter/ruby)
 1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby/branch/Testowanie-Ruby)
@@ -48,6 +47,7 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 ### B
 
 1. Jóźwiak, Małgorzata. [Zadania 1, 2, 3](https://bitbucket.org/mjozwia/ruby/src) [3RE]
+1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-1/), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-2/), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-3/) [2GD, 3G]
 
 
 ### C
