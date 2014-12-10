@@ -19,7 +19,6 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 
 ----
 
-1. Jercha, Łukasz. [Zadania 1, 2, 3](https://github.com/ljercha/testowanie-w-ruby)
 1. Jóźwiak, Małgorzata. [Zadania 1, 2, 3](https://bitbucket.org/mjozwia/ruby/src)
 1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-1/), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-2/), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-3/)
 1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://bitbucket.org/lkliczkowski/ruby)
@@ -57,6 +56,7 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 1. Banaszak, Wojciech. [Zadania 1, 2](https://bitbucket.org/wbanaszak/github/)
 1. Bowżyk, Michał. [Zadania 1, 2, 3](https://bitbucket.org/PotworZlyBardzo/ruby/src) [2MG, 3MG]
 1. Grzesiak, Daniel. [Zadania 1, 2, 3](https://bitbucket.org/dgrzesiak/ruby_testowanie/src/) [2C,RE, 3CD]
+1. Jercha, Łukasz. [Zadania 1, 2, 3](https://github.com/ljercha/testowanie-w-ruby) [2G, 3G]; uruchamianie programu w trakcie testowania
 
 
 ## D (niezaliczone)
