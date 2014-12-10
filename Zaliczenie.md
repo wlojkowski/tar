@@ -15,7 +15,6 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 * G – brak pliku *Gemfile*
 * E – edytor (za długie wiersze, tabulacje zamiast spacji, itd.)
 
-1. Grabowski, Marek. [Zadanie 1, 2, 3](https://bitbucket.org/Grabarzstg/ruby/src)
 1. Grzesiak, Daniel. [Zadania 1, 2, 3](https://bitbucket.org/dgrzesiak/ruby_testowanie/src/)
 1. Jadanowski, Łukasz. [Zadanie 1, 2, 3](https://bitbucket.org/ljadanowski/ruby/)
 1. Jercha, Łukasz. [Zadania 1, 2, 3](https://github.com/ljercha/testowanie-w-ruby)
@@ -61,3 +60,4 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 
 1. Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby) – you do not have access to this repository
 1. Człapiński, Bogusław. [Zadania 1, 2, 3](https://bitbucket.org/bczlapinski/ruby) [2E,RE, 3RE]
+1. Grabowski, Marek. [Zadanie 1, 2, 3](https://bitbucket.org/Grabarzstg/ruby/src) [2RE, 3RE]; to samo w zadaniach 2 i 3
