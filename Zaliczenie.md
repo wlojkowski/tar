@@ -21,8 +21,6 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 
 ----
 
-1. Rzepniewski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mrzepniewski/ruby/src)
-1. Siepetowski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/siepet/rubyrubyruby/src)
 1. Smogór, Tomasz. [Zadania 1, 2, 3](https://bitbucket.org/tsmogor/ruby/overview)
 1. Student, Dawid. [Zadania 1, 2, 3](https://bitbucket.org/darthvid/ruby-ug/)
 1. Tomczyk, Tomasz. [Zadania 1, 2, 3](https://github.com/tomaszte/testowanie-aplikacji-ruby)
@@ -56,6 +54,7 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff) [2MEC, 3GD]
 1. Niemczyk, Radosław [Zadania 1, 2, 3](https://github.com/Nemeczek/TestowanieRubyUG) [2MC, 3ME]
 1. Pluskota, Radosław. [Zadania 1, 2, 3](https://github.com/rpluskota/rubytestinglab2014) [2G,RE]
+1. Rzepniewski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mrzepniewski/ruby/src) [2G, 3G]; w testach nie powinniśmy nic wypisywać na STDOUT
 
 
 ## D (niezaliczone)
@@ -67,3 +66,4 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://bitbucket.org/lkliczkowski/ruby) [1E, 2RE,C, 3-]
 1. Krzyżanowski, Piotr. [Zadania 1, 2, 3](https://bitbucket.org/Pietter/ruby) [2RE, 3CD]
 1. Płotka, Magdalena. [Zadania 1, 2, 3](https://bitbucket.org/zoraidamp/ruby) [2RE, 3RE]
+1. Siepetowski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/siepet/rubyrubyruby/src) [2, 3]; `rspec Bin/Hex/Dec Conversion Tool`?
