@@ -21,7 +21,6 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 
 ----
 
-1. Niemczyk, Radosław [Zadania 1, 2, 3](https://github.com/Nemeczek/TestowanieRubyUG)
 1. Ochocki, Krzysztof. [Zadania 1, 2, 3](https://github.com/kochocki/ruby/)
 1. Pluskota, Radosław. [Zadania 1, 2, 3](https://github.com/rpluskota/rubytestinglab2014)
 1. Płotka, Magdalena. [Zadania 1, 2, 3](https://bitbucket.org/zoraidamp/ruby)
@@ -57,6 +56,7 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Jercha, Łukasz. [Zadania 1, 2, 3](https://github.com/ljercha/testowanie-w-ruby) [2G, 3G]; uruchamianie programu w trakcie testowania
 1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby) [2C, 3MD]
 1. Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff) [2MEC, 3GD]
+1. Niemczyk, Radosław [Zadania 1, 2, 3](https://github.com/Nemeczek/TestowanieRubyUG) [2MC, 3ME]
 
 
 ## D (niezaliczone)
