@@ -17,7 +17,8 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 * C – kiepskie coverage
 * D – brak doubles/mocków/stubów
 
-1. Jadanowski, Łukasz. [Zadanie 1, 2, 3](https://bitbucket.org/ljadanowski/ruby/)
+----
+
 1. Jercha, Łukasz. [Zadania 1, 2, 3](https://github.com/ljercha/testowanie-w-ruby)
 1. Jóźwiak, Małgorzata. [Zadania 1, 2, 3](https://bitbucket.org/mjozwia/ruby/src)
 1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-1/), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-2/), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-3/)
@@ -63,3 +64,4 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 1. Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby) – you do not have access to this repository
 1. Człapiński, Bogusław. [Zadania 1, 2, 3](https://bitbucket.org/bczlapinski/ruby) [2E,RE, 3RE]
 1. Grabowski, Marek. [Zadanie 1, 2, 3](https://bitbucket.org/Grabarzstg/ruby/src) [2RE, 3RE]; to samo w zadaniach 2 i 3
+1. Jadanowski, Łukasz. [Zadanie 1, 2, 3](https://bitbucket.org/ljadanowski/ruby/) [2RE, 3RE]
