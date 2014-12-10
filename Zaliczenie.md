@@ -51,6 +51,7 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Smogór, Tomasz. [Zadania 1, 2, 3](https://bitbucket.org/tsmogor/ruby/overview) [2+3 razem]
 1. Student, Dawid. [Zadania 1, 2, 3](https://bitbucket.org/darthvid/ruby-ug/) [2EG, 3MEC]; Gemfile bez gemów
 1. Tomczyk, Tomasz. [Zadania 1, 2, 3](https://github.com/tomaszte/testowanie-aplikacji-ruby) [2CG, 3G]; plik *Gemfile* powinnien być w każdym projekcie
+1. Siepetowski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/siepet/rubyrubyruby/src) [23C]
 
 
 ## D (niezaliczone)
@@ -62,6 +63,5 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://bitbucket.org/lkliczkowski/ruby) [1E, 2RE,C, 3-]
 1. Krzyżanowski, Piotr. [Zadania 1, 2, 3](https://bitbucket.org/Pietter/ruby) [2RE, 3CD]
 1. Płotka, Magdalena. [Zadania 1, 2, 3](https://bitbucket.org/zoraidamp/ruby) [2RE, 3RE]
-1. Siepetowski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/siepet/rubyrubyruby/src) [2, 3]; `rspec Bin/Hex/Dec Conversion Tool`?
 1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadania 2, 3](https://github.com/pwyszynski/sequence) [3-]?
 1. Zielke, Adam. [Zadania 1, 2, 3](https:bitbucket.org/Festerski/ruby) [2G, 3-] ;Festerski@bitbucket.org/Festerski`, Malformed version number string
