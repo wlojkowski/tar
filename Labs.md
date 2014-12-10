@@ -115,6 +115,7 @@ specjalności.
 2. M. Czerwiński, Ł. Jadanowski. [Testy do aplikacji RoR](https://github.com/mtczerwinski/railsilla)
 3. Ł. Jercha, M. Rzepniewski, T. Smogór. [Metoda CPM + Algorytm Liu](/)
 4. M. Kiełb, K. Bannach. [System CMS](https://bitbucket.org/mkielb/ucms)
+5. M. Bowżyk, D. Student. [Metody Newtona i bisekcji rozwiązania równania](https://bitbucket.org/PotworZlyBardzo/ruby/src/master/egzamin/)
 
 
 ### Niezaliczone labortorium
