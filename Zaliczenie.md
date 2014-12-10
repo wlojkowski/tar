@@ -1,3 +1,10 @@
+## Spotkanie z dyrekcją Instytutu
+
+Jutro, 11.12 o godz. 12.30 i 15.15 na naszych zajęciach
+dr J. Neuman i dr T. Borzyszkowski opowiedzą o stażach na
+specjalności.
+
+
 ### Lista
 
 Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
