@@ -21,7 +21,6 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 
 ----
 
-1. Zieliński, Kamil. [Zadania 1, 2, 3](https://bitbucket.org/Ziela/testowanieaplikacjiruby/)
 1. Zielke, Adam. [Zadania 1, 2, 3](https://Festerski@bitbucket.org/Festerski/ruby)
 
 
@@ -29,6 +28,7 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 
 1. Bannach, Krzysztof. [Zadania 1, 2, 3](https://bitbucket.org/kbannach/programy-ruby/src/master) [3J]
 1. Czerwiński, Mateusz. [Zadania 1, 2, 3](https://github.com/mtczerwinski/testing-ruby) [3E]
+1. Zieliński, Kamil. [Zadania 1, 2, 3](https://bitbucket.org/Ziela/testowanieaplikacjiruby/) [2G, 3J]; w pliku *Gemfile* musimy wpisać dokładną wersję Ruby
 
 
 ### B
