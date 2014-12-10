@@ -52,7 +52,7 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Student, Dawid. [Zadania 1, 2, 3](https://bitbucket.org/darthvid/ruby-ug/) [2EG, 3MEC]; Gemfile bez gemów
 1. Tomczyk, Tomasz. [Zadania 1, 2, 3](https://github.com/tomaszte/testowanie-aplikacji-ruby) [2CG, 3G]; plik *Gemfile* powinnien być w każdym projekcie
 1. Siepetowski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/siepet/rubyrubyruby/src) [23C]
-1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadania 2, 3](https://github.com/pwyszynski/sequence) [23CD]
+1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadania 2, 3](https://github.com/pwyszynski/sequence) [23C,D]
 
 
 ## D (niezaliczone)
