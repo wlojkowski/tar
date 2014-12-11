@@ -29,6 +29,7 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 1. Mroczek, Przemysław. [Zadania 1, 2, 3](https://github.com/pmroczek/testowanie_repo) [2G]
 1. Ochocki, Krzysztof. [Zadania 1, 2, 3](https://github.com/kochocki/ruby/) [2C]
 1. Siepetowski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/siepet/rubyrubyruby/src)
+1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadania 2, 3](https://github.com/pwyszynski/sequence)
 
 
 ### C
@@ -45,7 +46,6 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 1. Smogór, Tomasz. [Zadania 1, 2, 3](https://bitbucket.org/tsmogor/ruby/overview) [2+3 razem]
 1. Student, Dawid. [Zadania 1, 2, 3](https://bitbucket.org/darthvid/ruby-ug/) [2EG, 3MEC]; Gemfile bez gemów
 1. Tomczyk, Tomasz. [Zadania 1, 2, 3](https://github.com/tomaszte/testowanie-aplikacji-ruby) [2CG, 3G]; plik *Gemfile* powinnien być w każdym projekcie
-1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadania 2, 3](https://github.com/pwyszynski/sequence) [23C,D]
 
 
 ## D (niezaliczone)
