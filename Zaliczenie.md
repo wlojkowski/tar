@@ -24,6 +24,7 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 
 ### B
 
+1. Jercha, Łukasz. [Zadania 1, 2, 3](https://github.com/ljercha/testowanie-w-ruby)
 1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-1/), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-2/), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-3/) [2GD, 3G]
 1. Mackiewicz, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mmackiewicz2/ruby) [3MD]
 1. Mroczek, Przemysław. [Zadania 1, 2, 3](https://github.com/pmroczek/testowanie_repo) [2G]
@@ -38,7 +39,6 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 1. Banaszak, Wojciech. [Zadania 1, 2](https://bitbucket.org/wbanaszak/github/)
 1. Bowżyk, Michał. [Zadania 1, 2, 3](https://bitbucket.org/PotworZlyBardzo/ruby/src) [2MG, 3MG]
 1. Grzesiak, Daniel. [Zadania 1, 2, 3](https://bitbucket.org/dgrzesiak/ruby_testowanie/src/) [2C,RE, 3CD]
-1. Jercha, Łukasz. [Zadania 1, 2, 3](https://github.com/ljercha/testowanie-w-ruby) [2G, 3G]; uruchamianie programu w trakcie testowania
 1. Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff) [2MEC, 3GD]
 1. Niemczyk, Radosław [Zadania 1, 2, 3](https://github.com/Nemeczek/TestowanieRubyUG) [2MC, 3ME]
 1. Pluskota, Radosław. [Zadania 1, 2, 3](https://github.com/rpluskota/rubytestinglab2014) [2G,RE]
