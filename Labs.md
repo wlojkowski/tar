@@ -1,10 +1,3 @@
-## Spotkanie z dyrekcją Instytutu
-
-Jutro, 11.12 o godz. 12.30 i 15.15 na naszych zajęciach
-dr J. Neuman i dr T. Borzyszkowski opowiedzą o stażach na
-specjalności.
-
-
 ## Laboratoria
 
 Podstawowe linki:
@@ -101,13 +94,6 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 * [when an intern tells me tests are for people who don’t know how to code](http://thecodinglove.com/post/43737038742/when-an-intern-tells-me-tests-are-for-people-who-dont)
 
 ========
-
-## Spotkanie z dyrekcją Instytutu
-
-Jutro, 11.12 o godz. 12.30 i 15.15 na naszych zajęciach
-dr J. Neuman i dr T. Borzyszkowski opowiedzą o stażach na
-specjalności.
-
 
 ### Egzamin, *deadline 7.01.2015*
 
