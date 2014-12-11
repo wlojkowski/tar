@@ -10,7 +10,7 @@ Legenda: [2X,Y 3Z] – zadanie 1 i zadanie 2 mają usterki:
 * C – kiepskie coverage
 * D – brak doubles/mocków/stubów
 
-i [3-] – brak zadania, trzeciego, niestety :worried:
+i [2-] – brak zadania, drugiego, niestety :worried:
 
 ----
 
@@ -19,11 +19,11 @@ i [3-] – brak zadania, trzeciego, niestety :worried:
 1. Bannach, Krzysztof. [Zadania 1, 2, 3](https://bitbucket.org/kbannach/programy-ruby/src/master) [3J]
 1. Czerwiński, Mateusz. [Zadania 1, 2, 3](https://github.com/mtczerwinski/testing-ruby) [3E]
 1. Zieliński, Kamil. [Zadania 1, 2, 3](https://bitbucket.org/Ziela/testowanieaplikacjiruby/) [2G, 3J]; w pliku *Gemfile* musimy wpisać dokładną wersję Ruby
+1. Jóźwiak, Małgorzata. [Zadania 1, 2, 3](https://bitbucket.org/mjozwia/ruby/src)
 
 
 ### B
 
-1. Jóźwiak, Małgorzata. [Zadania 1, 2, 3](https://bitbucket.org/mjozwia/ruby/src) [3RE]
 1. Kiełb, Michał. [Zadanie 1](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-1/), [Zadanie 2](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-2/), [Zadanie 3](https://bitbucket.org/mkielb/ruby-labs/src/master/exercise-3/) [2GD, 3G]
 1. Mroczek, Przemysław. [Zadania 1, 2, 3](https://github.com/pmroczek/testowanie_repo) [2G]
 1. Ochocki, Krzysztof. [Zadania 1, 2, 3](https://github.com/kochocki/ruby/) [2C]
