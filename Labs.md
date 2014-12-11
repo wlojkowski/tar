@@ -102,6 +102,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 3. Ł. Jercha, M. Rzepniewski, T. Smogór. [Metoda CPM + Algorytm Liu](/)
 4. M. Kiełb, K. Bannach. [System CMS](https://bitbucket.org/mkielb/ucms)
 5. M. Bowżyk, D. Student. [Metody Newtona i bisekcji rozwiązania równania](https://bitbucket.org/PotworZlyBardzo/ruby/src/master/egzamin/)
+6. P. Mroczek, K. Ochocki, K. Zieliński. [Metody Eulera i punktu środkowego rozwiązania zagadnienia różniczkowego](/)
 
 
 ### Niezaliczone labortorium
