@@ -1,11 +1,5 @@
 ## Testowanie aplikacji w Ruby, 2014/15
 
-## Spotkanie z dyrekcją Instytutu
-
-Jutro, 11.12 o godz. 12.30 i 15.15 na naszych zajęciach
-dr J. Neuman i dr T. Borzyszkowski opowiedzą o stażach na
-specjalności.
-
 ----
 ![refactoring](images/refactoring.jpg)
 ----
