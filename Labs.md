@@ -104,6 +104,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 5. M. Bowżyk, D. Student. [Metody Newtona i bisekcji rozwiązania równania](https://bitbucket.org/PotworZlyBardzo/ruby/src/master/egzamin/)
 6. P. Mroczek, K. Ochocki, K. Zieliński. [Metody Eulera i punktu środkowego rozwiązania zagadnienia różniczkowego](/)
 7. T. Tomczyk. [Wyznaczanie współczynników postaci ogólnej wielomianu dla podanych węzłow [x,y,z]](https://github.com/tomaszte/tar-egzamin)
+8. M. Płotka, M. Siepetowski, A. Zielke. [Wyszukiwanie miejsca zerowego funkcji metoda Newtona i Iteracji prostych](https://bitbucket.org/psz017/rubyproject)
 
 
 ### Niezaliczone labortorium
