@@ -105,7 +105,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 6. P. Mroczek, K. Ochocki, K. Zieliński. [Metody Eulera i punktu środkowego rozwiązania zagadnienia różniczkowego](/)
 7. T. Tomczyk. [Wyznaczanie współczynników postaci ogólnej wielomianu dla podanych węzłow [x,y,z]](https://github.com/tomaszte/tar-egzamin)
 8. M. Płotka, M. Siepetowski, A. Zielke. [Wyszukiwanie miejsca zerowego funkcji metoda Newtona i Iteracji prostych](https://bitbucket.org/psz017/rubyproject)
-
+9. R. Pluskota, Ł. Mielnikowski [Autorski język fizyczny oparty na grze Snake](https://github.com/Whetold/RubyEgzamin)
 
 ### Niezaliczone labortorium
 
