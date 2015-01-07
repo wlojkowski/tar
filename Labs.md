@@ -99,7 +99,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 
 1. D. Grzesiak, M. Jóźwiak, M. Mackiewicz. [Mnożniki Lagrange’a](https://bitbucket.org/mjozwia/interpolation/src)
 2. M. Czerwiński, Ł. Jadanowski. [Testy do aplikacji RoR](https://github.com/mtczerwinski/railsilla)
-3. Ł. Jercha, M. Rzepniewski, T. Smogór. [Metoda CPM + Algorytm Liu](/)
+3. Ł. Jercha, M. Rzepniewski, T. Smogór. [Metoda CPM + Algorytm Liu](https://github.com/ljercha/metodaCPM)
 4. M. Kiełb, K. Bannach. [System CMS](https://bitbucket.org/mkielb/ucms)
 5. M. Bowżyk, D. Student. [Metody Newtona i bisekcji rozwiązania równania](https://bitbucket.org/PotworZlyBardzo/ruby/src/master/egzamin/)
 6. P. Mroczek, K. Ochocki, K. Zieliński. [Wyznaczanie wielomianu dla węzłów wielokrotnych. Wyznaczanie całki wielomianu. Metody Eulera i punktu środkowego rozwiązania zagadnienia różniczkowego ](https://github.com/pmroczek/RubyTesting)
