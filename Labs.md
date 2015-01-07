@@ -102,7 +102,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 3. Ł. Jercha, M. Rzepniewski, T. Smogór. [Metoda CPM + Algorytm Liu](/)
 4. M. Kiełb, K. Bannach. [System CMS](https://bitbucket.org/mkielb/ucms)
 5. M. Bowżyk, D. Student. [Metody Newtona i bisekcji rozwiązania równania](https://bitbucket.org/PotworZlyBardzo/ruby/src/master/egzamin/)
-6. P. Mroczek, K. Ochocki, K. Zieliński. [Metody Eulera i punktu środkowego rozwiązania zagadnienia różniczkowego](/)
+6. P. Mroczek, K. Ochocki, K. Zieliński. [Wyznaczanie wielomianu dla węzłów wielokrotnych. Wyznaczanie całki wielomianu. Metody Eulera i punktu środkowego rozwiązania zagadnienia różniczkowego ](https://github.com/pmroczek/RubyTesting)
 7. T. Tomczyk. [Wyznaczanie współczynników postaci ogólnej wielomianu dla podanych węzłow [x,y,z]](https://github.com/tomaszte/tar-egzamin)
 8. M. Płotka, M. Siepetowski, A. Zielke. [Wyszukiwanie miejsca zerowego funkcji metoda Newtona i Iteracji prostych](https://bitbucket.org/psz017/rubyproject)
 9. R. Pluskota, Ł. Mielnikowski [Autorski silnik fizyczny oparty na grze Snake](https://github.com/Whetold/RubyEgzamin)
