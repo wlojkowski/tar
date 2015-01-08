@@ -119,8 +119,4 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
   (W ostateczności można dać link do repozytorium prywatnego na *Bitbucket*).
 
 1. Kisły, Zbigniew
-1. Matuszewski, Jan
-1. Nowosada, Wojciech
 1. Sadowski, Łukasz
-1. Socha, Bartłomiej
-1. Szalay, Tamás
