@@ -106,8 +106,11 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 7. T. Tomczyk. [Wyznaczanie współczynników postaci ogólnej wielomianu dla podanych węzłow [x,y,z]](https://github.com/tomaszte/tar-egzamin)
 8. M. Płotka, M. Siepetowski, A. Zielke. [Wyszukiwanie miejsca zerowego funkcji metoda Newtona i Iteracji prostych](https://bitbucket.org/psz017/rubyproject)
 9. R. Pluskota, Ł. Mielnikowski [Autorski silnik fizyczny oparty na grze Snake](https://github.com/Whetold/RubyEgzamin)
+10. P. Adamaszek, R. Niemczyk, P. Wyszyński. [Wielomian interpolacyjny metodą Neville'a w Sinatrze](https://github.com/pwyszynski/neville-coeffs)
+11. B. Człapiński, M. Grabowski, P. Krzyżanowski. [Rozwiązywanie równań metodą siecznych i połowienia](https://bitbucket.org/Grabarzstg/ruby/src/)
 
-### Niezaliczone labortorium
+
+### Niezaliczone laboratorium
 
 - Do wszystkich zadań (oczywiście oprócz zadania 1) należy dopisać testy.
 - Należy użyć gemu [simplecov](https://github.com/colszowka/simplecov).
