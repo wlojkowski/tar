@@ -33,7 +33,7 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 1. Wyszyński, Przemysław. [Zadanie 1](https://github.com/pwyszynski/ruby-tuts/blob/master/tutorial.md), [Zadania 2, 3](https://github.com/pwyszynski/sequence)
 
 
-### C
+### C+
 
 1. Adamaszek, Patryk. [Zadanie 1, 2, 3](https://bitbucket.org/padamaszek/ruby-testowanie) [2RE, 3?]
 1. Banaszak, Wojciech. [Zadania 1, 2](https://bitbucket.org/wbanaszak/github/)
@@ -41,7 +41,6 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 1. Grabowski, Marek. [Zadanie 1, 2, 3](https://bitbucket.org/Grabarzstg/ruby/src)
 1. Grzesiak, Daniel. [Zadania 1, 2, 3](https://bitbucket.org/dgrzesiak/ruby_testowanie/src/) [2C,RE, 3CD]
 1. Jadanowski, Łukasz. [Zadanie 1, 2, 3](https://bitbucket.org/ljadanowski/ruby/) [2RE, 3RE]
-1. Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff) [2MEC, 3GD]
 1. Niemczyk, Radosław [Zadania 1, 2, 3](https://github.com/Nemeczek/TestowanieRubyUG) [2MC, 3ME]
 1. Pluskota, Radosław. [Zadania 1, 2, 3](https://github.com/rpluskota/rubytestinglab2014) [2G,RE]
 1. Rzepniewski, Marcin. [Zadania 1, 2, 3](https://bitbucket.org/mrzepniewski/ruby/src) [2G, 3G]; w testach nie powinniśmy nic wypisywać na STDOUT
@@ -52,9 +51,13 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 
 ## D (niezaliczone)
 
-1. Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby) – you do not have access to this repository
 1. Człapiński, Bogusław. [Zadania 1, 2, 3](https://bitbucket.org/bczlapinski/ruby) [2E,RE, 3RE]
 1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://bitbucket.org/lkliczkowski/ruby) [1E, 2RE,C, 3-]
 1. Krzyżanowski, Piotr. [Zadania 1, 2, 3](https://bitbucket.org/Pietter/ruby) [2RE, 3CD]
 1. Płotka, Magdalena. [Zadania 1, 2, 3](https://bitbucket.org/zoraidamp/ruby) [2RE, 3RE]
 1. Zielke, Adam. [Zadania 1, 2, 3](https:bitbucket.org/Festerski/ruby) [2G, 3-]
+
+<!--
+1. C+ Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff) [2MEC, 3GD]
+1. D Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby) – you do not have access to this repository
+-->
