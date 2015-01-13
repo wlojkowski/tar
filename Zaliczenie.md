@@ -59,5 +59,6 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 
 <!--
 1. C+ Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff) [2MEC, 3GD]
-1. D Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby) – you do not have access to this repository
 -->
+1. D Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby) 
+
