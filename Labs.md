@@ -103,9 +103,9 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 4. [R] M. Kiełb, K. Bannach. [System CMS](https://bitbucket.org/mkielb/ucms) / prezentacja w trakcie zajęć 15.01
 5. [R] M. Bowżyk, D. Student. [Metody Newtona i bisekcji rozwiązania równania](https://bitbucket.org/PotworZlyBardzo/ruby/src/master/egzamin/) / D (brak testów)
 6. P. Mroczek, K. Ochocki, K. Zieliński. [Wyznaczanie wielomianu dla węzłów wielokrotnych. Wyznaczanie całki wielomianu. Metody Eulera i punktu środkowego rozwiązania zagadnienia różniczkowego ](https://github.com/pmroczek/RubyTesting) / A
-7. T. Tomczyk. [Wyznaczanie współczynników postaci ogólnej wielomianu dla podanych węzłow [x,y,z]](https://github.com/tomaszte/tar-egzamin)
-8. M. Płotka, M. Siepetowski, A. Zielke. [Wyszukiwanie miejsca zerowego funkcji metoda Newtona i Iteracji prostych](https://bitbucket.org/psz017/rubyproject)
-9. R. Pluskota, Ł. Mielnikowski [Autorski silnik fizyczny oparty na grze Snake](https://github.com/Whetold/RubyEgzamin)
+7. [BI] T. Tomczyk. [Wyznaczanie współczynników postaci ogólnej wielomianu dla podanych węzłow [x,y,z]](https://github.com/tomaszte/tar-egzamin) / D (require_relative: cannot load such file…)
+8. [B] M. Płotka, M. Siepetowski, A. Zielke. [Wyszukiwanie miejsca zerowego funkcji metoda Newtona i Iteracji prostych](https://bitbucket.org/psz017/rubyproject) / B
+9. R. Pluskota, Ł. Mielnikowski. [Autorski silnik fizyczny oparty na grze Snake](https://github.com/Whetold/RubyEgzamin)
 10. P. Adamaszek, R. Niemczyk, P. Wyszyński. [Wielomian interpolacyjny metodą Neville'a w Sinatrze](https://github.com/pwyszynski/neville-coeffs)
 11. B. Człapiński, M. Grabowski, P. Krzyżanowski. [Rozwiązywanie równań metodą siecznych i połowienia](https://bitbucket.org/Grabarzstg/ruby/src/)
 
