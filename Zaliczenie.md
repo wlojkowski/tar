@@ -58,7 +58,7 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 1. Zielke, Adam. [Zadania 1, 2, 3](https:bitbucket.org/Festerski/ruby) [2G, 3-]
 
 
-### Niezaliczone laboratorium
+### D (nzal)
 
 - Do wszystkich zadań (oczywiście oprócz zadania 1) należy dopisać testy.
 - Należy użyć gemu [simplecov](https://github.com/colszowka/simplecov).
@@ -68,8 +68,5 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 
 1. Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby) – You do not have access to this repository.
 1. Kisły, Zbigniew
-1. Sadowski, Łukasz
-
-<!--
 1. C+ Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff) [2MEC, 3GD]
--->
+1. Sadowski, Łukasz
