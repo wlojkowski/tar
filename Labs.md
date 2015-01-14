@@ -106,8 +106,9 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 7. [BI] T. Tomczyk. [Wyznaczanie współczynników postaci ogólnej wielomianu dla podanych węzłow [x,y,z]](https://github.com/tomaszte/tar-egzamin) / D (require_relative: cannot load such file…)
 8. [B] M. Płotka, M. Siepetowski, A. Zielke. [Wyszukiwanie miejsca zerowego funkcji metoda Newtona i Iteracji prostych](https://bitbucket.org/psz017/rubyproject) / B
 9. [BCGIR] R. Pluskota, Ł. Mielnikowski. [Autorski silnik fizyczny oparty na grze Snake](https://github.com/Whetold/RubyEgzamin) / D (nil, null, pusto)
-10. P. Adamaszek, R. Niemczyk, P. Wyszyński. [Wielomian interpolacyjny metodą Neville'a w Sinatrze](https://github.com/pwyszynski/neville-coeffs)
-11. B. Człapiński, M. Grabowski, P. Krzyżanowski. [Rozwiązywanie równań metodą siecznych i połowienia](https://bitbucket.org/Grabarzstg/ruby/src/)
+10. P. Adamaszek, R. Niemczyk, P. Wyszyński. [Wielomian interpolacyjny metodą Neville'a w Sinatrze](https://github.com/pwyszynski/neville-coeffs) / D
+ (cannot load such file -- sinatra)
+11. [BIR] B. Człapiński, M. Grabowski, P. Krzyżanowski. [Rozwiązywanie równań metodą siecznych i połowienia](https://bitbucket.org/Grabarzstg/ruby/src/) / D
 
 
 Legenda: B – brak przykładowego programu lub program jest ale nie działa,
