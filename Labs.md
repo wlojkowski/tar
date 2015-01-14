@@ -105,7 +105,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 6. P. Mroczek, K. Ochocki, K. Zieliński. [Wyznaczanie wielomianu dla węzłów wielokrotnych. Wyznaczanie całki wielomianu. Metody Eulera i punktu środkowego rozwiązania zagadnienia różniczkowego ](https://github.com/pmroczek/RubyTesting) / A
 7. [BI] T. Tomczyk. [Wyznaczanie współczynników postaci ogólnej wielomianu dla podanych węzłow [x,y,z]](https://github.com/tomaszte/tar-egzamin) / D (require_relative: cannot load such file…)
 8. [B] M. Płotka, M. Siepetowski, A. Zielke. [Wyszukiwanie miejsca zerowego funkcji metoda Newtona i Iteracji prostych](https://bitbucket.org/psz017/rubyproject) / B
-9. [BCGIR] R. Pluskota, Ł. Mielnikowski. [Autorski silnik fizyczny oparty na grze Snake](https://github.com/Whetold/RubyEgzamin) / D (pustka)
+9. [BCGIR] R. Pluskota, Ł. Mielnikowski. [Autorski silnik fizyczny oparty na grze Snake](https://github.com/Whetold/RubyEgzamin) / D (nil, null, pusto)
 10. P. Adamaszek, R. Niemczyk, P. Wyszyński. [Wielomian interpolacyjny metodą Neville'a w Sinatrze](https://github.com/pwyszynski/neville-coeffs)
 11. B. Człapiński, M. Grabowski, P. Krzyżanowski. [Rozwiązywanie równań metodą siecznych i połowienia](https://bitbucket.org/Grabarzstg/ruby/src/)
 
