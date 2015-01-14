@@ -108,15 +108,3 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 9. R. Pluskota, Ł. Mielnikowski [Autorski silnik fizyczny oparty na grze Snake](https://github.com/Whetold/RubyEgzamin)
 10. P. Adamaszek, R. Niemczyk, P. Wyszyński. [Wielomian interpolacyjny metodą Neville'a w Sinatrze](https://github.com/pwyszynski/neville-coeffs)
 11. B. Człapiński, M. Grabowski, P. Krzyżanowski. [Rozwiązywanie równań metodą siecznych i połowienia](https://bitbucket.org/Grabarzstg/ruby/src/)
-
-
-### Niezaliczone laboratorium
-
-- Do wszystkich zadań (oczywiście oprócz zadania 1) należy dopisać testy.
-- Należy użyć gemu [simplecov](https://github.com/colszowka/simplecov).
-  (Gotowy przykład jest w katalogu [03-rspec](labs/03-rspec).)
-- Linki powinny być do repozytoriów **prywatnych**.
-  (W ostateczności można dać link do repozytorium prywatnego na *Bitbucket*).
-
-1. Kisły, Zbigniew
-1. Sadowski, Łukasz

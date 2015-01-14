@@ -49,7 +49,7 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 1. Tomczyk, Tomasz. [Zadania 1, 2, 3](https://github.com/tomaszte/testowanie-aplikacji-ruby) [2CG, 3G]; plik *Gemfile* powinnien być w każdym projekcie
 
 
-## D -> C
+## C
 
 1. Człapiński, Bogusław. [Zadania 1, 2, 3](https://bitbucket.org/bczlapinski/ruby) [2E,RE, 3RE]
 1. Kliczkowski, Łukasz. [Zadania 1, 2, 3](https://bitbucket.org/lkliczkowski/ruby) [1E, 2RE,C, 3-]
@@ -57,8 +57,19 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 1. Płotka, Magdalena. [Zadania 1, 2, 3](https://bitbucket.org/zoraidamp/ruby) [2RE, 3RE]
 1. Zielke, Adam. [Zadania 1, 2, 3](https:bitbucket.org/Festerski/ruby) [2G, 3-]
 
+
+### Niezaliczone laboratorium
+
+- Do wszystkich zadań (oczywiście oprócz zadania 1) należy dopisać testy.
+- Należy użyć gemu [simplecov](https://github.com/colszowka/simplecov).
+  (Gotowy przykład jest w katalogu [03-rspec](labs/03-rspec).)
+- Linki powinny być do repozytoriów **prywatnych**.
+  (W ostateczności można dać link do repozytorium prywatnego na *Bitbucket*).
+
+1. Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby) – You do not have access to this repository.
+1. Kisły, Zbigniew
+1. Sadowski, Łukasz
+
 <!--
 1. C+ Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff) [2MEC, 3GD]
 -->
-1. D Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby) 
-
