@@ -110,7 +110,6 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
  (cannot load such file -- sinatra)
 11. [BIR] B. Człapiński, M. Grabowski, P. Krzyżanowski. [Rozwiązywanie równań metodą siecznych i połowienia](https://bitbucket.org/Grabarzstg/ruby/src/) / D
 
-
 Legenda: B – brak przykładowego programu lub program jest ale nie działa,
   C – słabe coverage,
   G – brak *Gemfile*,
