@@ -98,7 +98,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 ### Egzamin, *deadline 7.01.2015*
 
 1. [BRI] D. Grzesiak, M. Jóźwiak, M. Mackiewicz. [Mnożniki Lagrange’a](https://bitbucket.org/mjozwia/interpolation/src) / C
-2. M. Czerwiński, Ł. Jadanowski. [Testy do aplikacji RoR](https://github.com/mtczerwinski/railsilla) / prezentacja w trakcie zajęć 15.01
+2. M. Czerwiński, Ł. Jadanowski. [Testy do aplikacji RoR](https://github.com/mtczerwinski/railsilla)
 3. [RG] Ł. Jercha, M. Rzepniewski, T. Smogór. [Metoda CPM + Algorytm Liu](https://github.com/ljercha/metodaCPM) / D
 4. [R] M. Kiełb, K. Bannach. [System CMS](https://bitbucket.org/mkielb/ucms) / prezentacja w trakcie zajęć 15.01
 5. [R] M. Bowżyk, D. Student. [Metody Newtona i bisekcji rozwiązania równania](https://bitbucket.org/PotworZlyBardzo/ruby/src/master/egzamin/) / D (brak testów)
@@ -107,7 +107,6 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 8. [B] M. Płotka, M. Siepetowski, A. Zielke. [Wyszukiwanie miejsca zerowego funkcji metoda Newtona i Iteracji prostych](https://bitbucket.org/psz017/rubyproject) / B
 9. [BCGIR] R. Pluskota, Ł. Mielnikowski. [Autorski silnik fizyczny oparty na grze Snake](https://github.com/Whetold/RubyEgzamin) / D (nil, null, pusto)
 10. P. Adamaszek, R. Niemczyk, P. Wyszyński. [Wielomian interpolacyjny metodą Neville'a w Sinatrze](https://github.com/pwyszynski/neville-coeffs) / D
- (cannot load such file -- sinatra)
 11. [BIR] B. Człapiński, M. Grabowski, P. Krzyżanowski. [Rozwiązywanie równań metodą siecznych i połowienia](https://bitbucket.org/Grabarzstg/ruby/src/) / D
 
 Legenda: B – brak przykładowego programu lub program jest ale nie działa,
