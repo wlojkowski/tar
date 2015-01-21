@@ -66,7 +66,7 @@ i [2-] – brak zadania, drugiego, niestety :worried:
 - Linki powinny być do repozytoriów **prywatnych**.
   (W ostateczności można dać link do repozytorium prywatnego na *Bitbucket*).
 
-1. Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby) – You do not have access to this repository.
+1. Hnatiuk, Ostap. [Zadania 1, 2, 3](https://bitbucket.org/ohnatiuk/ruby)
 1. Kisły, Zbigniew
-1. C+ Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff) [2MEC, 3GD]
+1. Mielnikowski, Łukasz. [Zadania 1, 2, 3](https://github.com/Whetold/RubyStuff) [2MEC, 3GD]
 1. Sadowski, Łukasz
