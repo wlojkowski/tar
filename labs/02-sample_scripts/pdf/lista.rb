@@ -29,7 +29,7 @@ Prawn::Document.generate("lista.pdf") do
 
   nazwisko = make_cell :content => "nazwisko"
   imie = make_cell :content => "imię"
-  repo_url = make_cell :content => "url repo na github.com"
+  repo_url = make_cell :content => "github login"
 
   index = 0
   counted = body.map do |row|
@@ -40,7 +40,7 @@ Prawn::Document.generate("lista.pdf") do
 
   # counted.unshift ["0", "Bzyl", "Włodzimierz", "wbzyl/trekking.git", ""]
   # pp counted
-  counted.unshift ["", nazwisko, imie, repo_url, "uwagi"]
+  counted.unshift ["", nazwisko, imie, repo_url, "podpis"]
 
   table(counted, :header => true,
      :width => 540,
