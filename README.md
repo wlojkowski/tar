@@ -1,4 +1,4 @@
-## Testowanie aplikacji w Ruby, 2014/15
+## Testowanie aplikacji w Ruby, 2015/16
 
 ----
 ![refactoring](images/refactoring.jpg)
@@ -39,8 +39,9 @@
 
 ### Git
 
-* Scott Chacon, Ben Straub. [Pro Git](http://git-scm.com/book/en/v2)
-  - [6.1 GitHub – Account Setup and Configuration](http://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+* Scott Chacon, Ben Straub. [Pro Git](https://git-scm.com/book/en/v2)
+  - [6.1 GitHub – Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+  - [6.2 GitHub - Contributing to a Project](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 
 ### Continuous Integration and Deployment
 
