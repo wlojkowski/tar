@@ -26,8 +26,8 @@
 > and adequately rejected.<br>
 > 2. Theories that have not yet been known to be wrong,
 > not falsified yet, but are exposed to be wrong.<br>
-> Why is the theory [program] **never right**?<br>
-> – K. Popper
+> – *K. Popper*<br>
+> Why is the theory [program] **never right**?
 
 
 1. David Chelimsky, Dave Astels, Zach Dennis, Aslak Hellesøy, Bryan Helmkamp, Dan North.
