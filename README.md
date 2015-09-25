@@ -21,6 +21,15 @@
 
 ### RSpec
 
+> There are only two types of theories [programms]:<br>
+> 1. Theories that are known to be wrong, as they were tested
+> and adequately rejected.<br>
+> 2. Theories that have not yet been known to be wrong,
+> not falsified yet, but are exposed to be wrong.<br>
+> Why is the theory [program] **never right**?<br>
+> – K. Popper
+
+
 1. David Chelimsky, Dave Astels, Zach Dennis, Aslak Hellesøy, Bryan Helmkamp, Dan North.
    [The RSpec Book: Behaviour-Driven Development with RSpec, Cucumber, and Friends][3].
 2. [Better Specs](http://betterspecs.org/).
