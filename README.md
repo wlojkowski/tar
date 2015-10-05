@@ -7,7 +7,7 @@
 1. [Szablon projektu Ruby + RSpec](https://github.com/egzamin/rspec-template)
 1. Powtórka z języka Ruby.
    - [Learn X in Y minutes][5], where X=Ruby.
-   - [Learn X in Ruby], where X=Hash,Array,Enumerable
+   - Learn X in Ruby, where X=Hash,Array,Enumerable
 2. Ogólnie o testowaniu, dostępne narzędzia i technologie:<br>
    - Edytor i Testowanie
    - [Learn X in Y minutes], where X=Rspec,Capybara,Factory Girl
