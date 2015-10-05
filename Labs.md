@@ -28,17 +28,21 @@ Terminy rozliczania się z zadań i projektu na egzamin:
 
 | zadanie | opis       | termin     |
 |--------:|----------- |-----------:|
-| 1, 2, 3 | zaliczenie | 24.11.2014 |
-| 5       | egzamin    |  7.01.2015 |
+| 1, 2, 3 | zaliczenie | 26.11.2015 |
+| 4       | egzamin    | 11.01.2016 |
+
+[Szablon projektu Ruby + RSpec](https://github.com/egzamin/rspec-template).
+
 
 ### 1. Zaczynamy
 
-* [Learn X in Y minutes](http://learnxinyminutes.com/docs/ruby/)
-* Learn X=Ruby Arrays in Y=? minutes
-* Learn X=Ruby Hash in Y=? minutes
+* [Learn X in Y minutes](http://learnxinyminutes.com/docs/ruby/):
+  * Learn X=Ruby Hash in Y=? minutes
+  * Learn X=Ruby Arrays in Y=? minutes
+  * Learn X=Ruby Enumerable in Y=? minutes
 
 
-### 2. Z języka Python na język Ruby
+### 2. Z języka X=Python na język Ruby
 
 * [OpenCV](http://opencv.org/) – *Open Source Computer Vision Library*
   is an open source computer vision and machine learning software
@@ -75,7 +79,9 @@ lub do kodu omówionego na wykładzie:
 * [integration and unit tests](https://github.com/egzamin/tar/tree/master/labs/05-integration_tests)
 
 
-### 4. Wypożyczalnia Video (klasyka)
+### 4. Program/Biblioteka + program/Aplikacja www
+
+To tylko przykład – *Wypożyczalnia Video (klasyka)*.
 
 *Program do obliczania i wypisywania rachunków za wypożyczone filmy.*
 
