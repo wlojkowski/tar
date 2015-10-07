@@ -55,9 +55,9 @@
 1. [Codeship](https://www.codeship.io/).
 1. [Travis](https://travis-ci.org/) – niestety usługa płatna dla repozytoriów prywatnych.
 
-----
+### Różne rzeczy
 
-* [Codility](https://codility.com/) – we test coders
+1. [Codility](https://codility.com/) – we test coders
 
 
 [5]: http://learnxinyminutes.com/docs/ruby/
