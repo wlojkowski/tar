@@ -1,5 +1,13 @@
 ## Testowanie aplikacji w Ruby, 2015/16
 
+> There are only two types of theories [programms]:<br>
+> 1. Theories that are known to be wrong, as they were tested
+> and adequately rejected.<br>
+> 2. Theories that have not yet been known to be wrong,
+> not falsified yet, but are exposed to be wrong.<br>
+> – *K. Popper*<br>
+> Why is the theory [program] **never right**?
+
 ----
 ![refactoring](images/refactoring.jpg)
 ----
@@ -23,15 +31,6 @@
 9. Praca z *Legacy Code* (zastanym kodem, kodem niepokrytym testami).
 
 ### RSpec
-
-> There are only two types of theories [programms]:<br>
-> 1. Theories that are known to be wrong, as they were tested
-> and adequately rejected.<br>
-> 2. Theories that have not yet been known to be wrong,
-> not falsified yet, but are exposed to be wrong.<br>
-> – *K. Popper*<br>
-> Why is the theory [program] **never right**?
-
 
 1. David Chelimsky, Dave Astels, Zach Dennis, Aslak Hellesøy, Bryan Helmkamp, Dan North.
   [The RSpec Book: Behaviour-Driven Development with RSpec, Cucumber, and Friends][3].
