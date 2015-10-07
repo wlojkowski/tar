@@ -8,9 +8,7 @@
 > – *K. Popper*<br>
 > Why is the theory [program] **never right**?
 
-----
 ![refactoring](images/refactoring.jpg)
-----
 
 1. [Szablon projektu Ruby + RSpec](https://github.com/egzamin/solutions-tar).
 1. Powtórka z języka Ruby:
