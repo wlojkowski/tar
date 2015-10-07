@@ -31,7 +31,7 @@ Terminy rozliczania się z zadań i projektu na egzamin:
 | 1, 2, 3 | zaliczenie | 26.11.2015 |
 | 4       | egzamin    | 11.01.2016 |
 
-[Szablon projektu Ruby + RSpec](https://github.com/egzamin/rspec-template).
+[Szablon projektu Ruby + RSpec](https://github.com/egzamin/solutions-tar).
 
 
 ### 1. Zaczynamy
