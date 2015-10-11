@@ -1,4 +1,4 @@
-#!/bin/env ruby -w
+#! /usr/bin/env ruby -w
 # $VERBOSE=true
 
 puts 'hello world'
