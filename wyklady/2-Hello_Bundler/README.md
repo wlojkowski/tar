@@ -1,3 +1,3 @@
 ## Lista
 
-1. [hello_world.rb][]
+1. [hello_world](hello_world)
