@@ -2,3 +2,4 @@
 # $VERBOSE=true
 
 puts 'hello world'
+puts 'witaj świecie'
