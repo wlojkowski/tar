@@ -1,4 +1,4 @@
-#! /usr/bin/env ruby -v
+#! /usr/bin/env ruby -w
 
 require 'bundler/setup'
 
