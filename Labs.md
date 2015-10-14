@@ -28,8 +28,8 @@ Terminy rozliczania się z zadań i projektu na egzamin:
 
 | zadanie | opis       | termin     |
 |--------:|----------- |-----------:|
-| 1, 2, 3 | zaliczenie | 26.11.2015 |
-| 4       | egzamin    | 11.01.2016 |
+| 1, 2    | zaliczenie | 26.11.2015 |
+| 3, 4    | egzamin    | 11.01.2016 |
 
 [Szablon projektu Ruby + RSpec](https://github.com/egzamin/solutions-tar).
 
@@ -98,3 +98,38 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod.
 
 * [when an intern tells me tests are for people who don’t know how to code](http://thecodinglove.com/post/43737038742/when-an-intern-tells-me-tests-are-for-people-who-dont)
+
+
+## Lista
+
+1. Ananchuk Yauheni
+1. Beiger Monika
+1. Błachuciak Amelia
+1. Buszman Dariusz
+1. Dąbrowski Łukasz
+1. Drewing Maciej
+1. Gańcza Melchior
+1. Jaszczak Mariusz
+1. Kamola Filip
+1. Klemarczyk Maciej
+1. Krakowiak Michał
+1. Marcinkiewicz Oskar
+1. Niewczas Katarzyna
+1. Okoniewski Daniel
+1. Olobry Konrad
+1. Pałkowska Klaudia
+1. Popko Adrianna
+1. Rostek Karolina
+1. Rzepecki Wojciech
+1. Sadowski Łukasz
+1. Sobociński Paweł
+1. Socha Bartłomiej
+1. Stypa Aneta
+1. Szczutkowski Dawid
+1. Szewczyk Krystian
+1. Tarnowski Łukasz
+1. Uściłowicz Sebastian
+1. Walczak Marta
+1. Wójcicka Zuzanna
+1. Zawistowski Łukasz
+1. Żerański Piotr
