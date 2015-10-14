@@ -15,6 +15,7 @@
    - [Try Ruby](http://tryruby.org)
    - [Learn X in Y minutes][5], where X = Ruby
    - Learn X in Ruby, where X = [Hash, Array, Enumerable](http://ruby-doc.org/core-2.2.0)
+   - [How to Solve Coding Anti-Patterns for Ruby Rookies](http://www.sitepoint.com/how-to-solve-coding-anti-patterns-for-ruby-rookies/)
    - [Instalacja][2]
 2. Ogólnie o testowaniu, dostępne narzędzia i technologie:<br>
    - Edytor i Testowanie
