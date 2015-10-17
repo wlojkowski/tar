@@ -132,4 +132,4 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Walczak Marta
 1. Wójcicka Zuzanna
 1. Zawistowski Łukasz
-1. Żerański Piotr
+1. [Żerański Piotr](https://github.com/pzeranski/ruby)
