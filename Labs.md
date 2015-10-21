@@ -103,7 +103,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 ## Lista
 
 1. Ananchuk Yauheni
-1. Beiger Monika
+1. [Beiger Monika](https://github.com/mbeiger/Ruby)
 1. Błachuciak Amelia
 1. Buszman Dariusz
 1. Dąbrowski Łukasz
