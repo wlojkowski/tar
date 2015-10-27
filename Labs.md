@@ -128,7 +128,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. [Szczutkowski Dawid](https://github.com/dszczutkowski/Ruby)
 1. Szewczyk Krystian
 1. Tarnowski Łukasz
-1. Uściłowicz Sebastian
+1. [Uściłowicz Sebastian](https://github.com/suscilowicz/Ruby)
 1. [Walczak Marta](https://github.com/mawala/solutions-tar)
 1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ruby)
 1. Zawistowski Łukasz
