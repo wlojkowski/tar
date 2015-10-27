@@ -53,6 +53,37 @@
   - [6.1 GitHub – Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
   - [6.2 GitHub - Contributing to a Project](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 
+### Atom
+
+Większe literki dla UI:
+
+```less
+@ui-font-size: 16px;
+
+atom-pane {
+  font-size: @ui-font-size;
+}
+.overlay .select-list ol.list-group li,
+.overlay.select-list ol.list-group li {
+  font-size: @ui-font-size;
+}
+.status-bar {
+  font-size: @ui-font-size;
+  height: @ui-font-size * 2;
+  line-height: @ui-font-size * 2 - 4;
+}
+.tab-bar .tab, .tab-bar .tab.active {
+  font-size: @ui-font-size;
+  height: @ui-font-size * 2;
+}
+.tree-view {
+  font-size: @ui-font-size;
+}
+.settings-view {
+  font-size: @ui-font-size;
+}
+```
+
 ### Continuous Integration and Deployment
 
 1. [Codeship](https://www.codeship.io/).
