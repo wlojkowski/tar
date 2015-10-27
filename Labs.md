@@ -111,7 +111,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Gańcza Melchior
 1. Jaszczak Mariusz
 1. Kamola Filip
-1. Klemarczyk Maciej
+1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki)
 1. Krakowiak Michał
 1. Marcinkiewicz Oskar
 1. Niewczas Katarzyna
