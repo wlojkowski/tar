@@ -115,7 +115,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Krakowiak Michał
 1. Marcinkiewicz Oskar
 1. Niewczas Katarzyna
-1. Okoniewski Daniel
+1. [Okoniewski Daniel](https://github.com/okoniewskid/Ruby)
 1. Olobry Konrad
 1. Pałkowska Klaudia
 1. Popko Adrianna
