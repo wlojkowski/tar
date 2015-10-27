@@ -118,7 +118,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Ruby)
 1. [Olobry Konrad](https://github.com/Kombi92/Ruby1)
 1. Pałkowska Klaudia
-1. Popko Adrianna
+1. [Popko Adrianna](https://github.com/AdriannaPopko/Ruby)
 1. Rostek Karolina
 1. Rzepecki Wojciech
 1. Sadowski Łukasz
