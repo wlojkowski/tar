@@ -123,7 +123,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Rzepecki Wojciech
 1. Sadowski Łukasz
 1. Sobociński Paweł
-1. Socha Bartłomiej
+1. [Socha Bartłomiej] (https://github.com/bsocha/Ruby)
 1. Stypa Aneta
 1. Szczutkowski Dawid
 1. Szewczyk Krystian
