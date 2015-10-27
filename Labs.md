@@ -125,7 +125,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Sobociński Paweł
 1. [Socha Bartłomiej] (https://github.com/bsocha/Ruby)
 1. Stypa Aneta
-1. Szczutkowski Dawid
+1. [Szczutkowski Dawid](https://github.com/dszczutkowski/Ruby)
 1. Szewczyk Krystian
 1. Tarnowski Łukasz
 1. Uściłowicz Sebastian
