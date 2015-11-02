@@ -1,7 +1,7 @@
-VOWELS = ['A', 'E', 'I', 'O', 'U']
+VOWELS = %w(A E I O U)
 
 def hello(name)
-  "Hello, " + name
+  'Hello, ' + name
 end
 
 def starts_with_vowel?(s)
@@ -9,5 +9,5 @@ def starts_with_vowel?(s)
 end
 
 def binary_multiple_of_4?(s)
-  s[-2..-1] == "00"
+  s[-2..-1] == '00'
 end

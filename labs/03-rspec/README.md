@@ -2,17 +2,17 @@
 
 [RSpec documentation](http://rspec.info/):
 
+* [rspec-core](https://github.com/rspec/rspec-core)
 * [rspec-expectations](https://github.com/rspec/rspec-expectations)
 * [rspec-collection_matchers](https://github.com/rspec/rspec-collection_matchers)
 * [rspec-mocks](https://github.com/rspec/rspec-mocks)
-* [rspec-core](https://github.com/rspec/rspec-core)
-
 
 Testy uruchamiamy w następujący sposób:
 
 ```sh
-rspec       # tylko kropki
-rspec -cfd  # więcej szczegółów
+rspec        # tylko kropki
+rspec -cfd   # więcej szczegółów
+rspec --help # koniecznie!
 ```
 
 ## Podpinanie aplikacji do [Travisa](https://travis-ci.org/)
