@@ -42,7 +42,10 @@ Terminy rozliczania się z zadań i projektu na egzamin:
   * Learn X=Ruby Enumerable in Y=? minutes
 
 
-### 2. Z języka X=Python na język Ruby
+### 2. Piszemy testy do własnego kodu
+
+Na przykład, tłumaczymy kod z języka X=Python na język Ruby
+i dopisujemy do niego testy.
 
 * [OpenCV](http://opencv.org/) – *Open Source Computer Vision Library*
   is an open source computer vision and machine learning software
@@ -60,7 +63,7 @@ Jak dodać testy można podejrzeć
 w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tests).
 
 
-### 3. Mocki i stuby
+### 3. Doubles, mocks & stubs
 
 > Integration tests tell **what**’s not working. But they are of no use in<br>
 > **guessing where** the problem could be.<br>
@@ -79,7 +82,7 @@ lub do kodu omówionego na wykładzie:
 * [integration and unit tests](https://github.com/egzamin/tar/tree/master/labs/05-integration_tests)
 
 
-### 4. Program/Biblioteka + program/Aplikacja www
+### 4. Jakiś program lub aplikacja WWW
 
 To tylko przykład – *Wypożyczalnia Video (klasyka)*.
 
