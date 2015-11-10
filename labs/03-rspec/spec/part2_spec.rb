@@ -1,9 +1,7 @@
 require 'simplecov'
 SimpleCov.start
 
-require_relative '../lib/part2'
-
-# https://www.relishapp.com/rspec/rspec-expectations/v/3-0/docs/built-in-matchers
+require 'part2'
 
 describe '#hello' do
   it 'should be defined' do

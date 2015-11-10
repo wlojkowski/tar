@@ -1,13 +1,7 @@
 require 'simplecov'
 SimpleCov.start
 
-require_relative '../lib/part1'
-
-# TODO: (refactor): modify $LOAD_PATH
-# $LOAD_PATH << File.expand_path('../../lib', __FILE__)
-# require 'part1'
-
-# https://www.relishapp.com/rspec/rspec-expectations/v/3-0/docs/built-in-matchers
+require 'part1'
 
 describe '#sum' do
   it 'should be defined' do
