@@ -1,6 +1,7 @@
+# in lib/part1.rb
 module Enumerable
   def sort_by_freq
-    hist = inject(Hash.new(0)) do |memo,x|
+    hist = each_with_object(Hash.new(0)) do |memo, x|
       memo[x] += 1
       memo
     end
@@ -8,7 +9,7 @@ module Enumerable
   end
 
   def sort_distinct_by_freq
-    hist = inject(Hash.new(0)) do |memo,x|
+    hist = each_with_object(Hash.new(0)) do |memo, x|
       memo[x] += 1
       memo
     end
