@@ -1,6 +1,10 @@
 require 'simplecov'
 SimpleCov.start
 
-require_relative '../lib/part2'
+require 'part2'
 
-# tutaj wpisac testy
+RSpec.describe 'part2.rb -- Enumerable' do
+  it '#hist is defined'
+
+  # tutaj wpisac pozostale testy
+end

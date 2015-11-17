@@ -1,6 +1,12 @@
 require 'simplecov'
 SimpleCov.start
 
-require_relative '../lib/part1'
+require 'part1'
 
-# tutaj wpisac testy
+RSpec.describe 'part1.rb -- Enumerable' do
+  it '#sort_by_freq is defined'
+
+  it '#sort_distinct_by_freq'
+
+  # tutaj wpisac pozostale testy
+end
