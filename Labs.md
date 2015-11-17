@@ -128,7 +128,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. [Sadowski Patryk](https://github.com/psadowski/ruby_testy)
 1. [Sobociński Paweł](https://github.com/Redellex/testowanie_ruby)
 1. [Socha Bartłomiej](https://github.com/bsocha/Ruby)
-1. Stypa Aneta
+1. [Stypa Aneta](https://github.com/aneta-7/Ruby)
 1. [Szczutkowski Dawid](https://github.com/dszczutkowski/Ruby)
 1. Szewczyk Krystian
 1. [Tarnowski Łukasz](https://github.com/ltarnowski1/PierwszeRepo)
