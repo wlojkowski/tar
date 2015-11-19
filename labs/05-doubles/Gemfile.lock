@@ -28,6 +28,7 @@ PLATFORMS
 
 DEPENDENCIES
   rspec (~> 3.4.0)
+  rspec-mocks (~> 3.4.0)
   simplecov (~> 0.10.0)
 
 BUNDLED WITH

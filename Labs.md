@@ -42,7 +42,10 @@ Terminy rozliczania się z zadań i projektu na egzamin:
   * Learn X=Ruby Enumerable in Y=? minutes
 
 
-### 2. Z języka X=Python na język Ruby
+### 2. Piszemy testy do własnego kodu
+
+Na przykład, tłumaczymy kod z języka X=Python na język Ruby
+i dopisujemy do niego testy.
 
 * [OpenCV](http://opencv.org/) – *Open Source Computer Vision Library*
   is an open source computer vision and machine learning software
@@ -60,7 +63,7 @@ Jak dodać testy można podejrzeć
 w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tests).
 
 
-### 3. Mocki i stuby
+### 3. Doubles, mocks & stubs
 
 > Integration tests tell **what**’s not working. But they are of no use in<br>
 > **guessing where** the problem could be.<br>
@@ -79,7 +82,7 @@ lub do kodu omówionego na wykładzie:
 * [integration and unit tests](https://github.com/egzamin/tar/tree/master/labs/05-integration_tests)
 
 
-### 4. Program/Biblioteka + program/Aplikacja www
+### 4. Jakiś program lub aplikacja WWW
 
 To tylko przykład – *Wypożyczalnia Video (klasyka)*.
 
@@ -108,7 +111,8 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. [Buszman Dariusz](https://github.com/dbuszman/tar-2015)
 1. [Dąbrowski Łukasz](https://github.com/ldabrowski/rspec-template)
 1. [Drewing Maciej](https://github.com/Niedwiediew/Ruby)
-1. Gańcza Melchior
+1. [Gańcza Melchior](https://github.com/Melgan/ruby)
+1. [Hrycikowski Rafał](https://github.com/kreteda/Ruby)
 1. Jaszczak Mariusz
 1. [Kamola Filip](https://github.com/fkamola/Ruby)
 1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki)
@@ -122,12 +126,12 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. Rostek Karolina
 1. [Rzepecki Wojciech](https://github.com/wojtasss/testowanie-ruby-lab)
 1. [Sadowski Patryk](https://github.com/psadowski/ruby_testy)
-1. Sobociński Paweł
+1. [Sobociński Paweł](https://github.com/Redellex/testowanie_ruby)
 1. [Socha Bartłomiej](https://github.com/bsocha/Ruby)
-1. Stypa Aneta
+1. [Stypa Aneta](https://github.com/aneta-7/Ruby)
 1. [Szczutkowski Dawid](https://github.com/dszczutkowski/Ruby)
-1. Szewczyk Krystian
-1. Tarnowski Łukasz
+1. [Szewczyk Krystian](https://github.com/kszewczyk1/Testowanie-Ruby)
+1. [Tarnowski Łukasz](https://github.com/ltarnowski1/PierwszeRepo)
 1. [Uściłowicz Sebastian](https://github.com/suscilowicz/Ruby)
 1. [Walczak Marta](https://github.com/mawala/solutions-tar)
 1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ruby)
