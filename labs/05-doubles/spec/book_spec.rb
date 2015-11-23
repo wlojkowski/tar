@@ -18,7 +18,7 @@ RSpec.describe 'My library' do
     expect(@library.size).to eq(2)
   end
 
-  describe 'Books in my Library' do
+  describe 'Facts about books in my Library' do
     it 'RSpec book has 250 pages' do
       # book = Book.new('The RSpec Book', 250)
       book = instance_double('Book', :rspec_book, pages: 250)
