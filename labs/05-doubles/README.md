@@ -9,3 +9,7 @@ Pozostałe przykłady:
 1. _double_spec.rb_:
   * uncomment require and comment body of the class Book in _book.rb_
 2. _book_spec.rb_
+
+## Dokumentacja
+
+* [RSpec Mocks](https://github.com/rspec/rspec-mocks)

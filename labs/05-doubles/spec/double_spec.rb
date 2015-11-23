@@ -1,7 +1,7 @@
 # require 'book'
 
-RSpec.describe 'Mocked' do
-  it 'books have concrete number of pages' do
+RSpec.describe 'Library' do
+  it 'RSpec book has 250 pages' do
     book = instance_double('Book', :rspec_book, pages: 250)
     puts book.inspect
     expect(book.pages).to eq(250)
