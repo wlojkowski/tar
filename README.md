@@ -37,6 +37,11 @@
   - [rspec-core](https://github.com/rspec/rspec-core)
   - [rspec-expectations](https://github.com/rspec/rspec-expectations)
   - [rspec-mocks](https://github.com/rspec/rspec-mocks)
+3. [Better Specs](http://betterspecs.org) –
+  how to describe your methods, use context
+  - [Octokit](https://github.com/octokit/octokit.rb) –
+  many examples of excellent descriptions
+  - [The RSpec Style Guide](https://github.com/reachlocal/rspec-style-guide)
 
 ### Ruby
 
