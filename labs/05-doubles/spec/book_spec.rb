@@ -10,22 +10,22 @@ RSpec.describe 'My library' do
     expect(@library).to be_empty
   end
 
-  it 'returns the number of books in library' do
+  it '#size returns the number of books in @library' do
     # create a test double and declares a method stub in one statement
     @library << instance_double('Book', :rspec_book)
     @library << instance_double('Book', '(Untitled)')
 
-    expect(@library.length).to eq(2)
+    expect(@library.size).to eq(2)
   end
 
-  describe 'My books' do
-    it 'have concrete number of pages' do
+  describe 'Books in my Library' do
+    it 'RSpec book has 250 pages' do
       # book = Book.new('The RSpec Book', 250)
       book = instance_double('Book', :rspec_book, pages: 250)
       expect(book.pages).to eq(250)
     end
 
-    it 'have non-empty titles' do
+    it 'RSpec book title is "The RSpec Book"' do
       # book = Book.new('The RSpec Book', 250)
       # book = double('book')
       book = double('book', title: 'The RSpec Book')
