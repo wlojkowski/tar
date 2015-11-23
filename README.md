@@ -56,14 +56,27 @@
 Większe literki dla UI:
 
 ```less
-@ui-font-size: 16px;
-
-atom-pane {
-  font-size: @ui-font-size;
-}
 linter-message {
-  font-size: @ui-font-size;
+  font-size: 18px;
 }
+
+.rspec-console.rspec {
+  pre,
+  pre div atom-text-editor,
+  code,
+  tt {
+    font-size: 18px;
+    font-family: PT Mono, "Liberation Mono", monospace;
+  }
+}
+
+.tree-view {
+  font-size: 18px;
+}
+
+// TODO
+
+@ui-font-size: 16px;
 
 .overlay .select-list ol.list-group li,
 .overlay.select-list ol.list-group li {
@@ -77,9 +90,6 @@ linter-message {
 .tab-bar .tab, .tab-bar .tab.active {
   font-size: @ui-font-size;
   height: @ui-font-size * 2;
-}
-.tree-view {
-  font-size: @ui-font-size;
 }
 .settings-view {
   font-size: @ui-font-size;
