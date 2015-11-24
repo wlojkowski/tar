@@ -15,8 +15,8 @@ opt_parser = OptionParser.new do |opt|
   opt.on('-v', '--verbose', 'be more chatty') do
     options[:verbose] = true
   end
-  opts.on('-h', '--help', 'Wypisz pomoc') do
-    puts opts
+  opt.on('-h', '--help', 'Wypisz pomoc') do
+    puts opt
     exit
   end
 end
