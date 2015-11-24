@@ -58,7 +58,7 @@
 
 ### Atom
 
-Większe literki dla UI:
+Większe literki dla UI, _~/.atom/styles.less_:
 
 ```less
 linter-message {
@@ -99,6 +99,14 @@ linter-message {
 .settings-view {
   font-size: @ui-font-size;
 }
+```
+
+_~/.atom/keymap.cson_:
+
+```yaml
+'.platform-linux':
+  'cmd-shift-p': 'command-palette:toggle'
+  'cmd-shift-h': 'git-plus:menu'
 ```
 
 ### Continuous Integration and Deployment
