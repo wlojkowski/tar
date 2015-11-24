@@ -101,7 +101,7 @@ linter-message {
 }
 ```
 
-_~/.atom/keymap.cson_:
+Command palettes, menus, _~/.atom/keymap.cson_:
 
 ```yaml
 '.platform-linux':
