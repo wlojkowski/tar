@@ -123,7 +123,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. [Olobry Konrad](https://github.com/Kombi92/Ruby1)
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/Ruby)
 1. [Popko Adrianna](https://github.com/AdriannaPopko/Ruby)
-1. Rostek Karolina
+1. [Rostek Karolina] (https://github.com/Carolsien/RubyTest)
 1. [Rzepecki Wojciech](https://github.com/wojtasss/testowanie-ruby-lab)
 1. [Sadowski Patryk](https://github.com/psadowski/ruby_testy)
 1. [Sobociński Paweł](https://github.com/Redellex/testowanie_ruby)
