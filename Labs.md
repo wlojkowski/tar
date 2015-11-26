@@ -106,7 +106,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. [Kamola Filip](https://github.com/fkamola/Ruby)
 1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki)
 1. [Krakowiak Michał](https://github.com/mkrakowiak/rspec-template)
-1. Marcinkiewicz Oskar
+1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/Tar)
 1. [Niewczas Katarzyna](https://github.com/kniewczas/ruby)
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Ruby)
 1. [Olobry Konrad](https://github.com/Kombi92/Ruby1)
