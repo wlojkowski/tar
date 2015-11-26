@@ -73,11 +73,9 @@ w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tes
 > <br>
 > [What is the difference between integration and unit tests?](http://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests)
 
-Do kodu dopisać testy jednostkowe i integracyjne
-W testach jednostkowych użyć mocków i stubów.
-
 Testy piszemy do swojego kodu, jeśli ma to sens, lub do tego kodu 
 [06-integration_tests](https://github.com/egzamin/tar/tree/master/labs/06-integration_tests).
+W testach jednostkowych użyć doubles/mocków/stubów.
 
 
 ### 4. Program lub aplikacja WWW
