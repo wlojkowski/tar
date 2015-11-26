@@ -85,7 +85,7 @@ W testach jednostkowych użyć doubles/mocków/stubów.
 *Program oblicza i wypisuje rachunki za wypożyczone filmy.*
 
 Program korzystając z informacji jakie filmy i na jak długo
-wypożyczył użytkownik wypisuje rachunek. +
+wypożyczył użytkownik wypisuje rachunek.<br>
 Rachunek zależy od tego na jak długo wypożyczono film
 i od jego rodzaju. Są trzy rodzaje filmów: zwykłe, dla dzieci
 i nowe. Dodatkowo, opłata zależy od tego czy mamy przyznane
