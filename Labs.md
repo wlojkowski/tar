@@ -73,18 +73,16 @@ w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tes
 > <br>
 > [What is the difference between integration and unit tests?](http://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests)
 
-Do kodu dopisać testy jednostkowe i integracyjne.
+Do kodu dopisać testy jednostkowe i integracyjne
 W testach jednostkowych użyć mocków i stubów.
 
-Testy piszemy do swojego kodu (jeśli ma to sens)
-lub do kodu omówionego na wykładzie:
-
-* [integration and unit tests](https://github.com/egzamin/tar/tree/master/labs/05-integration_tests)
+Testy piszemy do swojego kodu, jeśli ma to sens, lub do tego kodu 
+[06-integration_tests](https://github.com/egzamin/tar/tree/master/labs/06-integration_tests).
 
 
-### 4. Jakiś program lub aplikacja WWW
+### 4. Program lub aplikacja WWW
 
-To tylko przykład – *Wypożyczalnia Video (klasyka)*.
+To tylko przykład programu – *Wypożyczalnia Video (klasyka)*.
 
 *Program do obliczania i wypisywania rachunków za wypożyczone filmy.*
 
@@ -95,12 +93,6 @@ Rachunek zależy od tego na jak długo wypożyczono film
 i od jego rodzaju. Są trzy rodzaje filmów: zwykłe, dla dzieci
 i nowe. Dodatkowo, opłata zależy od tego czy mamy przyznane
 punkty za częste wypożyczenia i od tego czy film jest nowy.
-
-**Zadanie:**
-
-Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod.
-
-* [when an intern tells me tests are for people who don’t know how to code](http://thecodinglove.com/post/43737038742/when-an-intern-tells-me-tests-are-for-people-who-dont)
 
 
 ## Lista
