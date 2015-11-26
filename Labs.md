@@ -113,7 +113,7 @@ Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy ko
 1. [Drewing Maciej](https://github.com/Niedwiediew/Ruby)
 1. [Gańcza Melchior](https://github.com/Melgan/ruby)
 1. [Hrycikowski Rafał](https://github.com/kreteda/Ruby)
-1. Jaszczak Mariusz
+1. [Jaszczak Mariusz] (https://github.com/mjaszczak/tar-2015-2016)
 1. [Kamola Filip](https://github.com/fkamola/Ruby)
 1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki)
 1. [Krakowiak Michał](https://github.com/mkrakowiak/rspec-template)
