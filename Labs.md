@@ -80,13 +80,12 @@ W testach jednostkowych użyć doubles/mocków/stubów.
 
 ### 4. Program lub aplikacja WWW
 
-To tylko przykład programu – *Wypożyczalnia Video (klasyka)*.
+„Wypożyczalnia Video” (klasyka). To tylko przykład programu na egzamin :sparkling_heart:
 
-*Program do obliczania i wypisywania rachunków za wypożyczone filmy.*
+*Program oblicza i wypisuje rachunki za wypożyczone filmy.*
 
 Program korzystając z informacji jakie filmy i na jak długo
-wypożyczył użytkownik wypisuje rachunek.
-
+wypożyczył użytkownik wypisuje rachunek. +
 Rachunek zależy od tego na jak długo wypożyczono film
 i od jego rodzaju. Są trzy rodzaje filmów: zwykłe, dla dzieci
 i nowe. Dodatkowo, opłata zależy od tego czy mamy przyznane
