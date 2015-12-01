@@ -29,7 +29,7 @@ Terminy rozliczania się z zadań i projektu na egzamin:
 | zadanie | opis       | termin     |
 |--------:|----------- |-----------:|
 | 1, 2    | zaliczenie | 26.11.2015 |
-| 3, 4    | egzamin    | 11.01.2016 |
+| 4       | egzamin    | 11.01.2016 |
 
 [Szablon projektu Ruby + RSpec](https://github.com/egzamin/solutions-tar).
 
@@ -62,7 +62,7 @@ i dopisujemy do niego testy.
 Jak dodać testy można podejrzeć
 w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tests).
 
-
+<!--
 ### 3. Doubles, mocks & stubs
 
 > Integration tests tell **what**’s not working. But they are of no use in<br>
@@ -73,10 +73,10 @@ w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tes
 > <br>
 > [What is the difference between integration and unit tests?](http://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests)
 
-Testy piszemy do swojego kodu, jeśli ma to sens, lub do tego kodu 
+Testy piszemy do swojego kodu, jeśli ma to sens, lub do tego kodu
 [06-integration_tests](https://github.com/egzamin/tar/tree/master/labs/06-integration_tests).
 W testach jednostkowych użyć doubles/mocków/stubów.
-
+-->
 
 ### 4. Program lub aplikacja WWW
 
