@@ -127,7 +127,7 @@ Legenda:
 1. [Szczutkowski Dawid](https://github.com/dszczutkowski/Ruby)
 1. [Szewczyk Krystian](https://github.com/kszewczyk1/Testowanie-Ruby) 2.12
 1. [Tarnowski Łukasz](https://github.com/ltarnowski1/Ruby) 2.12
-1. [Uściłowicz Sebastian](https://github.com/suscilowicz/Ruby)
+1. [Uściłowicz Sebastian](https://github.com/suscilowicz/Ruby) 2.12
 1. [Walczak Marta](https://github.com/mawala/solutions-tar) 1.12
 1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ruby)
 1. [Zawistowski Łukasz](https://github.com/lzawistowski/Testowanie-aplikacji-Ruby)
