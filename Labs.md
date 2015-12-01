@@ -100,7 +100,7 @@ Legenda:
 * nef – No examples found
 
 
-1. [Ananchuk Yauheni](https://github.com/Zhenya1096/testowanieRuby) 2.12
+1. [Ananchuk Yauheni](https://github.com/Zhenya1096/testowanieRuby) 2.12 cov
 1. [Beiger Monika](https://github.com/mbeiger/Ruby) 2.12
 1. [Błachuciak Amelia](https://github.com/erathiel/tar-2015)
 1. [Buszman Dariusz](https://github.com/dbuszman/tar-2015) 1.12
@@ -119,8 +119,8 @@ Legenda:
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/Ruby) 2.12
 1. [Popko Adrianna](https://github.com/AdriannaPopko/Ruby)
 1. [Rostek Karolina](https://github.com/Carolsien/RubyTest)
-1. [Rzepecki Wojciech](https://github.com/wojtasss/testowanie-ruby-lab)
-1. [Sadowski Patryk](https://github.com/psadowski/ruby_testy) 2.12
+1. [Rzepecki Wojciech](https://github.com/wojtasss/testowanie-ruby-lab) 2.12
+1. [Sadowski Patryk](https://github.com/psadowski/ruby_testy) 2.12 nef
 1. [Sobociński Paweł](https://github.com/Redellex/testowanie_ruby) 1.12
 1. [Socha Bartłomiej](https://github.com/bsocha/Ruby)
 1. [Stypa Aneta](https://github.com/aneta-7/Ruby) 2.12
