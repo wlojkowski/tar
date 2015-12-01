@@ -103,7 +103,7 @@ Legenda:
 1. [Ananchuk Yauheni](https://github.com/Zhenya1096/testowanieRuby)
 1. [Beiger Monika](https://github.com/mbeiger/Ruby)
 1. [Błachuciak Amelia](https://github.com/erathiel/tar-2015)
-1. [Buszman Dariusz](https://github.com/dbuszman/tar-2015) 1.12 nef
+1. [Buszman Dariusz](https://github.com/dbuszman/tar-2015) 1.12
 1. [Dąbrowski Łukasz](https://github.com/ldabrowski/rspec-template)
 1. [Drewing Maciej](https://github.com/Niedwiediew/Ruby) 1.12
 1. [Gańcza Melchior](https://github.com/Melgan/ruby)
@@ -113,7 +113,7 @@ Legenda:
 1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki)
 1. [Krakowiak Michał](https://github.com/mkrakowiak/rspec-template) 1.12
 1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/Tar)
-1. [Niewczas Katarzyna](https://github.com/kniewczas/ruby) 1.12 RSpec (LoadError)
+1. [Niewczas Katarzyna](https://github.com/kniewczas/ruby) 1.12 RSpec (LoadError)\
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Ruby) 1.12
 1. [Olobry Konrad](https://github.com/Kombi92/Ruby1)
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/Ruby)
