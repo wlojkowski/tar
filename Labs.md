@@ -96,6 +96,7 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 
 Legenda:
 
+* cov – brak coverage
 * nef – No examples found
 
 
@@ -107,7 +108,7 @@ Legenda:
 1. [Drewing Maciej](https://github.com/Niedwiediew/Ruby) 1.12
 1. [Gańcza Melchior](https://github.com/Melgan/ruby)
 1. [Hrycikowski Rafał](https://github.com/kreteda/Ruby)
-1. [Jaszczak Mariusz] (https://github.com/mjaszczak/tar-2015-2016) 1.12
+1. [Jaszczak Mariusz] (https://github.com/mjaszczak/tar-2015-2016) 1.12 cov
 1. [Kamola Filip](https://github.com/fkamola/Ruby)
 1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki)
 1. [Krakowiak Michał](https://github.com/mkrakowiak/rspec-template) 1.12
