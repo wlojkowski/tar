@@ -29,7 +29,7 @@ Terminy rozliczania się z zadań i projektu na egzamin:
 | zadanie | opis       | termin     |
 |--------:|----------- |-----------:|
 | 1, 2    | zaliczenie | 26.11.2015 |
-| 3, 4    | egzamin    | 11.01.2016 |
+| 4       | egzamin    | 11.01.2016 |
 
 [Szablon projektu Ruby + RSpec](https://github.com/egzamin/solutions-tar).
 
@@ -62,7 +62,7 @@ i dopisujemy do niego testy.
 Jak dodać testy można podejrzeć
 w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tests).
 
-
+<!--
 ### 3. Doubles, mocks & stubs
 
 > Integration tests tell **what**’s not working. But they are of no use in<br>
@@ -73,67 +73,62 @@ w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tes
 > <br>
 > [What is the difference between integration and unit tests?](http://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests)
 
-Do kodu dopisać testy jednostkowe i integracyjne.
-W testach jednostkowych użyć mocków i stubów.
+Testy piszemy do swojego kodu, jeśli ma to sens, lub do tego kodu
+[06-integration_tests](https://github.com/egzamin/tar/tree/master/labs/06-integration_tests).
+W testach jednostkowych użyć doubles/mocków/stubów.
+-->
 
-Testy piszemy do swojego kodu (jeśli ma to sens)
-lub do kodu omówionego na wykładzie:
+### 4. Program lub aplikacja WWW
 
-* [integration and unit tests](https://github.com/egzamin/tar/tree/master/labs/05-integration_tests)
+„Wypożyczalnia Video” (klasyka). To tylko przykład programu na egzamin :sparkling_heart:
 
-
-### 4. Jakiś program lub aplikacja WWW
-
-To tylko przykład – *Wypożyczalnia Video (klasyka)*.
-
-*Program do obliczania i wypisywania rachunków za wypożyczone filmy.*
+*Program oblicza i wypisuje rachunki za wypożyczone filmy.*
 
 Program korzystając z informacji jakie filmy i na jak długo
-wypożyczył użytkownik wypisuje rachunek.
-
+wypożyczył użytkownik wypisuje rachunek.<br>
 Rachunek zależy od tego na jak długo wypożyczono film
 i od jego rodzaju. Są trzy rodzaje filmów: zwykłe, dla dzieci
 i nowe. Dodatkowo, opłata zależy od tego czy mamy przyznane
 punkty za częste wypożyczenia i od tego czy film jest nowy.
 
-**Zadanie:**
-
-Red ⇒ Green ⇒ Refactor: dopisujemy testy do swoich skryptów i czyścimy kod.
-
-* [when an intern tells me tests are for people who don’t know how to code](http://thecodinglove.com/post/43737038742/when-an-intern-tells-me-tests-are-for-people-who-dont)
-
 
 ## Lista
 
-1. Ananchuk Yauheni
-1. [Beiger Monika](https://github.com/mbeiger/Ruby)
+Legenda:
+
+* cov – brak coverage
+* nef – No examples found
+
+
+1. [Ananchuk Yauheni](https://github.com/Zhenya1096/testowanieRuby) 2.12 cov
+1. [Beiger Monika](https://github.com/mbeiger/Ruby) 2.12
 1. [Błachuciak Amelia](https://github.com/erathiel/tar-2015)
-1. [Buszman Dariusz](https://github.com/dbuszman/tar-2015)
+1. [Buszman Dariusz](https://github.com/dbuszman/tar-2015) 1.12
 1. [Dąbrowski Łukasz](https://github.com/ldabrowski/rspec-template)
-1. [Drewing Maciej](https://github.com/Niedwiediew/Ruby)
+1. [Drewing Maciej](https://github.com/Niedwiediew/Ruby) 1.12
 1. [Gańcza Melchior](https://github.com/Melgan/ruby)
 1. [Hrycikowski Rafał](https://github.com/kreteda/Ruby)
-1. Jaszczak Mariusz
+1. [Jaszczak Mariusz](https://github.com/mjaszczak/tar-2015-2016) 1.12 cov
 1. [Kamola Filip](https://github.com/fkamola/Ruby)
-1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki)
-1. [Krakowiak Michał](https://github.com/mkrakowiak/rspec-template)
-1. Marcinkiewicz Oskar
-1. [Niewczas Katarzyna](https://github.com/kniewczas/ruby)
-1. [Okoniewski Daniel](https://github.com/okoniewskid/Ruby)
+1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki) 2.12
+1. [Krakowiak Michał](https://github.com/mkrakowiak/rspec-template) 1.12
+1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/Tar)
+1. [Niewczas Katarzyna](https://github.com/kniewczas/ruby) 1.12 RSpec (LoadError)\
+1. [Okoniewski Daniel](https://github.com/okoniewskid/Ruby) 1.12
 1. [Olobry Konrad](https://github.com/Kombi92/Ruby1)
-1. [Pałkowska Klaudia](https://github.com/kpalkowska/Ruby)
+1. [Pałkowska Klaudia](https://github.com/kpalkowska/Ruby) 2.12
 1. [Popko Adrianna](https://github.com/AdriannaPopko/Ruby)
-1. Rostek Karolina
-1. [Rzepecki Wojciech](https://github.com/wojtasss/testowanie-ruby-lab)
-1. [Sadowski Patryk](https://github.com/psadowski/ruby_testy)
-1. [Sobociński Paweł](https://github.com/Redellex/testowanie_ruby)
+1. [Rostek Karolina](https://github.com/Carolsien/RubyTest)
+1. [Rzepecki Wojciech](https://github.com/wojtasss/testowanie-ruby-lab) 2.12
+1. [Sadowski Patryk](https://github.com/psadowski/ruby_testy) 2.12 nef
+1. [Sobociński Paweł](https://github.com/Redellex/testowanie_ruby) 1.12
 1. [Socha Bartłomiej](https://github.com/bsocha/Ruby)
-1. [Stypa Aneta](https://github.com/aneta-7/Ruby)
+1. [Stypa Aneta](https://github.com/aneta-7/Ruby) 2.12
 1. [Szczutkowski Dawid](https://github.com/dszczutkowski/Ruby)
-1. [Szewczyk Krystian](https://github.com/kszewczyk1/Testowanie-Ruby)
-1. [Tarnowski Łukasz](https://github.com/ltarnowski1/PierwszeRepo)
-1. [Uściłowicz Sebastian](https://github.com/suscilowicz/Ruby)
-1. [Walczak Marta](https://github.com/mawala/solutions-tar)
+1. [Szewczyk Krystian](https://github.com/kszewczyk1/Testowanie-Ruby) 2.12
+1. [Tarnowski Łukasz](https://github.com/ltarnowski1/Ruby) 2.12
+1. [Uściłowicz Sebastian](https://github.com/suscilowicz/Ruby) 2.12
+1. [Walczak Marta](https://github.com/mawala/solutions-tar) 1.12
 1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ruby)
 1. [Zawistowski Łukasz](https://github.com/lzawistowski/Testowanie-aplikacji-Ruby)
-1. [Żerański Piotr](https://github.com/pzeranski/ruby)
+1. [Żerański Piotr](https://github.com/pzeranski/ruby) 2.12

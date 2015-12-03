@@ -1,6 +1,6 @@
 # Doubles
 
-Zasięg na przykładzie.
+Zasięg zmiennych na przykładzie.
 
 * [a_word_on_scope_spec.rb](https://github.com/rspec/rspec-core#a-word-on-scope)
 

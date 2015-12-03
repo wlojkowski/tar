@@ -33,6 +33,8 @@
 
 1. David Chelimsky, Dave Astels, Zach Dennis, Aslak Hellesøy, Bryan Helmkamp, Dan North.
   [The RSpec Book: Behaviour-Driven Development with RSpec, Cucumber, and Friends][3].
+1. Robert C. Martin.
+  [Czysty kod](http://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm).
 2. Dokumentacja [RSpec](http://rspec.info/):
   - [rspec-core](https://github.com/rspec/rspec-core)
   - [rspec-expectations](https://github.com/rspec/rspec-expectations)
@@ -58,7 +60,7 @@
 
 ### Atom
 
-Większe literki dla UI:
+Większe literki dla UI, _~/.atom/styles.less_:
 
 ```less
 linter-message {
@@ -99,6 +101,14 @@ linter-message {
 .settings-view {
   font-size: @ui-font-size;
 }
+```
+
+Command palettes, menus, _~/.atom/keymap.cson_:
+
+```yaml
+'.platform-linux':
+  'cmd-shift-p': 'command-palette:toggle'
+  'cmd-shift-h': 'git-plus:menu'
 ```
 
 ### Continuous Integration and Deployment
