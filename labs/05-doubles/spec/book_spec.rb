@@ -1,7 +1,7 @@
 require 'library'
 require 'book'
 
-RSpec.describe 'My library' do
+RSpec.describe Library do
   before(:example) do
     @library = Library.new
   end
