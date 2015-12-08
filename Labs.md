@@ -102,20 +102,20 @@ Legenda:
 
 1. [Ananchuk Yauheni](https://github.com/Zhenya1096/testowanieRuby) 2.12 cov
 1. [Beiger Monika](https://github.com/mbeiger/Ruby) 2.12
-1. [Błachuciak Amelia](https://github.com/erathiel/tar-2015)
+1. [Błachuciak Amelia](https://github.com/erathiel/tar-2015) 8.12
 1. [Buszman Dariusz](https://github.com/dbuszman/tar-2015) 1.12
-1. [Dąbrowski Łukasz](https://github.com/ldabrowski/rspec-template)
+1. [Dąbrowski Łukasz](https://github.com/ldabrowski/rspec-template) 8.12
 1. [Drewing Maciej](https://github.com/Niedwiediew/Ruby) 1.12
 1. [Gańcza Melchior](https://github.com/Melgan/ruby)
 1. [Hrycikowski Rafał](https://github.com/kreteda/Ruby)
 1. [Jaszczak Mariusz](https://github.com/mjaszczak/tar-2015-2016) 1.12 cov
-1. [Kamola Filip](https://github.com/fkamola/Ruby)
+1. [Kamola Filip](https://github.com/fkamola/Ruby) 8.12
 1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki) 2.12
 1. [Krakowiak Michał](https://github.com/mkrakowiak/rspec-template) 1.12
-1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/Tar)
+1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/Tar) 8.12
 1. [Niewczas Katarzyna](https://github.com/kniewczas/ruby) 1.12 RSpec (LoadError)\
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Ruby) 1.12
-1. [Olobry Konrad](https://github.com/Kombi92/Ruby1)
+1. [Olobry Konrad](https://github.com/Kombi92/Ruby1) 8.12
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/Ruby) 2.12
 1. [Popko Adrianna](https://github.com/AdriannaPopko/Ruby)
 1. [Rostek Karolina](https://github.com/Carolsien/RubyTest)
