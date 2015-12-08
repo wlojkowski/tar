@@ -125,7 +125,7 @@ Legenda:
 1. [Rzepecki Wojciech](https://github.com/wojtasss/testowanie-ruby-lab) 2.12
 1. [Sadowski Patryk](https://github.com/psadowski/ruby_testy) 2.12 nef
 1. [Sobociński Paweł](https://github.com/Redellex/testowanie_ruby) 1.12
-1. [Socha Bartłomiej](https://github.com/bsocha/Ruby) 9.12
+1. [Socha Bartłomiej](https://github.com/bsocha/Ruby) 9.12 [!] There was an error parsing `Gemfile`
 1. [Stypa Aneta](https://github.com/aneta-7/Ruby) 2.12
 1. [Szczutkowski Dawid](https://github.com/dszczutkowski/Ruby) 9.12
 1. [Szewczyk Krystian](https://github.com/kszewczyk1/Testowanie-Ruby) 2.12
