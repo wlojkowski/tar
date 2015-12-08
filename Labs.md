@@ -121,7 +121,7 @@ Legenda:
 1. [Olobry Konrad](https://github.com/Kombi92/Ruby1) 8.12 gmf
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/Ruby) 2.12
 1. [Popko Adrianna](https://github.com/AdriannaPopko/Ruby) 9.12
-1. [Rostek Karolina](https://github.com/Carolsien/RubyTest) 9.12
+1. [Rostek Karolina](https://github.com/Carolsien/RubyTest) 9.12 [!] There was an error parsing `Gemfile`
 1. [Rzepecki Wojciech](https://github.com/wojtasss/testowanie-ruby-lab) 2.12
 1. [Sadowski Patryk](https://github.com/psadowski/ruby_testy) 2.12 nef
 1. [Sobociński Paweł](https://github.com/Redellex/testowanie_ruby) 1.12
@@ -132,6 +132,6 @@ Legenda:
 1. [Tarnowski Łukasz](https://github.com/ltarnowski1/Ruby) 2.12
 1. [Uściłowicz Sebastian](https://github.com/suscilowicz/Ruby) 2.12
 1. [Walczak Marta](https://github.com/mawala/solutions-tar) 1.12
-1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ruby) 9.12
+1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ruby) 9.12 cannot load such file
 1. [Zawistowski Łukasz](https://github.com/lzawistowski/Testowanie-aplikacji-Ruby) 9.12
 1. [Żerański Piotr](https://github.com/pzeranski/ruby) 2.12
