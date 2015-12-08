@@ -99,7 +99,9 @@ Legenda:
 * cov – brak coverage
 * nef – No examples found
 * pnf – Page not found
+* gmf – brak Gemfile
 
+----
 
 1. [Ananchuk Yauheni](https://github.com/Zhenya1096/testowanieRuby) 2.12 cov
 1. [Beiger Monika](https://github.com/mbeiger/Ruby) 2.12
@@ -116,7 +118,7 @@ Legenda:
 1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/Tar) 8.12
 1. [Niewczas Katarzyna](https://github.com/kniewczas/ruby) 1.12 RSpec (LoadError)\
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Ruby) 1.12
-1. [Olobry Konrad](https://github.com/Kombi92/Ruby1) 8.12
+1. [Olobry Konrad](https://github.com/Kombi92/Ruby1) 8.12 gmf
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/Ruby) 2.12
 1. [Popko Adrianna](https://github.com/AdriannaPopko/Ruby)
 1. [Rostek Karolina](https://github.com/Carolsien/RubyTest)
