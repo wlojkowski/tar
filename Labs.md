@@ -103,7 +103,7 @@ Legenda:
 
 ----
 
-1. [Ananchuk Yauheni](https://github.com/Zhenya1096/testowanieRuby) 2.12 cov
+1. [Ananchuk Yauheni](https://github.com/Zhenya1096/testowanieRuby) 2.12
 1. [Beiger Monika](https://github.com/mbeiger/Ruby) 2.12
 1. [Błachuciak Amelia](https://github.com/erathiel/tar-2015) 8.12
 1. [Buszman Dariusz](https://github.com/dbuszman/tar-2015) 1.12
