@@ -116,7 +116,7 @@ Legenda:
 1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki) 2.12
 1. [Krakowiak Michał](https://github.com/mkrakowiak/rspec-template) 1.12
 1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/Tar) 8.12
-1. [Niewczas Katarzyna](https://github.com/kniewczas/ruby) 1.12 RSpec (LoadError)\
+1. [Niewczas Katarzyna](https://github.com/kniewczas/ruby) 1.12
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Ruby) 1.12
 1. [Olobry Konrad](https://github.com/Kombi92/Ruby1) 8.12 gmf
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/Ruby) 2.12
