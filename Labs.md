@@ -121,7 +121,7 @@ Legenda:
 1. [Olobry Konrad](https://github.com/Kombi92/Ruby1) 8.12 gmf
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/Ruby) 2.12
 1. [Popko Adrianna](https://github.com/AdriannaPopko/Ruby) 9.12
-1. [Rostek Karolina](https://github.com/Carolsien/RubyTest) 9.12 [!] There was an error parsing `Gemfile`
+1. [Rostek Karolina](https://github.com/Carolsien/RubyTest) 9.12
 1. [Rzepecki Wojciech](https://github.com/wojtasss/testowanie-ruby-lab) 2.12
 1. [Sadowski Patryk](https://github.com/psadowski/ruby_testy) 2.12 nef
 1. [Sobociński Paweł](https://github.com/Redellex/testowanie_ruby) 1.12
