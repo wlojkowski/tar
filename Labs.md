@@ -110,7 +110,7 @@ Legenda:
 1. [Dąbrowski Łukasz](https://github.com/ldabrowski/rspec-template) 8.12
 1. [Drewing Maciej](https://github.com/Niedwiediew/Ruby) 1.12
 1. [Gańcza Melchior](https://github.com/Melgan/ruby) 9.12
-1. [Hrycikowski Rafał](https://github.com/kreteda/Ruby) 9.12 nef
+1. [Hrycikowski Rafał](https://github.com/kreteda/Ruby-2) 9.12 nef
 1. [Jaszczak Mariusz](https://github.com/mjaszczak/tar-2015-2016) 1.12 cov
 1. [Kamola Filip](https://github.com/fkamola/Ruby) 8.12
 1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki) 2.12
