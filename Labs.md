@@ -40,6 +40,8 @@ Terminy rozliczania się z zadań i projektu na egzamin:
   * Learn X=Ruby Hash in Y=? minutes
   * Learn X=Ruby Arrays in Y=? minutes
   * Learn X=Ruby Enumerable in Y=? minutes
+* Leigh Halliday.
+  [The Simple Yet Powerful Ruby Enumerable Module](https://blog.codeship.com/the-enumerable-module/)
 
 
 ### 2. Piszemy testy do własnego kodu
