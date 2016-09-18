@@ -21,7 +21,7 @@
       [language-rspec](https://atom.io/packages/language-rspec)
   - przykłady pokazujące jak to działa:
     [factorial.rb](wyklady/1-Classes_Modules/factorial.rb),
-    [fox.rb][wyklady/1-Classes_Modules/fox.rb],
+    [fox.rb](wyklady/1-Classes_Modules/fox.rb),
     [hello_world](wyklady/2-Hello_Bundler/hello_world]),
     [hello_bundler](wyklady/2-Hello_Bundler/hello_bundler)
 1. Wprowadzenie do języka Ruby:
