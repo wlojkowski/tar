@@ -1,4 +1,4 @@
-## Testowanie aplikacji w Ruby, 2016/17
+## Testowanie aplikacji Ruby, 2016/17
 
 > There are only two types of theories [programms]:<br>
 > 1. Theories that are known to be wrong, as they were tested
