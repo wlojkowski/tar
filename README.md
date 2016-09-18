@@ -83,7 +83,7 @@
 ### Atom
 
 Polskie literki (ą, Ś) oraz nowe i nadpisanie _keybinding_ w systemie Darwin.
-Dopisujemy w pliku _keymap.cson_:
+Dopisujemy w pliku _~/.atom/keymap.cson_:
 
 ```yaml
 '.platform-darwin atom-text-editor':
@@ -93,55 +93,48 @@ Dopisujemy w pliku _keymap.cson_:
   'cmd-shift-m': 'markdown-preview:toggle'
 ```
 
-Większe literki w UI, _~/.atom/styles.less_:
+Większe literki w UI. Dopisujemy w pliku _~/.atom/styles.less_:
 
 ```less
-linter-message {
-  font-size: 18px;
+@ui-font-size: 16px;
+
+.script-view {
+ .panel-body pre {
+   background: @tool-panel-background-color;
+   color: @text-color;
+   font-size: 1.6rem;
+ }
+ .output {
+   font-size: 1.6rem;
+ }
+ .stderr {
+   color: @text-color-error;
+   font-size: 1.6rem;
+ }
 }
 
+linter-message {
+  font-size: @ui-font-size;
+}
+
+.rspec-console.rspec {
+   background-color: white;
+   color: black;
+   overflow: scroll;
+ }
 .rspec-console.rspec {
   pre,
   pre div atom-text-editor,
   code,
   tt {
-    font-size: 18px;
-    font-family: PT Mono, "Liberation Mono", monospace;
+    font-size: @ui-font-size;
+    font-family: PT Mono, monospace;
+  }
+  .rspec-output {
+    background: #fff;
+    color: #000;
   }
 }
-
-.tree-view {
-  font-size: 18px;
-}
-
-// TODO
-
-@ui-font-size: 16px;
-
-.overlay .select-list ol.list-group li,
-.overlay.select-list ol.list-group li {
-  font-size: @ui-font-size;
-}
-.status-bar {
-  font-size: @ui-font-size;
-  height: @ui-font-size * 2;
-  line-height: @ui-font-size * 2 - 4;
-}
-.tab-bar .tab, .tab-bar .tab.active {
-  font-size: @ui-font-size;
-  height: @ui-font-size * 2;
-}
-.settings-view {
-  font-size: @ui-font-size;
-}
-```
-
-Command palettes, menus, _~/.atom/keymap.cson_:
-
-```yaml
-'.platform-linux':
-  'cmd-shift-p': 'command-palette:toggle'
-  'cmd-shift-h': 'git-plus:menu'
 ```
 
 
