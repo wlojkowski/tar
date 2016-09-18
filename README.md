@@ -13,7 +13,8 @@
   - [instalacja gemów](http://bundler.io): rspec, rubocop
   - [instalacja edytora Atom](https://atom.io) i rozszerzeń (pakietów):
     * [linter](https://github.com/steelbrain/linter) i
-      [linter-rubocop](https://atom.io/packages/linter-rubocop)
+      [linter-rubocop](https://atom.io/packages/linter-rubocop);
+      [konfiguracja](http://rubocop.readthedocs.io/en/latest/)
     * [script](https://atom.io/packages/script)
     * [rspec](https://atom.io/packages/rspec) i
       [language-rspec](https://atom.io/packages/language-rspec)
@@ -75,6 +76,7 @@
   - [6.1 GitHub – Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
   - [6.2 GitHub - Contributing to a Project](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 * [Git Tips](https://github.com/git-tips/tips) – most commonly used git tips and tricks
+* [github-cheat-sheet](http://git.io/sheet)
 
 
 ### Atom
