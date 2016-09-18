@@ -51,7 +51,7 @@ Można się wzorować na tych ściągawkach:
 ### Zadanie 1. Piszemy testy do własnego kodu
 
 Jak pisać i dodawać testy można podejrzeć tutaj:
-[03-rspec](labs/03-rspec/), [04-write_tests](labs/04-write_tests/),
+[03-rspec](labs/03-rspec/), [04-write_tests](labs/04-write_tests/).
 
 
 <!--
