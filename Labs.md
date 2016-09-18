@@ -33,7 +33,7 @@ transfer() {
 alias transfer=transfer
 ```
 
-### Zaczynamy
+### Zadanie 0. [Zaczynamy]
 
 Założyć repozytorium na zadania. W repozytorium utworzyć ściągawkę
 z wybranych metod / składni języka Ruby.
