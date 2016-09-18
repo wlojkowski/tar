@@ -1,16 +1,25 @@
 ## Laboratoria
 
-Podstawowe linki:
+Terminy rozliczania się z zadań i projektu na egzamin:
 
-* [Ruby Version Manager](http://rvm.io/) – RVM.
-* [Bundler](http://bundler.io/) – provides a consistent environment
-  for Ruby projects by tracking and installing the exact gems and
-  versions that are needed.
+| Zadanie | Opis       | Ostateczny termin |
+|--------:|----------- |------------------:|
+| 1       | zaliczenie | 13.11.2016        |
+| 2       | egzamin    | 08.01.2017        |
+
+Rozwiązania zadań umieszczamy w repozytorium. Oto przykładowe repozytorium
+[Szablon repozytorium dla Ruby+RSpec](https://github.com/egzamin/solutions-tar).
+
+*Uwaga:*  Nierozliczenie się w terminie z zadań skutkuje obniżeniem oceny.
+
+❖
 
 Robimy porządki w katalogu domowym:
 
 * `quota`
 * `ncdu`
+
+Potrzebne gemy instalujemy w katalogu _/tmp/sandbox/_ *[sprawdzić czy działa]*
 
 Może się przydać:
 
@@ -24,17 +33,12 @@ transfer() {
 alias transfer=transfer
 ```
 
-Terminy rozliczania się z zadań i projektu na egzamin:
+### Zaczynamy
 
-| zadanie | opis       | termin     |
-|--------:|----------- |-----------:|
-| 1, 2    | zaliczenie | 26.11.2015 |
-| 4       | egzamin    | 11.01.2016 |
+Założyć repozytorium na zadania. W repozytorium utworzyć ściągawkę
+z wybranych metod / składni języka Ruby.
 
-[Szablon projektu Ruby + RSpec](https://github.com/egzamin/solutions-tar).
-
-
-### 1. Zaczynamy
+Można się wzorować na tych ściągawkach:
 
 * [Learn X in Y minutes](http://learnxinyminutes.com/docs/ruby/):
   * Learn X=Ruby Hash in Y=? minutes
@@ -44,25 +48,11 @@ Terminy rozliczania się z zadań i projektu na egzamin:
   [The Simple Yet Powerful Ruby Enumerable Module](https://blog.codeship.com/the-enumerable-module/)
 
 
-### 2. Piszemy testy do własnego kodu
+### Zadanie 1. Piszemy testy do własnego kodu
 
-Na przykład, tłumaczymy kod z języka X=Python na język Ruby
-i dopisujemy do niego testy.
+Jak pisać i dodawać testy można podejrzeć tutaj:
+[03-rspec](labs/03-rspec/), [04-write_tests](labs/04-write_tests/),
 
-* [OpenCV](http://opencv.org/) – *Open Source Computer Vision Library*
-  is an open source computer vision and machine learning software
-  library. *OpenCV* was built to provide a common infrastructure for
-  computer vision applications and to accelerate the use of machine
-  perception in the commercial products.
-* [Ruby OpenCV](https://github.com/ruby-opencv/ruby-opencv).
-
-**Zadanie:**
-
-* [Przetłumaczyć na Ruby](labs/01-opencv) oraz dodać **unit tests**
-  do kodu Ruby.
-
-Jak dodać testy można podejrzeć
-w [04-write_tests](https://github.com/egzamin/tar/tree/master/labs/04-write_tests).
 
 <!--
 ### 3. Doubles, mocks & stubs
@@ -80,7 +70,9 @@ Testy piszemy do swojego kodu, jeśli ma to sens, lub do tego kodu
 W testach jednostkowych użyć doubles/mocków/stubów.
 -->
 
-### 4. Program lub aplikacja WWW
+### Zadanie 2. [Piszemy testy do własnego programu]
+
+[Poniżej to tylko przykład. Kod będzie omówiony na wykładzie.]
 
 „Wypożyczalnia Video” (klasyka). To tylko przykład programu na egzamin :sparkling_heart:
 
@@ -93,47 +85,17 @@ i od jego rodzaju. Są trzy rodzaje filmów: zwykłe, dla dzieci
 i nowe. Dodatkowo, opłata zależy od tego czy mamy przyznane
 punkty za częste wypożyczenia i od tego czy film jest nowy.
 
+*Uwaga:*  Można napisać testy do aplikacji webowej.
+
 
 ## Lista
 
 Legenda:
 
+* gmf – brak Gemfile
 * cov – brak coverage
 * nef – No examples found
-* pnf – Page not found
-* gmf – brak Gemfile
 
 ----
 
-1. [Ananchuk Yauheni](https://github.com/Zhenya1096/testowanieRuby) 2.12
-1. [Beiger Monika](https://github.com/mbeiger/Ruby) 2.12
-1. [Błachuciak Amelia](https://github.com/erathiel/tar-2015) 8.12
-1. [Buszman Dariusz](https://github.com/dbuszman/tar-2015) 1.12
-1. [Dąbrowski Łukasz](https://github.com/ldabrowski/rspec-template) 8.12
-1. [Drewing Maciej](https://github.com/Niedwiediew/Ruby) 1.12
-1. [Gańcza Melchior](https://github.com/Melgan/ruby) 9.12
-1. [Hrycikowski Rafał](https://github.com/kreteda/Ruby-2) 9.12 nef
-1. [Jaszczak Mariusz](https://github.com/mjaszczak/tar-2015-2016) 1.12 cov
-1. [Kamola Filip](https://github.com/fkamola/Ruby) 8.12
-1. [Klemarczyk Maciej](https://github.com/mklemarczyk/test-15-ruby/wiki) 2.12
-1. [Krakowiak Michał](https://github.com/mkrakowiak/rspec-template) 1.12
-1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/Tar) 8.12
-1. [Niewczas Katarzyna](https://github.com/kniewczas/ruby) 1.12
-1. [Okoniewski Daniel](https://github.com/okoniewskid/Ruby) 1.12
-1. [Olobry Konrad](https://github.com/Kombi92/Ruby1) 8.12 gmf
-1. [Pałkowska Klaudia](https://github.com/kpalkowska/Ruby) 2.12
-1. [Popko Adrianna](https://github.com/AdriannaPopko/Ruby) 9.12
-1. [Rostek Karolina](https://github.com/Carolsien/RubyTest) 9.12
-1. [Rzepecki Wojciech](https://github.com/wojtasss/testowanie-ruby-lab) 2.12
-1. [Sadowski Patryk](https://github.com/psadowski/ruby_testy) 2.12
-1. [Sobociński Paweł](https://github.com/Redellex/testowanie_ruby) 1.12
-1. [Socha Bartłomiej](https://github.com/bsocha/Ruby) 9.12 [!] There was an error parsing `Gemfile`
-1. [Stypa Aneta](https://github.com/aneta-7/Ruby) 2.12
-1. [Szczutkowski Dawid](https://github.com/dszczutkowski/Ruby) 9.12
-1. [Szewczyk Krystian](https://github.com/kszewczyk1/Testowanie-Ruby) 2.12
-1. [Tarnowski Łukasz](https://github.com/ltarnowski1/Ruby) 2.12
-1. [Uściłowicz Sebastian](https://github.com/suscilowicz/Ruby) 2.12
-1. [Walczak Marta](https://github.com/mawala/solutions-tar) 1.12
-1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ruby) 9.12
-1. [Zawistowski Łukasz](https://github.com/lzawistowski/Testowanie-aplikacji-Ruby) 9.12
-1. [Żerański Piotr](https://github.com/pzeranski/ruby) 2.12
+TODO

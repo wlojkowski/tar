@@ -9,7 +9,9 @@
 > Why is the theory [program] **never right**?
 
 1. Konfiguracja środowiska do pracy z projektami w Ruby:
-  - [instalacja Ruby](http://rvm.io/rvm)
+  - [instalacja Ruby](http://rvm.io/rvm) – provides a consistent environment
+    for Ruby projects by tracking and installing the exact gems and
+    versions that are needed.
   - [instalacja gemów](http://bundler.io): rspec, rubocop
   - [instalacja edytora Atom](https://atom.io) i rozszerzeń (pakietów):
     * [linter](https://github.com/steelbrain/linter) i
