@@ -11,11 +11,11 @@
 ### Ruby
 
 1. Konfiguracja środowiska do pracy z projektami w Ruby:
-  - [instalacja Ruby](http://rvm.io/rvm) – provides a consistent environment
+  - [Instalacja Ruby](http://rvm.io/rvm) – provides a consistent environment
     for Ruby projects by tracking and installing the exact gems and
     versions that are needed.
-  - [instalacja gemów](http://bundler.io): rspec, rubocop
-  - [instalacja edytora Atom](https://atom.io) i rozszerzeń (pakietów):
+  - [Instalacja gemów](http://bundler.io): rspec, rubocop
+  - [Instalacja edytora Atom](https://atom.io) i rozszerzeń (pakietów):
     * [linter](https://github.com/steelbrain/linter) i
       [linter-rubocop](https://atom.io/packages/linter-rubocop);
       [konfiguracja](http://rubocop.readthedocs.io/en/latest/),
@@ -23,11 +23,11 @@
     * [script](https://atom.io/packages/script)
     * [rspec](https://atom.io/packages/rspec) i
       [language-rspec](https://atom.io/packages/language-rspec)
-  - przykłady pokazujące jak to działa:
+  - Przykłady pokazujące jak to działa:
     [factorial.rb](wyklady/1-Classes_Modules/factorial.rb),
     [fox.rb](wyklady/1-Classes_Modules/fox.rb),
     [hello_world](wyklady/2-Hello_Bundler/hello_world]),
-    [hello_bundler](wyklady/2-Hello_Bundler/hello_bundler)
+    [hello_bundler](wyklady/2-Hello_Bundler/hello_bundler).
 1. Wprowadzenie do języka Ruby:
    - [Try Ruby](http://tryruby.org)
    - [Learn X in Y minutes][5], where X = Ruby
