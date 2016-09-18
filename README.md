@@ -93,7 +93,7 @@ Dopisujemy w pliku _~/.atom/keymap.cson_:
   'cmd-shift-m': 'markdown-preview:toggle'
 ```
 
-Większe literki w oknie script i linterr oraz w UI.
+Większe literki w oknie script i linter oraz w UI.
 Dopisujemy w pliku _~/.atom/styles.less_:
 
 ```less
