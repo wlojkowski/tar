@@ -82,7 +82,7 @@
 
 ### Atom
 
-Polskie literki (ą) oraz nowe _keybindings_ w systemie Darwin:
+Polskie literki (ą) oraz nowe i nadpisanie _keybinding_ w systemie Darwin:
 
 ```yaml
 '.platform-darwin atom-text-editor':
