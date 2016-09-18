@@ -19,7 +19,7 @@
     * [script](https://atom.io/packages/script)
     * [rspec](https://atom.io/packages/rspec) i
       [language-rspec](https://atom.io/packages/language-rspec)
-  - przykłady pokazujace jak to działa:
+  - przykłady pokazujące jak to działa:
     [factorial.rb](wyklady/1-Classes_Modules/factorial.rb),
     [fox.rb][wyklady/1-Classes_Modules/fox.rb],
     [hello_world](wyklady/2-Hello_Bundler/hello_world]),
@@ -82,7 +82,15 @@
 
 ### Atom
 
-Większe literki dla UI, _~/.atom/styles.less_:
+Polskie literki w systemie Darwin:
+
+```json
+'.platform-darwin atom-text-editor':
+  'ctrl-shift-i': 'auto-indent:apply'
+  'alt-a': 'native!'
+```
+
+Większe literki w UI, _~/.atom/styles.less_:
 
 ```less
 linter-message {
