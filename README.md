@@ -8,6 +8,8 @@
 > – *K. Popper*<br>
 > Why is the theory [program] **never right**?
 
+### Ruby
+
 1. Konfiguracja środowiska do pracy z projektami w Ruby:
   - [instalacja Ruby](http://rvm.io/rvm) – provides a consistent environment
     for Ruby projects by tracking and installing the exact gems and
@@ -64,7 +66,9 @@
   - [The RSpec Style Guide](https://github.com/reachlocal/rspec-style-guide)
 
 
-### Ruby
+### Dokumentacja i inne użyteczne rzeczy
+
+Ruby:
 
 1. [Ruby Koans](http://rubykoans.com/) – Learn Ruby with the Neo Ruby Koans.
 2. Jay Fields, Shane Harvie, Martin Fowler with Kent Beck.
@@ -73,7 +77,7 @@
 4. [Get the Lowdown on Ruby Modules](https://www.sitepoint.com/get-the-low-down-on-ruby-modules/)
 
 
-### Git
+Git:
 
 * Scott Chacon, Ben Straub. [Pro Git](https://git-scm.com/book/en/v2)
   - [6.1 GitHub – Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
@@ -82,7 +86,7 @@
 * [github-cheat-sheet](http://git.io/sheet)
 
 
-### Atom
+Edytor Atom:
 
 Polskie literki (ą, Ś) oraz nowe i nadpisanie _keybinding_ w systemie Darwin.
 Dopisujemy w pliku _~/.atom/keymap.cson_:
@@ -140,16 +144,17 @@ linter-message {
 }
 ```
 
-
-### Continuous Integration and Deployment
+Continuous Integration and Deployment:
 
 1. [Codeship](https://www.codeship.io/).
 1. [Travis](https://travis-ci.org/) – niestety usługa płatna dla repozytoriów prywatnych.
 
 
-### Różne rzeczy
+Fajne:
 
 1. [Codility](https://codility.com/) – we test coders
+
+
 
 
 [1]: https://github.com/elizabrock/NSS-Syllabus-Spring-2013
