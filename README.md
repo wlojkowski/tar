@@ -82,12 +82,14 @@
 
 ### Atom
 
-Polskie literki w systemie Darwin:
+Polskie literki (ą) oraz nowe _keybindings_ w systemie Darwin:
 
-```json
+```yaml
 '.platform-darwin atom-text-editor':
-  'ctrl-shift-i': 'auto-indent:apply'
   'alt-a': 'native!'
+  'ctrl-shift-i': 'auto-indent:apply'
+  'cmd-shift-m': 'markdown-preview:toggle'
+# 'alt-a': 'unset!'
 ```
 
 Większe literki w UI, _~/.atom/styles.less_:
