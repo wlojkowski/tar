@@ -1,3 +1,5 @@
+# keyboard shortcuts: https://atom.io/packages/rspec
+
 require 'simplecov'
 SimpleCov.start
 
