@@ -82,14 +82,15 @@
 
 ### Atom
 
-Polskie literki (ą) oraz nowe i nadpisanie _keybinding_ w systemie Darwin:
+Polskie literki (ą, Ś) oraz nowe i nadpisanie _keybinding_ w systemie Darwin.
+Dopisujemy w pliku _keymap.cson_:
 
 ```yaml
 '.platform-darwin atom-text-editor':
   'alt-a': 'native!'
+  'alt-shift-s': 'unset!'
   'ctrl-shift-i': 'auto-indent:apply'
   'cmd-shift-m': 'markdown-preview:toggle'
-# 'alt-a': 'unset!'
 ```
 
 Większe literki w UI, _~/.atom/styles.less_:
