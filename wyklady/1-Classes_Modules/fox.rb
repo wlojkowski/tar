@@ -10,6 +10,7 @@ end
 # an example
 class Fox < Animal
   def self.breeds
+    #  ["snow fox", 'desert fox']
     ['snow fox', 'desert fox']
   end
 
@@ -19,11 +20,11 @@ class Fox < Animal
   end
 
   def eat(food)
-    if likes_food?(food)
-      @health += 5
-    else
-      @health += 1
-    end
+    @health += if likes_food?(food)
+                 5
+               else
+                 1
+               end
   end
 
   def bark

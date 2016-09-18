@@ -14,7 +14,8 @@
   - [instalacja edytora Atom](https://atom.io) i rozszerzeń (pakietów):
     * [linter](https://github.com/steelbrain/linter) i
       [linter-rubocop](https://atom.io/packages/linter-rubocop);
-      [konfiguracja](http://rubocop.readthedocs.io/en/latest/)
+      [konfiguracja](http://rubocop.readthedocs.io/en/latest/),
+      [enabled style cops](https://github.com/bbatsov/rubocop/blob/master/config/enabled.yml)
     * [script](https://atom.io/packages/script)
     * [rspec](https://atom.io/packages/rspec) i
       [language-rspec](https://atom.io/packages/language-rspec)
