@@ -20,11 +20,7 @@ class Fox < Animal
   end
 
   def eat(food)
-    @health += if likes_food?(food)
-                 5
-               else
-                 1
-               end
+    @health += likes_food?(food) ? 5 : 1
   end
 
   def bark
@@ -55,3 +51,9 @@ class Fox
   attr_accessor :visible
   include Invisibility
 end
+
+animal = Animal.new
+print "newborn animal health: #{animal.health}\n"
+
+fox = Fox.new
+print "newborn fox health: #{fox.health}\n"
