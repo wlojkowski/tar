@@ -48,7 +48,7 @@ Można się wzorować na tych ściągawkach:
   [The Simple Yet Powerful Ruby Enumerable Module](https://blog.codeship.com/the-enumerable-module/)
 
 
-### Zadanie 1. Piszemy testy do własnego kodu
+### Zadanie 1. [Piszemy testy do własnego kodu]
 
 Jak pisać i dodawać testy można podejrzeć tutaj:
 [03-rspec](labs/03-rspec/), [04-write_tests](labs/04-write_tests/).
