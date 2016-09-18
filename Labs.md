@@ -1,4 +1,4 @@
-## Laboratoria
+## Laboratoria, 2016/17
 
 Terminy rozliczania się z zadań i projektu na egzamin:
 
