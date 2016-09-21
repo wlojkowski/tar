@@ -11,10 +11,11 @@
 ### Ruby
 
 1. Konfiguracja środowiska do pracy z projektami w Ruby:
-  - [Instalacja Ruby](http://rvm.io/rvm) – provides a consistent environment
+  - [Instalacja Ruby](http://rvm.io/rvm) – Ruby enVironment (Version) Manager
+  - [Bundler](http://bundler.io) – provides a consistent environment
     for Ruby projects by tracking and installing the exact gems and
     versions that are needed.
-  - [Instalacja gemów](http://bundler.io): rspec, rubocop
+  - Podstawowe gemy: rspec, [rubocop](http://rubocop.readthedocs.io/en/latest/).
   - [Instalacja edytora Atom](https://atom.io) i rozszerzeń (pakietów):
     * [linter](https://github.com/steelbrain/linter) i
       [linter-rubocop](https://atom.io/packages/linter-rubocop);
