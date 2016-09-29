@@ -29,3 +29,25 @@ table[1][2] = 12
 table[2][1] = 12
 table[0] = [13, 13, 13]
 print "#{table}\n"
+
+# Common gotchas
+
+a = Array.new(2, {})
+print "#{a}\n"
+
+a[0]['cat'] = 'feline'
+print "#{a}\n"
+
+a[1]['cat'] = 'Felix'
+print "#{a}\n"
+
+# ----
+
+b = [{}, {}]
+print "#{b}\n"
+
+b[0]['cat'] = 'feline'
+print "#{b}\n"
+
+b[1]['cat'] = 'Felix'
+print "#{b}\n"
