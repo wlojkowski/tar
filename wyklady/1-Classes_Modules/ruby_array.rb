@@ -1,4 +1,4 @@
-# Notes about Ruby Array
+# Class Array
 
 a1 = Array.new(3, 'x')
 print a1
@@ -29,22 +29,3 @@ table[1][2] = 12
 table[2][1] = 12
 table[0] = [13, 13, 13]
 print "#{table}\n"
-
-# Class Matrix
-
-require "matrix"
-
-d = Matrix.diagonal(1, 2, 3)
-print d
-puts ''
-puts d[2, 2]
-
-# matrices are immutable
-# to set matrix element we need a hack
-class Matrix
-  def []=(i, j, x)
-    @rows[i][j] = x
-  end
-end
-d[2, 2] = 11
-print d
