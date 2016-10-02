@@ -19,8 +19,10 @@ Robimy porządki w katalogu domowym:
 * `quota`
 * `ncdu`
 
-Potrzebne gemy instalujemy w katalogu _/tmp/sandbox/_ *[sprawdzić czy działa]*
+Potrzebne gemy instalujemy w katalogu *_/var/sandbox/_*, zob.
+[Miejsce na dysku Sigma + Laboratoria](https://inf.ug.edu.pl/aktualizacje-serwera-sigma)
 
+<!--
 Może się przydać:
 
 * [transfer.sh](https://transfer.sh/) –
@@ -32,6 +34,7 @@ transfer() {
 }
 alias transfer=transfer
 ```
+-->
 
 ### Zadanie 0. [Zaczynamy]
 
