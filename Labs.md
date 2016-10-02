@@ -19,7 +19,7 @@ Robimy porządki w katalogu domowym:
 * `quota`
 * `ncdu`
 
-Potrzebne gemy instalujemy w katalogu *_/var/sandbox/_*, zob.
+Potrzebne gemy instalujemy w katalogu **/var/sandbox/**, zob.
 [Miejsce na dysku Sigma + Laboratoria](https://inf.ug.edu.pl/aktualizacje-serwera-sigma)
 
 <!--
