@@ -22,7 +22,7 @@
       [linter-rubocop](https://atom.io/packages/linter-rubocop);
       [konfiguracja](http://rubocop.readthedocs.io/en/latest/),
       [enabled style cops](https://github.com/bbatsov/rubocop/blob/master/config/enabled.yml)
-    * [script](https://atom.io/packages/script)
+    * [script](https://atom.io/packages/script), ruby-test-switcher
     * [rspec](https://atom.io/packages/rspec) i
       [language-rspec](https://atom.io/packages/language-rspec)
   - Przykłady pokazujące jak to działa:
@@ -88,7 +88,7 @@ Git:
 * [github-cheat-sheet](http://git.io/sheet)
 
 
-Edytor Atom:
+Atom (command palette -> cmd+shift+p):
 
 Polskie literki (ą, Ś) oraz nowe i nadpisanie _keybinding_ w systemie Darwin.
 Dopisujemy w pliku _~/.atom/keymap.cson_:
