@@ -88,7 +88,7 @@ Git:
 * [github-cheat-sheet](http://git.io/sheet)
 
 
-Edytor Atom:
+Atom (command palette -> cmd+shift+p):
 
 Polskie literki (ą, Ś) oraz nowe i nadpisanie _keybinding_ w systemie Darwin.
 Dopisujemy w pliku _~/.atom/keymap.cson_:
