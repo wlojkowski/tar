@@ -1,4 +1,4 @@
-## Laboratoria, 2016/17
+## Laboratoria  2016/17
 
 Terminy rozliczania się z zadań i projektu na egzamin:
 
@@ -19,7 +19,7 @@ Robimy porządki w katalogu domowym:
 * `quota`
 * `ncdu`
 
-Potrzebne gemy instalujemy w katalogu **/var/sandbox/**, zob.
+Potrzebne gemy instalujemy w katalogu **/var/sandbox/**  zob.
 [Miejsce na dysku Sigma + Laboratoria](https://inf.ug.edu.pl/aktualizacje-serwera-sigma)
 
 <!--
@@ -53,24 +53,24 @@ Można się wzorować na tych ściągawkach:
 
 ### Zadanie 1. [Piszemy testy do własnego kodu]
 
-Wiele ciekawych zadań programistycznych można znaleźć w [Google Interview University](https://github.com/jwasham/google-interview-university), zwłaszcza w sekcji z [Data Structures](https://github.com/jwasham/google-interview-university#data-structures).
-  
+Wiele ciekawych zadań programistycznych można znaleźć w [Google Interview University](https://github.com/jwasham/google-interview-university)  zwłaszcza w sekcji z [Data Structures](https://github.com/jwasham/google-interview-university#data-structures).
+
 Jak pisać i dodawać testy można podejrzeć tutaj:
-[03-rspec](labs/03-rspec/), [04-write_tests](labs/04-write_tests/).
+[03-rspec](labs/03-rspec/)  [04-write_tests](labs/04-write_tests/).
 
 
 <!--
-### 3. Doubles, mocks & stubs
+### 3. Doubles  mocks & stubs
 
 > Integration tests tell **what**’s not working. But they are of no use in<br>
 > **guessing where** the problem could be.<br>
 > Unit tests are the sole tests that tell you **where** exactly the bug<br>
-> is. To draw this information, they must run the method in a mocked<br>
-> environment, where all other dependencies are supposed to correctly work.<br>
+> is. To draw this information  they must run the method in a mocked<br>
+> environment  where all other dependencies are supposed to correctly work.<br>
 > <br>
 > [What is the difference between integration and unit tests?](http://stackoverflow.com/questions/10752/what-is-the-difference-between-integration-and-unit-tests)
 
-Testy piszemy do swojego kodu, jeśli ma to sens, lub do tego kodu
+Testy piszemy do swojego kodu  jeśli ma to sens  lub do tego kodu
 [06-integration_tests](https://github.com/egzamin/tar/tree/master/labs/06-integration_tests).
 W testach jednostkowych użyć doubles/mocków/stubów.
 -->
@@ -86,8 +86,8 @@ W testach jednostkowych użyć doubles/mocków/stubów.
 Program korzystając z informacji jakie filmy i na jak długo
 wypożyczył użytkownik wypisuje rachunek.<br>
 Rachunek zależy od tego na jak długo wypożyczono film
-i od jego rodzaju. Są trzy rodzaje filmów: zwykłe, dla dzieci
-i nowe. Dodatkowo, opłata zależy od tego czy mamy przyznane
+i od jego rodzaju. Są trzy rodzaje filmów: zwykłe  dla dzieci
+i nowe. Dodatkowo  opłata zależy od tego czy mamy przyznane
 punkty za częste wypożyczenia i od tego czy film jest nowy.
 
 *Uwaga:*  Można napisać testy do aplikacji webowej.
@@ -103,4 +103,46 @@ Legenda:
 
 ----
 
-TODO
+### Grupa 1
+
+1. Lis Marcin
+1. Lubiejewski Kamil
+1. Łąkowski Jakub
+1. Łojkowski Wojciech
+1. Makiewicz Adam
+1. Mazur Ewelina
+1. Narożnik Kacper
+1. Rumanoski Krzysztof
+1. Sasin Jacek
+1. Sędek Szymon
+1. Strójwąs Piotr
+1. Tejszerska Aleksandra
+1. Wiśniewski Jakub
+1. Zdybel Patryk
+
+
+### Grupa 2
+
+1. Adler Patryk
+1. Banaszuk David
+1. Byszof Michał
+1. Cabaj Tomasz
+1. Cwilik Dawid
+1. Dziubiński Maciej
+1. Gawin Mateusz
+1. Gołuński Radosław
+1. Jabłoński Jakub
+1. Jędzierowska Magdalena
+1. Kalinowski Damian
+1. Katovich Darya
+1. Kawa Piotr
+1. Knitter Mateusz
+1. Lewandowski Rafał
+1. Luszuk Paweł
+1. Majewski Sebastian
+1. Mikucka Julianna
+1. Novik Aleksandr
+1. Osowska Aleksandra
+1. Pobłocki Patryk
+1. Radomski Artur
+1. Świstun Szymon
