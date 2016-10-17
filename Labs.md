@@ -123,7 +123,7 @@ Legenda:
 
 ### Grupa 2
 
-1. Adler Patryk
+1. [Adler Patryk](https://github.com/adlerpoland/Ruby)
 1. Banaszuk David
 1. Byszof Michał
 1. Cabaj Tomasz
