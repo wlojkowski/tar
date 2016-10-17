@@ -124,15 +124,15 @@ Legenda:
 ### Grupa 2
 
 1. [Adler Patryk](https://github.com/adlerpoland/Ruby)
-1. Banaszuk David
+1. [Banaszek Dawid](https://github.com/dbanaszek/tar-1)
 1. Byszof Michał
 1. Cabaj Tomasz
 1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia)
 1. Dziubiński Maciej
 1. [Gawin Mateusz](https://github.com/matgawin/ruby-lab)
 1. [Gołuński Radosław](https://github.com/RGolun/Ruby)
-1. Jabłoński Jakub
-1. Jędzierowska Magdalena
+1. [Jabłoński Jakub](https://github.com/jakjablonski/rubbb)
+1. [Jędzierowska Magdalena](https://github.com/MagdalenaJedzierowska/TAR_Projekty)
 1. [Kalinowski Damian](https://github.com/lafreak/ruby)
 1. [Łojkowski Wojciech](https://github.com/wlojkowski/)
 1. [Kawa Piotr](https://gitlab.com/aurustius/ruby-project.git)
