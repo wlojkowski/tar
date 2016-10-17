@@ -135,7 +135,7 @@ Legenda:
 1. Jędzierowska Magdalena
 1. Kalinowski Damian
 1. Katovich Darya
-1. Kawa Piotr
+1. [Kawa Piotr](https://gitlab.com/aurustius)
 1. Knitter Mateusz
 1. Lewandowski Rafał
 1. Luszuk Paweł
