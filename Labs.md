@@ -107,7 +107,7 @@ Legenda:
 
 1. [Lis Marcin](https://github.com/marcinlis0)
 1. Lubiejewski Kamil
-1. Łąkowski Jakub
+1. [Łąkowski Jakub](https://github.com/kubalakowski)
 1. Łojkowski Wojciech
 1. [Makiewicz Adam] (https://github.com/adammak2342/Ruby)
 1. Mazur Ewelina
