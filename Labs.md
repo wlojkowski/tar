@@ -108,7 +108,7 @@ Legenda:
 1. [Lis Marcin](https://github.com/marcinlis0)
 1. Lubiejewski Kamil
 1. [Łąkowski Jakub](https://github.com/kubalakowski)
-1. Łojkowski Wojciech
+1. [Łojkowski Wojciech](https://github.com/wlojkowski/)
 1. [Makiewicz Adam] (https://github.com/adammak2342/Ruby)
 1. Mazur Ewelina
 1. [Narożnik Kacper](https://github.com/knaroznik)
@@ -116,7 +116,7 @@ Legenda:
 1. Sasin Jacek
 1. [Sędek Szymon](https://github.com/GSun12)
 1. Strójwąs Piotr
-1. Tejszerska Aleksandra
+1. [Tejszerska Aleksandra](https://github.com/atejszerska)
 1. [Wiśniewski Jakub](https://github.com/jawisniewski)
 1. [Zdybel Patryk](https://github.com/DyuQ)
 
