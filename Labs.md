@@ -112,6 +112,7 @@ Legenda:
 1. [Makiewicz Adam] (https://github.com/adammak2342/Ruby)
 1. Mazur Ewelina
 1. [Narożnik Kacper](https://github.com/knaroznik)
+1. Novik Aleksandr
 1. Rumanoski Krzysztof
 1. Sasin Jacek
 1. [Sędek Szymon](https://github.com/GSun12)
@@ -139,11 +140,14 @@ Legenda:
 1. Maksymilian Kicki
 1. [Knitter Mateusz](https://github.com/supperbull/RubyMateuszKnitter)
 1. Lewandowski Rafał
-1. Luszuk Paweł
-1. Majewski Sebastian
-1. Mikucka Julianna
-1. Novik Aleksandr
 1. [Osowska Aleksandra] (https://github.com/aosowska/Ruby)
 1. [Pobłocki Patryk](https://github.com/ppoblocki/tar)
 1. Radomski Artur
 1. Świstun Szymon
+
+
+### Jaka grupa?
+
+1. Luszuk Paweł
+1. Majewski Sebastian
+1. Mikucka Julianna
