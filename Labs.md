@@ -128,7 +128,7 @@ Legenda:
 1. [Byszof Michał](https://github.com/mbyszof/Ruby_2016-2017)
 1. [Cabaj Tomasz](https://github.com/tcabaj/Ruby)
 1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia)
-1. Dziubiński Maciej
+1. [Dziubiński Maciej](https://github.com/mdziub/ruby.git)
 1. [Gawin Mateusz](https://github.com/matgawin/ruby-lab)
 1. [Gołuński Radosław](https://github.com/RGolun/Ruby)
 1. [Jabłoński Jakub](https://github.com/jakjablonski/rubbb)
