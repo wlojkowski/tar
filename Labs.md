@@ -125,7 +125,7 @@ Legenda:
 
 1. [Adler Patryk](https://github.com/adlerpoland/Ruby)
 1. [Banaszek Dawid](https://github.com/dbanaszek/tar-1)
-1. Byszof Michał
+1. [Byszof Michał](https://github.com/mbyszof/Ruby_2016-2017)
 1. Cabaj Tomasz
 1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia)
 1. Dziubiński Maciej
