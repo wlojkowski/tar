@@ -114,7 +114,7 @@ Legenda:
 1. Narożnik Kacper
 1. Rumanoski Krzysztof
 1. Sasin Jacek
-1. Sędek Szymon
+1. [Sędek Szymon](https://github.com/GSun12)
 1. Strójwąs Piotr
 1. Tejszerska Aleksandra
 1. Wiśniewski Jakub
