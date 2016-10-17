@@ -134,7 +134,7 @@ Legenda:
 1. [Jabłoński Jakub](https://github.com/jakjablonski/rubbb)
 1. [Jędzierowska Magdalena](https://github.com/MagdalenaJedzierowska/TAR_Projekty)
 1. [Kalinowski Damian](https://github.com/lafreak/ruby)
-1. [Łojkowski Wojciech](https://github.com/wlojkowski/)
+1. [Katovich Darya](https://github.com/dkotowicz/ruby)
 1. [Kawa Piotr](https://gitlab.com/aurustius/ruby-project.git)
 1. [Knitter Mateusz](https://github.com/supperbull/RubyMateuszKnitter)
 1. Lewandowski Rafał
