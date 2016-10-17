@@ -118,7 +118,7 @@ Legenda:
 1. Strójwąs Piotr
 1. Tejszerska Aleksandra
 1. Wiśniewski Jakub
-1. Zdybel Patryk
+1. [Zdybel Patryk](https://github.com/DyuQ)
 
 
 ### Grupa 2
