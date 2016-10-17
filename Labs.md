@@ -117,7 +117,7 @@ Legenda:
 1. [Sędek Szymon](https://github.com/GSun12)
 1. Strójwąs Piotr
 1. Tejszerska Aleksandra
-1. Wiśniewski Jakub
+1. [Wiśniewski Jakub](https://github.com/jawisniewski)
 1. [Zdybel Patryk](https://github.com/DyuQ)
 
 
