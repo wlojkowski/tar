@@ -127,7 +127,7 @@ Legenda:
 1. Banaszuk David
 1. Byszof Michał
 1. Cabaj Tomasz
-1. Cwilik Dawid
+1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia)
 1. Dziubiński Maciej
 1. Gawin Mateusz
 1. Gołuński Radosław
