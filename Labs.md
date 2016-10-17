@@ -109,7 +109,7 @@ Legenda:
 1. Lubiejewski Kamil
 1. Łąkowski Jakub
 1. Łojkowski Wojciech
-1. Makiewicz Adam
+1. [Makiewicz Adam] (https://github.com/adammak2342/Ruby)
 1. Mazur Ewelina
 1. Narożnik Kacper
 1. Rumanoski Krzysztof
