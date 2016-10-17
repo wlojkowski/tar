@@ -133,7 +133,7 @@ Legenda:
 1. Gołuński Radosław
 1. Jabłoński Jakub
 1. Jędzierowska Magdalena
-1. Kalinowski Damian
+1. [Kalinowski Damian](https://github.com/lafreak/ruby)
 1. Katovich Darya
 1. [Kawa Piotr](https://gitlab.com/aurustius)
 1. Knitter Mateusz
