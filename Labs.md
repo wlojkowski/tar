@@ -106,7 +106,7 @@ Legenda:
 ### Grupa 1
 
 1. [Lis Marcin](https://github.com/marcinlis0)
-1. Lubiejewski Kamil
+1. [Lubiejewski Kamil](https://github.com/Lubu909/Ruby-lab)
 1. [Łąkowski Jakub](https://github.com/kubalakowski)
 1. [Łojkowski Wojciech](https://github.com/wlojkowski/)
 1. [Makiewicz Adam] (https://github.com/adammak2342/Ruby)
