@@ -114,7 +114,7 @@ Legenda:
 1. [Narożnik Kacper](https://github.com/knaroznik)
 1. Novik Aleksandr
 1. Rumanoski Krzysztof
-1. Sasin Jacek
+1. [Sasin Jacek](https://github.com/jsasin)
 1. [Sędek Szymon](https://github.com/GSun12)
 1. Strójwąs Piotr
 1. [Tejszerska Aleksandra](https://github.com/atejszerska)
