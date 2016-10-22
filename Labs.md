@@ -120,7 +120,7 @@ Legenda:
 1. [Tejszerska Aleksandra](https://github.com/atejszerska)
 1. [Wiśniewski Jakub](https://github.com/jawisniewski)
 1. [Zdybel Patryk](https://github.com/DyuQ)
-
+1.[Luszuk Paweł](https://github.com/luszukpawel)
 
 ### Grupa 2
 
@@ -148,6 +148,6 @@ Legenda:
 
 ### Jaka grupa?
 
-1. Luszuk Paweł
+
 1. Majewski Sebastian
 1. Mikucka Julianna
