@@ -105,44 +105,49 @@ Legenda:
 
 ### Grupa 1
 
-1. Lis Marcin
-1. Lubiejewski Kamil
-1. Łąkowski Jakub
-1. Łojkowski Wojciech
-1. Makiewicz Adam
+1. [Lis Marcin](https://github.com/marcinlis0)
+1. [Lubiejewski Kamil](https://github.com/Lubu909/Ruby-lab)
+1. [Łąkowski Jakub](https://github.com/kubalakowski)
+1. [Łojkowski Wojciech](https://github.com/wlojkowski/)
+1. [Makiewicz Adam] (https://github.com/adammak2342/Ruby)
 1. Mazur Ewelina
-1. Narożnik Kacper
+1. [Narożnik Kacper](https://github.com/knaroznik)
+1. Novik Aleksandr
 1. Rumanoski Krzysztof
-1. Sasin Jacek
-1. Sędek Szymon
+1. [Sasin Jacek](https://github.com/jsasin)
+1. [Sędek Szymon](https://github.com/GSun12)
 1. Strójwąs Piotr
-1. Tejszerska Aleksandra
-1. Wiśniewski Jakub
-1. Zdybel Patryk
-
+1. [Tejszerska Aleksandra](https://github.com/atejszerska)
+1. [Wiśniewski Jakub](https://github.com/jawisniewski)
+1. [Zdybel Patryk](https://github.com/DyuQ)
+1.[Luszuk Paweł](https://github.com/luszukpawel)
 
 ### Grupa 2
 
-1. Adler Patryk
-1. Banaszuk David
-1. Byszof Michał
-1. Cabaj Tomasz
-1. Cwilik Dawid
-1. Dziubiński Maciej
-1. Gawin Mateusz
-1. Gołuński Radosław
-1. Jabłoński Jakub
-1. Jędzierowska Magdalena
-1. Kalinowski Damian
-1. Katovich Darya
-1. Kawa Piotr
-1. Knitter Mateusz
+1. [Adler Patryk](https://github.com/adlerpoland/Ruby)
+1. [Banaszek Dawid](https://github.com/dbanaszek/tar-1)
+1. [Byszof Michał](https://github.com/mbyszof/Ruby_2016-2017)
+1. [Cabaj Tomasz](https://github.com/tcabaj/Ruby)
+1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia)
+1. [Dziubiński Maciej](https://github.com/mdziub/ruby.git)
+1. [Gawin Mateusz](https://github.com/matgawin/ruby-lab)
+1. [Gołuński Radosław](https://github.com/RGolun/Ruby)
+1. [Jabłoński Jakub](https://github.com/jakjablonski/rubbb)
+1. [Jędzierowska Magdalena](https://github.com/MagdalenaJedzierowska/TAR_Projekty)
+1. [Kalinowski Damian](https://github.com/lafreak/ruby)
+1. [Katovich Darya](https://github.com/dkotowicz/ruby)
+1. [Kawa Piotr](https://gitlab.com/aurustius/ruby-project.git)
+1. Maksymilian Kicki
+1. [Knitter Mateusz](https://github.com/supperbull/RubyMateuszKnitter)
 1. Lewandowski Rafał
-1. Luszuk Paweł
-1. Majewski Sebastian
-1. Mikucka Julianna
-1. Novik Aleksandr
-1. Osowska Aleksandra
-1. Pobłocki Patryk
+1. [Osowska Aleksandra] (https://github.com/aosowska/Ruby)
+1. [Pobłocki Patryk](https://github.com/ppoblocki/tar)
 1. Radomski Artur
 1. Świstun Szymon
+
+
+### Jaka grupa?
+
+
+1. Majewski Sebastian
+1. Mikucka Julianna
