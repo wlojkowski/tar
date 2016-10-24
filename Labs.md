@@ -105,22 +105,23 @@ Legenda:
 
 ### Grupa 1
 
-1. [Lis Marcin](https://github.com/marcinlis0)
+1. [Lis Marcin](https://github.com/marcinlis0) 24.11
 1. [Lubiejewski Kamil](https://github.com/Lubu909/Ruby-lab)
+1. [Luszuk Paweł](https://github.com/luszukpawel)
 1. [Łąkowski Jakub](https://github.com/kubalakowski)
 1. [Łojkowski Wojciech](https://github.com/wlojkowski/)
 1. [Makiewicz Adam] (https://github.com/adammak2342/Ruby)
-1. Mazur Ewelina
+1. Mazur Ewelina 24.11
 1. [Narożnik Kacper](https://github.com/knaroznik)
 1. [Novik Aleksandr](https://github.com/AliaksandrN)
-1. Rumanoski Krzysztof
+1. Rumanoski Krzysztof 24.11
 1. [Sasin Jacek](https://github.com/jsasin)
 1. [Sędek Szymon](https://github.com/GSun12)
-1. Strójwąs Piotr
+1. Strójwąs Piotr 24.11
 1. [Tejszerska Aleksandra](https://github.com/atejszerska)
 1. [Wiśniewski Jakub](https://github.com/jawisniewski)
-1. [Zdybel Patryk](https://github.com/DyuQ)
-1.[Luszuk Paweł](https://github.com/luszukpawel)
+1. [Zdybel Patryk](https://github.com/DyuQ) 24.11
+
 
 ### Grupa 2
 
