@@ -110,11 +110,12 @@ Legenda:
 1. [Luszuk Paweł](https://github.com/luszukpawel)
 1. [Łąkowski Jakub](https://github.com/kubalakowski)
 1. [Łojkowski Wojciech](https://github.com/wlojkowski/)
-1. [Makiewicz Adam] (https://github.com/adammak2342/Ruby)
+1. [Makiewicz Adam](https://github.com/adammak2342/Ruby)
 1. Mazur Ewelina 24.11
 1. [Narożnik Kacper](https://github.com/knaroznik)
 1. [Novik Aleksandr](https://github.com/AliaksandrN)
 1. Rumanoski Krzysztof 24.11
+1. Rutkowski, Mariusz
 1. [Sasin Jacek](https://github.com/jsasin)
 1. [Sędek Szymon](https://github.com/GSun12)
 1. Strójwąs Piotr 24.11
