@@ -141,7 +141,7 @@ Legenda:
 1. [Kalinowski Damian](https://github.com/lafreak/ruby)
 1. [Katovich Darya](https://github.com/dkotowicz/ruby)
 1. [Kawa Piotr](https://gitlab.com/aurustius/ruby-project.git)
-1. Maksymilian Kicki
+1. [Kicki Maksymilian](https://github.com/mkicki/Ruby)
 1. [Knitter Mateusz](https://github.com/supperbull/RubyMateuszKnitter)
 1. [Lewandowski Rafał](https://github.com/alejafiem/projekty-ruby)
 1. [Osowska Aleksandra] (https://github.com/aosowska/Ruby)
