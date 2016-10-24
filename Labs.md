@@ -105,32 +105,33 @@ Legenda:
 
 ### Grupa 1
 
-1. [Lis Marcin](https://github.com/marcinlis0) 24.11
+1. [Lis Marcin](https://github.com/marcinlis0) 24.10
 1. [Lubiejewski Kamil](https://github.com/Lubu909/Ruby-lab)
 1. [Luszuk Paweł](https://github.com/luszukpawel)
 1. [Łąkowski Jakub](https://github.com/kubalakowski)
 1. [Łojkowski Wojciech](https://github.com/wlojkowski/)
 1. [Makiewicz Adam](https://github.com/adammak2342/Ruby)
-1. Mazur Ewelina 24.11
+1. Mazur Ewelina 24.10
+1. Mikucka Julianna 24.10
 1. [Narożnik Kacper](https://github.com/knaroznik)
 1. [Novik Aleksandr](https://github.com/AliaksandrN)
-1. Radski, Paweł 
-1. Rumanoski Krzysztof 24.11
+1. Radski, Paweł
+1. Rumanoski Krzysztof 24.10
 1. Rutkowski, Mariusz
 1. [Sasin Jacek](https://github.com/jsasin)
 1. [Sędek Szymon](https://github.com/GSun12)
-1. Strójwąs Piotr 24.11
+1. Strójwąs Piotr 24.10
 1. [Tejszerska Aleksandra](https://github.com/atejszerska)
 1. [Wiśniewski Jakub](https://github.com/jawisniewski)
-1. [Zdybel Patryk](https://github.com/DyuQ) 24.11
+1. [Zdybel Patryk](https://github.com/DyuQ) 24.10
 
 
 ### Grupa 2
 
-1. [Adler Patryk](https://github.com/adlerpoland/Ruby)
+1. [Adler Patryk](https://github.com/adlerpoland/Ruby) 24.10
 1. [Banaszek Dawid](https://github.com/dbanaszek/tar-1)
-1. [Byszof Michał](https://github.com/mbyszof/Ruby_2016-2017)
-1. [Cabaj Tomasz](https://github.com/tcabaj/Ruby)
+1. [Byszof Michał](https://github.com/mbyszof/Ruby_2016-2017) 24.10
+1. [Cabaj Tomasz](https://github.com/tcabaj/Ruby) 24.10
 1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia)
 1. [Dziubiński Maciej](https://github.com/mdziub/ruby.git)
 1. [Gawin Mateusz](https://github.com/matgawin/ruby-lab)
@@ -145,12 +146,10 @@ Legenda:
 1. [Lewandowski Rafał](https://github.com/alejafiem/projekty-ruby)
 1. [Osowska Aleksandra] (https://github.com/aosowska/Ruby)
 1. [Pobłocki Patryk](https://github.com/ppoblocki/tar)
-1. Radomski Artur
+1. Radomski Artur 24.10
 1. Świstun Szymon
 
 
 ### Jaka grupa?
 
-
-1. Majewski Sebastian
-1. Mikucka Julianna
+1. Majewski Sebastian 24.10
