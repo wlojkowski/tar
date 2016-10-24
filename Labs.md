@@ -114,6 +114,7 @@ Legenda:
 1. Mazur Ewelina 24.11
 1. [Narożnik Kacper](https://github.com/knaroznik)
 1. [Novik Aleksandr](https://github.com/AliaksandrN)
+1. Radski, Paweł 
 1. Rumanoski Krzysztof 24.11
 1. Rutkowski, Mariusz
 1. [Sasin Jacek](https://github.com/jsasin)
