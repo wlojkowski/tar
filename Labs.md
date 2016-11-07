@@ -112,7 +112,7 @@ Legenda:
 1. [Łojkowski Wojciech](https://github.com/wlojkowski/)
 1. [Makiewicz Adam](https://github.com/adammak2342/Ruby)
 1. [Mikucka Julianna](https://github.com/LadyJuleczka/Ruby) 24.10
-1. [Narożnik Kacper](https://github.com/knaroznik)
+1. [Narożnik Kacper](https://github.com/knaroznik/Ruby_01Trees)
 1. [Novik Aleksandr](https://github.com/AliaksandrN)
 1. Radski, Paweł 7.11
 1. Rumanoski Krzysztof 24.10
@@ -153,4 +153,3 @@ Legenda:
 
 1. Majewski Sebastian 24.10
 1. Mazur Ewelina 24.10, 7.11
-
