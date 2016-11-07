@@ -111,16 +111,17 @@ Legenda:
 1. [Łąkowski Jakub](https://github.com/kubalakowski)
 1. [Łojkowski Wojciech](https://github.com/wlojkowski/)
 1. [Makiewicz Adam](https://github.com/adammak2342/Ruby)
-1. Mikucka Julianna 24.10
+1. Mazur Ewelina 24.10
+1. [Mikucka Julianna](https://github.com/LadyJuleczka/Ruby) 24.10 
 1. [Narożnik Kacper](https://github.com/knaroznik)
 1. [Novik Aleksandr](https://github.com/AliaksandrN)
-1. Radski, Paweł 7.11
+1. Radski, Paweł
 1. Rumanoski Krzysztof 24.10
-1. [Rutkowski, Mariusz](https://github.com/sweetashne/tar) 7.11
+1. Rutkowski, Mariusz
 1. [Sasin Jacek](https://github.com/jsasin)
 1. [Sędek Szymon](https://github.com/GSun12)
 1. Strójwąs Piotr 24.10
-1. [Tejszerska Aleksandra](https://github.com/atejszerska) 7.11
+1. [Tejszerska Aleksandra](https://github.com/atejszerska)
 1. [Wiśniewski Jakub](https://github.com/jawisniewski)
 1. [Zdybel Patryk](https://github.com/DyuQ) 24.10
 
@@ -152,4 +153,3 @@ Legenda:
 ### Jaka grupa?
 
 1. Majewski Sebastian 24.10
-1. Mazur Ewelina 24.10, 7.11
