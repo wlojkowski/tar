@@ -128,28 +128,28 @@ Legenda:
 ### Grupa 2
 
 1. [Adler Patryk](https://github.com/adlerpoland/Ruby) 24.10
-1. [Banaszek Dawid](https://github.com/dbanaszek/tar-1)
-1. [Byszof Michał](https://github.com/mbyszof/Ruby_2016-2017) 24.10
+1. [Banaszek Dawid](https://github.com/dbanaszek/tar-1) 7.11
 1. [Cabaj Tomasz](https://github.com/tcabaj/Ruby) 24.10
 1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia)
-1. [Dziubiński Maciej](https://github.com/mdziub/ruby.git)
+1. [Dziubiński Maciej](https://github.com/mdziub/ruby.git) 7.11
 1. [Gawin Mateusz](https://github.com/matgawin/ruby-lab)
-1. [Gołuński Radosław](https://github.com/RGolun/Ruby)
+1. [Gołuński Radosław](https://github.com/RGolun/Ruby) 7.11
 1. [Jabłoński Jakub](https://github.com/jakjablonski/rubbb)
 1. [Jędzierowska Magdalena](https://github.com/MagdalenaJedzierowska/TAR_Projekty)
 1. [Kalinowski Damian](https://github.com/lafreak/ruby)
 1. [Katovich Darya](https://github.com/dkotowicz/ruby)
-1. [Kawa Piotr](https://gitlab.com/aurustius/ruby-project.git)
+1. [Kawa Piotr](https://gitlab.com/aurustius/ruby-project) 7.11
 1. [Kicki Maksymilian](https://github.com/mkicki/Ruby)
 1. [Knitter Mateusz](https://github.com/supperbull/RubyMateuszKnitter)
 1. [Lewandowski Rafał](https://github.com/alejafiem/projekty-ruby)
-1. [Osowska Aleksandra] (https://github.com/aosowska/Ruby)
+1. [Osowska Aleksandra] (https://github.com/aosowska/Ruby) 7.11
 1. [Pobłocki Patryk](https://github.com/ppoblocki/tar)
-1. Radomski Artur 24.10
-1. Świstun Szymon
+1. Świstun Szymon 7.11
 
 
 ### Jaka grupa?
 
 1. Majewski Sebastian 24.10
 1. Mazur Ewelina 24.10, 7.11
+1. [Byszof Michał](https://github.com/mbyszof/Ruby_2016-2017) 24.10, 7.11
+1. Radomski Artur 24.10, 7.11
