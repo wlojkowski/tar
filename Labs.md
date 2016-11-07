@@ -105,7 +105,7 @@ Legenda:
 
 ### Grupa 1
 
-1. [Lis Marcin](https://github.com/marcinlis0) 24.10
+1. [Lis Marcin](https://github.com/marcinlis0/Ruby) 24.10
 1. [Lubiejewski Kamil](https://github.com/Lubu909/Ruby-lab)
 1. [Luszuk Paweł](https://github.com/luszukpawel)
 1. [Łąkowski Jakub](https://github.com/kubalakowski)
