@@ -144,7 +144,7 @@ Legenda:
 1. [Lewandowski Rafał](https://github.com/alejafiem/projekty-ruby)
 1. [Osowska Aleksandra] (https://github.com/aosowska/Ruby) 7.11
 1. [Pobłocki Patryk](https://github.com/ppoblocki/tar)
-1. Świstun Szymon 7.11
+1. [Świstun Szymon] (https://gitlab.com/szymonswistun/ruby-project) 7.11
 
 
 ### Jaka grupa?
