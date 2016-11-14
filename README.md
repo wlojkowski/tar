@@ -43,7 +43,9 @@
    - Learn X in Y minutes, where X = Rspec, Capybara, Factory Girl.
 3. Wprowadzenie do RSpec.
 4. Testy jednostkowe.
-5. Testy integracyjne.
+5. [Mostly Static Pages](https://github.com/rails4/mostly_static_pages5) –
+   testowanie kontrolerów i widoków:
+   - [rspec-rails](https://github.com/rspec/rspec-rails).
 6. Refaktoryzacja kodu.
 7. Pokrycie kodu testami:
    - [simplecov][8].
