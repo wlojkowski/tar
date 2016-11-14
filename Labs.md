@@ -121,7 +121,7 @@ Legenda:
 1. [Sędek Szymon](https://github.com/GSun12/ruby)
 1. Strójwąs Piotr 24.10
 1. [Tejszerska Aleksandra](https://github.com/atejszerska) 7.11
-1. [Wiśniewski Jakub](https://github.com/jawisniewski)
+1. [Wiśniewski Jakub](https://github.com/jawisniewski/Heapsort)
 1. [Zdybel Patryk](https://github.com/DyuQ) 24.10
 
 
