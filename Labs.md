@@ -134,6 +134,7 @@ Legenda:
 ### Grupa 2
 
 1. [Adler Patryk](https://github.com/adlerpoland/Ruby) 24.10
+1. [Byszof Michał](https://github.com/mbyszof/Ruby_2016-2017) 24.10, 7.11
 1. [Cabaj Tomasz](https://github.com/tcabaj/Ruby) 24.10
 1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia)
 1. [Gawin Mateusz](https://github.com/matgawin/ruby-lab)
@@ -164,5 +165,4 @@ Legenda:
 
 1. Majewski Sebastian 24.10
 1. Mazur Ewelina 24.10, 7.11
-1. [Byszof Michał](https://github.com/mbyszof/Ruby_2016-2017) 24.10, 7.11
 1. Radomski Artur 24.10, 7.11
