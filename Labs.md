@@ -107,22 +107,22 @@ Legenda:
 
 1. [Lis Marcin](https://github.com/marcinlis0/Ruby) 24.10
 1. [Lubiejewski Kamil](https://github.com/Lubu909/Ruby-lab)
-1. [Luszuk Paweł](https://github.com/luszukpawel/tar-heapsort)
+1. [Luszuk Paweł](https://github.com/luszukpawel/tar-heapsort) 14.11
 1. [Łąkowski Jakub](https://github.com/kubalakowski/projekty-tar)
 1. [Łojkowski Wojciech](https://github.com/wlojkowski/Singly_linked_list_Ruby)
-1. [Makiewicz Adam](https://github.com/adammak2342/Ruby)
+1. [Makiewicz Adam](https://github.com/adammak2342/Ruby) 14.11
 1. [Mikucka Julianna](https://github.com/LadyJuleczka/Ruby) 24.10
 1. [Narożnik Kacper](https://github.com/knaroznik/Ruby_01Trees)
 1. [Novik Aleksandr](https://github.com/AliaksandrN/rubyProjectSpec)
-1. Radski, Paweł 7.11
-1. Rumanoski Krzysztof 24.10
+1. Radski, Paweł 7.11 14.11
+1. Rumanoski Krzysztof 24.10 14.11
 1. [Rutkowski, Mariusz](https://github.com/sweetashne/Ruby-RSpec-Training) 7.11
 1. [Sasin Jacek](https://github.com/jsasin)
 1. [Sędek Szymon](https://github.com/GSun12/ruby)
-1. Strójwąs Piotr 24.10
+1. Strójwąs Piotr 24.10 14.11
 1. [Tejszerska Aleksandra](https://github.com/atejszerska) 7.11
 1. [Wiśniewski Jakub](https://github.com/jawisniewski/Heapsort)
-1. [Zdybel Patryk](https://github.com/DyuQ) 24.10
+1. [Zdybel Patryk](https://github.com/DyuQ) 24.10 14.11
 
 
 ### Grupa 2
