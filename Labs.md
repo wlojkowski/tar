@@ -116,7 +116,7 @@ Legenda:
 1. [Novik Aleksandr](https://github.com/AliaksandrN)
 1. Radski, Paweł 7.11
 1. Rumanoski Krzysztof 24.10
-1. Rutkowski, Mariusz 7.11
+1. [Rutkowski, Mariusz](https://github.com/sweetashne/Ruby-RSpec-Training) 7.11
 1. [Sasin Jacek](https://github.com/jsasin)
 1. [Sędek Szymon](https://github.com/GSun12/ruby)
 1. Strójwąs Piotr 24.10
