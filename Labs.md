@@ -137,7 +137,6 @@ Legenda:
 1. [Banaszek Dawid](https://github.com/dbanaszek/tar-1) 7.11
 1. [Cabaj Tomasz](https://github.com/tcabaj/Ruby) 24.10
 1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia)
-1. [Dziubiński Maciej](https://github.com/mdziub/ruby.git) 7.11
 1. [Gawin Mateusz](https://github.com/matgawin/ruby-lab)
 1. [Gołuński Radosław](https://github.com/RGolun/Ruby) 7.11
 1. [Jabłoński Jakub](https://github.com/jakjablonski/rubbb)
@@ -148,9 +147,13 @@ Legenda:
 1. [Kicki Maksymilian](https://github.com/mkicki/Ruby)
 1. [Knitter Mateusz](https://github.com/supperbull/RubyMateuszKnitter)
 1. [Lewandowski Rafał](https://github.com/alejafiem/projekty-ruby)
-1. [Osowska Aleksandra] (https://github.com/aosowska/Ruby) 7.11
+1. [Osowska Aleksandra](https://github.com/aosowska/Ruby) 7.11
 1. [Pobłocki Patryk](https://github.com/ppoblocki/tar)
-1. [Świstun Szymon] (https://gitlab.com/szymonswistun/ruby-project) 7.11
+
+----
+
+1. [Dziubiński Maciej](https://github.com/mdziub/ruby.git) 7.11 – You appear to have cloned an empty repository
+1. [Świstun Szymon](https://gitlab.com/szymonswistun/ruby-project) 7.11 – Access denied
 
 
 ### Jaka grupa?
