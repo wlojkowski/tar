@@ -108,7 +108,7 @@ Legenda:
 1. [Lis Marcin](https://github.com/marcinlis0/Ruby) 24.10
 1. [Lubiejewski Kamil](https://github.com/Lubu909/Ruby-lab)
 1. [Luszuk Paweł](https://github.com/luszukpawel/tar-heapsort)
-1. [Łąkowski Jakub](https://github.com/kubalakowski)
+1. [Łąkowski Jakub](https://github.com/kubalakowski/projekty-tar)
 1. [Łojkowski Wojciech](https://github.com/wlojkowski/Singly_linked_list_Ruby)
 1. [Makiewicz Adam](https://github.com/adammak2342/Ruby)
 1. [Mikucka Julianna](https://github.com/LadyJuleczka/Ruby) 24.10
