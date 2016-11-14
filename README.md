@@ -42,7 +42,8 @@
 2. Ogólnie o testowaniu:<br>
    - Learn X in Y minutes, where X = Rspec, Capybara, Factory Girl.
 3. Wprowadzenie do RSpec.
-4. Testy jednostkowe.
+4. Testy jednostkowe:
+   - [Ruby](https://github.com/ruby/ruby/tree/trunk/test/ruby) – przykłady w _TestUnit_
 5. [Mostly Static Pages](https://github.com/rails4/mostly_static_pages5) –
    testowanie kontrolerów i widoków:
    - [rspec-rails](https://github.com/rspec/rspec-rails).
