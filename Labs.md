@@ -114,15 +114,18 @@ Legenda:
 1. [Mikucka Julianna](https://github.com/LadyJuleczka/Ruby) 24.10
 1. [Narożnik Kacper](https://github.com/knaroznik/Ruby_01Trees)
 1. [Novik Aleksandr](https://github.com/AliaksandrN/rubyProjectSpec)
-1. Radski, Paweł 7.11 14.11
-1. Rumanoski Krzysztof 24.10 14.11
 1. [Rutkowski, Mariusz](https://github.com/sweetashne/Ruby-RSpec-Training) 7.11
-1. [Sasin Jacek](https://github.com/jsasin)
+1. [Sasin Jacek](https://github.com/jsasin/tar_projekt1)
 1. [Sędek Szymon](https://github.com/GSun12/ruby)
-1. Strójwąs Piotr 24.10 14.11
 1. [Tejszerska Aleksandra](https://github.com/atejszerska/ruby) 7.11
 1. [Wiśniewski Jakub](https://github.com/jawisniewski/Heapsort)
-1. [Zdybel Patryk](https://github.com/DyuQ) 24.10 14.11
+
+----
+
+1. Radski, Paweł 7.11 14.11
+1. Rumanoski Krzysztof 24.10 14.11
+1. Strójwąs Piotr 24.10 14.11
+1. [Zdybel Patryk](https://github.com/DyuQ) 24.10 14.11 – dopisać link do repozytorium
 
 
 ### Grupa 2
