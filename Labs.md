@@ -147,6 +147,7 @@ Legenda:
 1. [Knitter Mateusz](https://github.com/supperbull/RubyMateuszKnitter)
 1. [Lewandowski Rafał](https://github.com/alejafiem/projekty-ruby)
 1. [Pobłocki Patryk](https://github.com/ppoblocki/tar)
+1. [Radomski Artur](https://github.com/arturadom/Ruby-projekt-1)
 
 ----
 
@@ -165,4 +166,4 @@ Legenda:
 
 1. Majewski Sebastian 24.10
 1. Mazur Ewelina 24.10, 7.11
-1. Radomski Artur 24.10, 7.11
+
