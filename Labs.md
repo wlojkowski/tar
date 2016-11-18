@@ -148,11 +148,11 @@ Legenda:
 1. [Lewandowski Rafał](https://github.com/alejafiem/projekty-ruby)
 1. [Pobłocki Patryk](https://github.com/ppoblocki/tar)
 1. [Radomski Artur](https://github.com/arturadom/Ruby-projekt-1) 24.10, 7.11
+1. [Świstun Szymon](https://gitlab.com/szymonswistun/ruby-project) 7.11
 
 ----
 
 1. [Dziubiński Maciej](https://github.com/mdziub/ruby.git) 7.11 – You appear to have cloned an empty repository
-1. [Świstun Szymon](https://gitlab.com/szymonswistun/ruby-project) 7.11 – Access denied
 
 ----
 
