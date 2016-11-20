@@ -13,3 +13,4 @@ Pozostałe przykłady:
 ## Dokumentacja
 
 * [RSpec Mocks](https://github.com/rspec/rspec-mocks)
+* [Better Specs](http://betterspecs.org)
