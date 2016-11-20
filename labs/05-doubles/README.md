@@ -8,6 +8,10 @@ Następnie, dla przypomnienia, przerabiamy przykład z:
 
 * [Get Started](https://github.com/rspec/rspec-core#get-started)
 
+Co to są test doubles:
+
+* [Test Doubles](https://github.com/rspec/rspec-mocks#test-doubles)
+
 Dopiero teraz analizujemy te dwa przykłady:
 
 1. _double_spec.rb_:
