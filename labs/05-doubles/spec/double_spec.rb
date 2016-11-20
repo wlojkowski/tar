@@ -1,6 +1,6 @@
 require 'book'
 
-RSpec.describe 'Library' do
+RSpec.describe 'An example of double/stub/mock' do
   it 'RSpec book has 250 pages' do
     book = instance_double('Book', :rspec_book, pages: 250)
     # puts book.inspect
