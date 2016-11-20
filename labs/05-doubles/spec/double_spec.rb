@@ -1,6 +1,8 @@
 # require 'book'
 
-RSpec.describe 'An example of double/stub/mock' do
+# https://github.com/rspec/rspec-mocks#test-doubles
+
+RSpec.describe 'An example of verifying double' do
   it 'RSpec book has 250 pages' do
     book = instance_double('Book', :rspec_book, pages: 250)
     # puts book.inspect
