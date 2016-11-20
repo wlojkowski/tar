@@ -1,4 +1,4 @@
-require 'book'
+# require 'book'
 
 RSpec.describe 'An example of double/stub/mock' do
   it 'RSpec book has 250 pages' do
