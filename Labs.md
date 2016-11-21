@@ -51,13 +51,14 @@ Można się wzorować na tych ściągawkach:
   [The Simple Yet Powerful Ruby Enumerable Module](https://blog.codeship.com/the-enumerable-module/)
 
 
+<!--
 ### Zadanie 1. [Piszemy testy do własnego kodu]
 
 Wiele ciekawych zadań programistycznych można znaleźć w [Google Interview University](https://github.com/jwasham/google-interview-university)  zwłaszcza w sekcji z [Data Structures](https://github.com/jwasham/google-interview-university#data-structures).
 
 Jak pisać i dodawać testy można podejrzeć tutaj:
 [03-rspec](labs/03-rspec/)  [04-write_tests](labs/04-write_tests/).
-
+-->
 
 <!--
 ### 3. Doubles  mocks & stubs
@@ -108,5 +109,3 @@ Legenda:
 
 
 ### Grupa 2
-
-
