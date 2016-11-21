@@ -2,10 +2,10 @@
 
 Terminy rozliczania się z zadań i projektu na egzamin:
 
-| Zadanie | Opis       | Ostateczny termin |
-|--------:|----------- |------------------:|
-| 1       | zaliczenie | 13.11.2016        |
-| 2       | egzamin    | 08.01.2017        |
+| Zadanie | Opis       | Ostateczny termin | Poprawka   |
+|--------:|----------- |------------------:| ----------:|
+| 1       | zaliczenie | 13.11.2016        | 12.12.2016 |
+| 2       | egzamin    | 08.01.2017        |            |
 
 Rozwiązania zadań umieszczamy w repozytorium. Oto przykładowe repozytorium
 [Szablon repozytorium dla Ruby+RSpec](https://github.com/egzamin/solutions-tar).
@@ -105,65 +105,8 @@ Legenda:
 
 ### Grupa 1
 
-1. [Lis Marcin](https://github.com/marcinlis0/Ruby) 24.10
-1. [Lubiejewski Kamil](https://github.com/Lubu909/Ruby-lab)
-1. [Luszuk Paweł](https://github.com/luszukpawel/tar-heapsort) 14.11
-1. [Łąkowski Jakub](https://github.com/kubalakowski/projekty-tar)
-1. [Łojkowski Wojciech](https://github.com/wlojkowski/Singly_linked_list_Ruby)
-1. [Makiewicz Adam](https://github.com/adammak2342/Ruby) 14.11
-1. [Mikucka Julianna](https://github.com/LadyJuleczka/Ruby) 24.10
-1. [Narożnik Kacper](https://github.com/knaroznik/Ruby_01Trees)
-1. [Sasin Jacek](https://github.com/jsasin/tar_projekt1)
-1. [Sędek Szymon](https://github.com/GSun12/ruby)
-1. [Tejszerska Aleksandra](https://github.com/atejszerska/ruby) 7.11
-1. [Wiśniewski Jakub](https://github.com/jawisniewski/Heapsort)
-
-----
-
-1. Radski, Paweł 7.11 14.11
-1. Rumanoski Krzysztof 24.10 14.11
-1. Strójwąs Piotr 24.10 14.11
-1. [Zdybel Patryk](https://github.com/DyuQ) 24.10 14.11 – dopisać link do repozytorium
-
-----
-
-1. [Novik Aleksandr](https://github.com/AliaksandrN/rubyProjectSpec)
-1. [Rutkowski, Mariusz](https://github.com/sweetashne/Ruby-RSpec-Training) 7.11
 
 
 ### Grupa 2
 
-1. [Adler Patryk](https://github.com/adlerpoland/Ruby) 24.10
-1. [Byszof Michał](https://github.com/mbyszof/Ruby_2016-2017) 24.10, 7.11
-1. [Cabaj Tomasz](https://github.com/tcabaj/Ruby) 24.10
-1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia)
-1. [Gawin Mateusz](https://github.com/matgawin/ruby-lab)
-1. [Gołuński Radosław](https://github.com/RGolun/Ruby) 7.11
-1. [Jabłoński Jakub](https://github.com/jakjablonski/rubbb)
-1. [Jędzierowska Magdalena](https://github.com/MagdalenaJedzierowska/TAR_Projekty)
-1. [Kalinowski Damian](https://github.com/lafreak/ruby)
-1. [Katovich Darya](https://github.com/dkotowicz/ruby)
-1. [Kawa Piotr](https://gitlab.com/aurustius/ruby-project) 7.11
-1. [Knitter Mateusz](https://github.com/supperbull/RubyMateuszKnitter)
-1. [Lewandowski Rafał](https://github.com/alejafiem/projekty-ruby)
-1. [Pobłocki Patryk](https://github.com/ppoblocki/tar)
-1. [Radomski Artur](https://github.com/arturadom/Ruby-projekt-1) 24.10, 7.11
-1. [Świstun Szymon](https://gitlab.com/szymonswistun/ruby-project) 7.11
-
-----
-
-1. [Dziubiński Maciej](https://github.com/mdziub/ruby.git) 7.11 – You appear to have cloned an empty repository
-
-----
-
-1. [Banaszek Dawid](https://github.com/dbanaszek/tar-1) 7.11 – `require_relative`: cannot load such file;
-  nie wpisany w Portalu Pracownika
-1. [Kicki Maksymilian](https://github.com/mkicki/Ruby)
-1. [Osowska Aleksandra](https://github.com/aosowska/Ruby) 7.11
-
-
-### Jaka grupa?
-
-1. Majewski Sebastian 24.10
-1. Mazur Ewelina 24.10, 7.11
 
