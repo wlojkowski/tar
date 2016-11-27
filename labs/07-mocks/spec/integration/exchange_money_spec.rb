@@ -1,5 +1,7 @@
 require 'spec_helper'
 
+require 'exchange'
+
 describe 'Exchange money' do
   let(:m) { 10 }
   subject { Exchange.new(m, 'PLN').call }

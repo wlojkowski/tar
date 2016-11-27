@@ -1,4 +1,4 @@
-require_relative '../lib/report'
+# require_relative '../lib/report'
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|

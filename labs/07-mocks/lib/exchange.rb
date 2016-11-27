@@ -1,5 +1,7 @@
 require 'csv'
 
+require 'money'
+
 class Exchange
   attr_reader :currency
 

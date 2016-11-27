@@ -1,5 +1,7 @@
 require 'spec_helper'
 
+require 'report'
+
 describe 'Sending report' do
   it '' do
     mail = double('Mail')

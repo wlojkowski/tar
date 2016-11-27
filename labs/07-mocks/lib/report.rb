@@ -1,6 +1,4 @@
-require_relative 'order'
-require_relative 'exchange'
-require_relative 'mail'
+require 'mail'
 
 class Report
   attr_reader :orders
