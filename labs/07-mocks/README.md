@@ -60,4 +60,4 @@ Money.sum [pl, us, pl]
 ### Unit tests
 
 * _money_spec.rb_ – `let`, `subject`
-* _oreder_spec.rb_
+* _order_spec.rb_
