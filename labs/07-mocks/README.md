@@ -9,6 +9,9 @@ spec/
 └── unit
     ├── money_spec.rb
     └── order_spec.rb
+
+bundle exec rspec
+bundle exec rspec -fd
 ```
 
 Check `LOAD_PATH` on the command line:
