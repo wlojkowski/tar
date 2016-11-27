@@ -1,5 +1,4 @@
-require_relative '../../lib/order'
-require_relative '../../lib/extend_enumerable'
+require 'order'
 
 describe Order do
   let(:full_name) { 'FOO' }

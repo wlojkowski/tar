@@ -1,3 +1,5 @@
+require 'extend_enumerable'
+
 class Money
   attr_reader :value, :currency
 

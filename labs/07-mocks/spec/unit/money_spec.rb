@@ -1,5 +1,4 @@
-require_relative '../../lib/extend_enumerable'
-require_relative '../../lib/money'
+require 'money'
 
 describe Money do
   it 'be initialized with two arguments' do

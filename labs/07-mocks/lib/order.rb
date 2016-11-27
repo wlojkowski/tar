@@ -1,4 +1,5 @@
-require_relative 'product'
+require 'product'
+require 'extend_enumerable'
 
 class Order
   attr_accessor :full_name, :date, :products
