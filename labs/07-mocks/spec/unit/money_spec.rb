@@ -119,6 +119,9 @@ describe Money do
     context 'for money with positive value' do
       subject { Money.new('12.34', 'EUR') }
 
+      # super -> http://rspec.info/blog/2013/02/rspec-2-13-is-released/
+      # allows to override a let or subject declaration in a nested group
+      # while delegating to the original definition from the parent group
       describe '#positive?' do
         subject { super().positive? }
         it { is_expected.to be_truthy }
