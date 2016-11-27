@@ -11,7 +11,6 @@ spec/
     └── order_spec.rb
 
 bundle exec rspec
-bundle exec rspec -fd
 ```
 
 Check `LOAD_PATH` on the command line:
@@ -38,6 +37,12 @@ Currencies from _exchange_rate.csv_:
 
 
 ### Explore _money.rb_ and _order.rb_ in _irb_
+
+```sh
+bundle exec rspec -fd spec/unit
+```
+
+Ruby console _irb_:
 
 ```ruby
 $LOAD_PATH.unshift File.join(__dir__, 'lib')
