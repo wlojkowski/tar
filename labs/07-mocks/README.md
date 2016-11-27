@@ -28,8 +28,6 @@ Add _lib_ directory to Ruby `LOAD_PATH`:
 $LOAD_PATH.unshift File.join(__dir__, 'lib')
 ```
 
-### Explore _money.rb_ in _irb_
-
 Currencies from _exchange_rate.csv_:
 
 | Currency | Exchange Rate |
@@ -37,6 +35,9 @@ Currencies from _exchange_rate.csv_:
 | EUR      | 1.00          |
 | PLN      | 4.42          |
 | USD      | 4.18          |
+
+
+### Explore _money.rb_ and _order.rb_ in _irb_
 
 ```ruby
 $LOAD_PATH.unshift File.join(__dir__, 'lib')
