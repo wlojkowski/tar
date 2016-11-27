@@ -16,7 +16,7 @@ describe Money do
       expect(Money.new('123.45', 'EUR').value).to eq(123.45)
     end
 
-    it 'allow for negativ numbers' do
+    it 'allow for negative numbers' do
       expect(Money.new(-123.45, 'EUR').value).to eq(-123.45)
     end
   end
