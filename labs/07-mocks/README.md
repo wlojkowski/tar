@@ -60,4 +60,14 @@ Money.sum [pl, us, pl]
 ### Unit tests
 
 * _money_spec.rb_ – `let`, `subject`
-* _order_spec.rb_
+* _order_spec.rb_ – more examples of `let` and `subject`
+
+```ruby
+$LOAD_PATH.unshift File.join(__dir__, 'lib')
+require 'money'
+require 'order'
+
+pl = Money.new 10, 'PLN'
+order = Order.new 'FOO', '2016-11-28', [pl, pl * 4]
+order.total_amount
+```

@@ -2,9 +2,10 @@ require 'order'
 
 describe Order do
   let(:full_name) { 'FOO' }
-  let(:date) { Date.new.to_s }
+  let(:date) { '2016-11-27T00:00:00+01:00' }
 
   context '#products' do
+    # lazy evaluation of product
     subject { Order.new(full_name, date, products).products }
     context 'without products' do
       let(:products) { [] }
@@ -40,8 +41,16 @@ describe Order do
       let(:product2) { instance_double('Product', price: money) }
       let(:products) { [product1, product2] }
 
-      xit 'returns sum of product prices' do
+      let(:money3) { instance_double('Money', value: 10, currency: 'PLN') }
+      let(:order) { Order.new(full_name, date, [money3, money3]) }
+
+      it 'returns total amount' do
+        expect(order.total_amount).to eq 20
       end
+
+      # TODO: use products instead of monies
+      # xit 'returns sum of product prices' do
+      # end
     end
   end
 end
