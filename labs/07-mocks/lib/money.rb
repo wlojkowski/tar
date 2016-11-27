@@ -7,16 +7,17 @@ class Money
   end
 
   def to_s
-    "%.2f %s" % [value, currency]
+    format('%.2f %s', value, currency)
   end
 
-  def *(num)
-    Money.new(value * num, currency)
+  def *(other)
+    Money.new(value * other, currency)
   end
 
   def +(other)
     if other.currency != currency
-      raise ArgumentError.new("Can't add monies due to different currency: #{other.inspect} and #{self.inspect}.")
+      raise ArgumentError,
+            "Can't add monies due to different currency: #{other.inspect} and #{inspect}."
     end
 
     Money.new(value + other.value, currency)
@@ -24,7 +25,8 @@ class Money
 
   def -(other)
     if other.currency != currency
-      raise ArgumentError.new("Can't substract monies due to different currency: #{other.inspect} and #{self.inspect}.")
+      raise ArgumentError,
+            "Can't substract monies due to different currency: #{other.inspect} and #{inspect}."
     end
     Money.new(value - other.value, @currency)
   end
